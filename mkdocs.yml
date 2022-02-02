@@ -1,0 +1,19 @@
+site_name: Tembici
+theme:
+  name: material
+  palette:
+    primary: pink
+    accent: indigo
+  favicon: assets/tembiciFavIcon.ico
+  logo: assets/tembiciAlt.png
+  features:
+    - navigation.tabs
+extra:
+  homepage: https://www.tembici.com.br
+
+nav: 
+  - Início: ./index.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
