@@ -13,6 +13,7 @@ extra:
 
 nav: 
   - Início: ./index.md
+  - Planejamento: ./planejamento.md
 
 markdown_extensions:
   - attr_list
