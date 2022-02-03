@@ -1,7 +1,7 @@
 # Tembici
 
 <div align="center" >
-    <img src="./docs/assets/tembiciAlt.png" aalt="Tembici logo" width="400" style="border-radius:50px">
+    <img src="./docs/assets/tembiciAlt.png" alt="Tembici logo" width="400" style="border-radius:50px">
 </div>
 
 ## 1. Sobre
