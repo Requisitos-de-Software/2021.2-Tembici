@@ -1,11 +1,9 @@
-# OLX
+# Tembici
 
 <div align="center">
-    <img src="https://portal.olx.com.br/wp-content/uploads/2020/07/logo.png" width="400">
+    <img src="./docs/assets/tembiciAlt.png" width="400">
 </div>
 
 ## 1. Sobre
 
-Este repositório é destinado ao estudo da matéria de Requisitos de Software, na Universidade de Brasília (UnB), no semestre 2021/2, tendo como tema a OLX.
-
-
+O Tembici é um aplicativo móbile desenvolvido  visando facilitar a mobilidade urbana. O serviço base do aplicativo é o aluguel de bicicletas para a locomoção na cidade,  sendo utilizado como objetivo de estudo visando a aplicação conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de qualidade de vida da comunidade.
