@@ -6,4 +6,4 @@
 
 
 # Rich Picture 1.0
-![Rich Picture v1](./assets/pre-rastreabilidade/richPictureV1.jpg){width="500"}
+![Rich Picture v1](./assets/pre-rastreabilidade/richPictureV1.jpg){width="1000"}

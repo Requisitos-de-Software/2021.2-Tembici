@@ -14,16 +14,16 @@ A etapa de planejamento consiste em preparar, organizar e estruturar o projeto. 
 
 ||Ferramenta|Finalidade|
 |:-:|:-:|-|
-| <img src="./assets/planejamento/logos/gitHub.png" width="50px" /> | Github | Versionamento do projeto. |
-| <img src="./assets/planejamento/logos/telegram.png" width="50px" /> | Telegram | Comunicação por texto entre os integrantes. |
-| <img src="./assets/planejamento/logos/googleMeets.png" width="50px" /> | Google Meats | Reunião e da equipe. |
-| <img src="./assets/planejamento/logos/googleForms.png" width="50px" /> | Google Forms | Elicitar requisitos. |
-| <img src="./assets/planejamento/logos/googleSheets.png" width="50px" /> | Google Sheets | Analisar horários que o time estará disponível. |
-| <img src="./assets/planejamento/logos/miro.png" width="50px" /> | Miro | Criação de diagramas e kanban da entrega dos artefatos. |
-| <img src="./assets/planejamento/logos/vscode.png" width="50px" /> | Visual Studio Code | Ferramenta usada ara edição dos documentos. |
-| <img src="./assets/tembiciAlt.png" width="50px" /> | Tembici App | Tema a ser analisado. |
+| ![Github](./assets/planejamento/logos/gitHub.png){width="50"}| Github | Versionamento do projeto. |
+| ![Telegram](./assets/planejamento/logos/telegram.png){width="50"}|  | Telegram | Comunicação por texto entre os integrantes. |
+| ![Meets](./assets/planejamento/logos/googleMeets.png){width="50"} | Google Meets | Reunião e da equipe. |
+| ![Forms](./assets/planejamento/logos/googleForms.png){width="50"}| Google Forms | Elicitar requisitos. |
+| ![Sheets](./assets/planejamento/logos/googleSheets.png){width="50"}| Google Sheets | Analisar horários que o time estará disponível. |
+| ![Miro](./assets/planejamento/logos/miro.png){width="50"}| Miro | Criação de diagramas e kanban da entrega dos artefatos. |
+| ![Vscode](./assets/planejamento/logos/vscode.png){width="50"}| Visual Studio Code | Ferramenta usada ara edição dos documentos. |
+| ![Tembici](./assets/tembiciAlt.png){width="50"}| Tembici App | Tema a ser analisado. |
 <h6 align = "center">Tabela 2: Tabela contendo as ferramentas utilizadas no projeto</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
 # Cronograma
-![Cronograma](./assets/planejamento/cronograma.jpg){width="500"}
+![Cronograma](./assets/planejamento/cronograma.jpg){width="1000"}
