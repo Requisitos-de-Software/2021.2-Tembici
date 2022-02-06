@@ -13,6 +13,7 @@ extra:
 
 nav: 
   - Início: ./index.md
+  - Apresentações: ./apresentacoes.md
   - Planejamento: ./planejamento.md
   - Pré-Rastreabilidade: ./pre-rastreabilidade.md
 

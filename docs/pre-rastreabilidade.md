@@ -2,7 +2,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 04/02 | Criação da Rich Picture 1.0 | João Victor Batista |
+| 1.0 | 04/02 | <center> Criação da Rich Picture 1.0 <center> | <center> João Victor Batista <center>|
 
 
 # Rich Picture 1.0
