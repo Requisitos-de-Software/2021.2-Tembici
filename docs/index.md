@@ -8,6 +8,12 @@ Repositório da disciplina de Requisitos de Software 2021.2 realizado sobre a ap
 
 O Tembici é um aplicativo móbile desenvolvido  visando facilitar a mobilidade urbana. O serviço base do aplicativo é o aluguel de bicicletas para a locomoção na cidade,  sendo utilizado como objetivo de estudo visando a aplicação conteúdo ministrado na disciplina de Requisitos de Software. A escolha do aplicativo, dentre outros fatores, foi devido ao seu enfoque na melhoria de qualidade de vida da comunidade.
 
+## Tembici em outros repositórios
+
+Até o dia de hoje, 8 de fevereiro de 2020, não existem repositórios públicos que visam documentar o aplicativo Tembici. Por enquanto, todos os respositórios existentes relacionados a aplicação são desafios de implementação de funcionalidades no back-end, ou criação de clones da plataforma pelo front-end ou, então, por fim com o intuito de divulgar vagas para desenvolvedores.
+
+Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no qual a nossa equipe conseguiria se basear ou retirar informações que possam prejudicar a aplicação do aprendizado da disciplina.
+
 ## Equipe
 
 | Foto                                                  | Nome                   | Email                            | GitHub                                              |

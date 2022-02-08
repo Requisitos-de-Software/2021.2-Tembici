@@ -2,7 +2,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 02/02 | Criação do planejamento de trabalho | Todos os integrantes |
+| 1.0 | 02/02 | Criação do planejamento de trabalho | Gabriel Sabanai Trindade |
 |1.1| 04/02 |<center>Adição das ferramentas do projeto</center>|<center>Paulo Henrique</center>|
 |1.2| 04/02 |<center>Adição do cronograma do projeto</center>|<center>João Victor Batista</center>|
 
