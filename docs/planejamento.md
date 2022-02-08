@@ -2,7 +2,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-|1.0| 02/02 |<center>Criação do planejamento de trabalho</center>|<center>Gabriel, João, Lívia, Luiz, Paulo, Victor</center>|
+|1.0| 02/02 |<center>Criação do planejamento de trabalho</center>|<center>Gabriel, João Victor, Lívia, Luiz Henrique, Paulo Henrique, Victor Eduardo</center>|
 |1.1| 04/02 |<center>Adição das ferramentas do projeto</center>|<center>Paulo Henrique</center>|
 |1.2| 04/02 |<center>Adição do cronograma do projeto</center>|<center>João Victor Batista</center>|
 |1.3| 08/02 |<center>Adição das metodologias usadas</center>|<center>Luiz Henrique, Victor Eduardo</center>|
