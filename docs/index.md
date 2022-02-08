@@ -1,5 +1,5 @@
 # Início
-
+*Tembici logo*
 ![Image title](./assets/tembici.svg){ width="300" }
 
 Repositório da disciplina de Requisitos de Software 2021.2 realizado sobre a aplicação Tembici. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação mobile do Tembici.

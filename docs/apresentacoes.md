@@ -3,6 +3,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
 | 1.0 | 06/02 | <center> Adição da primeira apresentação 1.0 <center> | <center> Luiz Henrique Fernandes Zamprogno <center> |
+*Tabela versionamento*
 
 # Apresentações
 
@@ -11,3 +12,4 @@ Nesse documento está armazenado as apresentações dos pontos de controle, que 
 ## Apresentação - Ponto de controle 1
 
 [![Apresentação 1](./assets/apresentacoes/AP1.png)](https://youtu.be/8ssdPAHgU4U)
+*Apresentação 1 thumbnail*
