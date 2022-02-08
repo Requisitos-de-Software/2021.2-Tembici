@@ -2,7 +2,7 @@
 
 |Versão|Data|Descrição|Autor(es)|
 |------|----|---------|---------|
-|1.0|08/02|<center>Adição das ferramentas do projeto</center>|<center>Paulo Henrique</center>|
+|1.0|08/02|<center>Adição da política de contribuição</center>|<center>Paulo Henrique</center>|
 
 ### 1.1 Políticas de Branch
 
