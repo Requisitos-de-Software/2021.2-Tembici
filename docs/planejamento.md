@@ -1,4 +1,4 @@
-# Versionamento
+## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
@@ -7,11 +7,11 @@
 |1.2| 04/02 |<center>Adição do cronograma do projeto</center>|<center>João Victor Batista</center>|
 *Tabela versionamento*
 
-# Introdução 
+## Introdução 
 
 A etapa de planejamento consiste em preparar, organizar e estruturar o projeto. É essencial para que decisões importantes sejam tomadas e com que as tarefas sejam executadas com excelência. Assim sendo, a etapa de planejamento serve, principalmente, para auxiliar a equipe na organização de suas tarefas e durante as decisões importantes que vão ter que ser executadas ao longo do projeto, seguindo as datas que foram definidas.
 
-# Ferramentas utilizadas
+## Ferramentas utilizadas
 
 ||Ferramenta|Finalidade|
 |:-:|:-:|-|
@@ -35,14 +35,16 @@ A etapa de planejamento consiste em preparar, organizar e estruturar o projeto. 
 | Ferramentas | 31/01 - 07/02 |  Paulo Henrique |
 | Rich Picture | 31/01 - 07/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Revisar e preparar apresentação 1 | 24/01 - 31/01 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Elicitação de Requisitos | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Técnicas | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Definição de personas | 07/02 - 14/02 | João Victor Batista, Lívia Rodrigues |
+| Brainstorm | 07/02 - 14/02 | Gabriel Sabanai, Luiz Henrique |
+| Questionário | 07/02 - 14/02 | Paulo Henrique, Victor Eduardo |
+| Definição de técnicas | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Priorização | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Revisar artefatos e preparar apresentação 2 | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Elicitação de Requisitos | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Cenários | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Léxicos | 07/02 - 14/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Use Case | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Cenários | 07/02 - 14/02 | Gabriel Sabanai, João Victor Batista |
+| Léxicos | 07/02 - 14/02 | Paulo Henrique, Luiz Henrique |
+| Modelagem | 14/02 - 21/02 |  Victor Eduardo, Lívia Rodrigues |
 | Especificação suplementar | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Revisar artefatos e preparar apresentação 3 | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Backlog | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
