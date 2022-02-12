@@ -2,8 +2,9 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-|1.0| 12/02 |Questionários|<center>Victor Eduardo</center>|
-*Tabela versionamento*
+| 1.0 | 12/02 | Criação da seção Questionário e template | Victor Eduardo |
+
+Tabela 1: Versionamento
 
 # Questionário
 ## Introdução
@@ -39,3 +40,6 @@
 ### Requisitos Não Funcionais
 | Código | Descrição | Prioridade |
 |--|--|--|
+
+## Referências Bibliográficas
+- 
