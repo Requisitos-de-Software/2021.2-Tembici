@@ -39,8 +39,8 @@
 <p>&emsp;&emsp;Feito através da iniciativa privada de dois sócios, com rodadas de investimentos para bancar o projeto que é feito através da implantação de estações que possuem bicicletas disponíveis aos usuários do app.</p>
 
 ### How much: Quanto?
-<p>&emsp;&emsp;Não há informações suficientes para inferir dados exatos. Mas em 2014 a empresa passava por uma situação financeira frágil até que o banco Itaú fechou um projeto com a empresa e serviu como o respiro que precisavam. Desde então a empresa obteve outras rodadas de investimentos, algumas até milionárias.<p>
-  
+<p>&emsp;&emsp;Não há informações suficientes para inferir dados exatos. Mas em 2014 a empresa passava por uma situação financeira frágil até que o banco Itaú fechou um projeto com a empresa e serviu como o respiro que precisavam. Desde então a empresa obteve outras rodadas de investimentos, algumas até milionárias.</p>
+
 *Relação das respostas 5W2H*
 
 # Referências
