@@ -13,7 +13,7 @@
 *Rich Picture 1.0 img*
 
 # 5W2H
-<p align="justify">&emsp;&emsp;<strong>O 5W2H é uma ferramenta que permite melhor gestão do projeto, com o principal intuito de esclarecer as principais dúvidas em relação ao projeto a partir de um checklist de atividades específicas que posteriormente deverão ser desenvolvidas. As perguntas a serem respondidas são: What (o que será feito ?) - Why (Por que será feito ?) - When (Quando será feito ? ) - Who (Por quem será feito) - How (Como será feito ?) - How much (quanto vai custar ?). E após coletar as informações sobre esse questionário terá um mapa de atividades que permitirão passos precisos e ordenados para desenvolver o projeto.  
+<p align="justify">&emsp;&emsp;O 5W2H é uma ferramenta que permite melhor gestão do projeto, com o principal intuito de esclarecer as principais dúvidas em relação ao projeto a partir de um checklist de atividades específicas que posteriormente deverão ser desenvolvidas. As perguntas a serem respondidas são: What (o que será feito ?) - Why (Por que será feito ?) - When (Quando será feito ? ) - Who (Por quem será feito) - How (Como será feito ?) - How much (quanto vai custar ?). E após coletar as informações sobre esse questionário terá um mapa de atividades que permitirão passos precisos e ordenados para desenvolver o projeto.  
 
 <strong>What: O que?<strong/>  
 <p align="justify">&emsp;&emsp;Um aplicativo será destinado a facilitação da mobilidade urbana através do aluguel e empréstimo de bicicletas em pontos estratégicos da cidade. 
