@@ -24,8 +24,9 @@
 | Who: Por quem será feito? | Foi construído pela equipe de desenvolvimento da empresa Tembici, fundada por Maurício Villar e Tomás Martins |
 | How: Como foi feito? | Feito através da iniciativa privada de dois sócios, com rodadas de investimentos para bancar o projeto que é feito através da implantação de estações que possuem bicicletas disponíveis aos usuários do app |
 | How much: Quanto? | Não há informações suficientes para inferir dados exatos. Mas em 2014 a empresa passava por uma situação financeira frágil até que o banco Itaú fechou um projeto com a empresa e serviu como o respiro que precisavam. Desde então a empresa obteve outras rodadas de investimentos, algumas até milionárias |
-*Tabela 5W2H 1.0 img*  
-  
+
+*Tabela 5W2H 1.0 img*
+
 ## Referências
 <p align="justify">&emsp;&emsp;5w2h: hora de tirar as dúvidas e aumentar produtividade. Disponível em: https://endeavor.org.br/pessoas/5w2h/. Acesso em: 16 de fevereiro de 2022.
 <p align="justify">&emsp;&emsp;App tembici: sobre nós. Disponível em: https://www.tembici.com.br/sobre-nos/. Acesso em: 16 de fevereiro de 2022. 
