@@ -18,13 +18,13 @@
 
 | Pergunta | Resposta |
 | :-------: | :------- |
-| What: O que? |Um aplicativo será destinado a facilitação da mobilidade urbana através do aluguel e empréstimo de bicicletas em pontos estratégicos da cidade|
-| Why: Porque está sendo feito? |Para que os usuários consigam ter hábitos mais saudáveis, já que com o uso das bicicletas disponibilizadas no app esse consegue se locomover para onde precisa, ou deseja, se exercitando no processo. Além disso, o app possibilita uma redução da poluição uma vez que quando um usuário migre do uso de veículos emissores de CO2 para o uso de bicicletas, a emissão de CO2 irá diminuir|
-| Where: Onde? |Em postos de aluguel de bicicletas distribuídos de maneira estratégica em cidades pelo Brasil e pelo mundo: São Paulo, Rio de Janeiro, Salvador, Pernambuco, Porto Alegre, Santiago, Buenos Aires, Brasília, Vila Velha, Riviera|
-| When: Quando? |Começou a ganhar popularidade a partir de 2014, porém o app foi criado em 2010. Ultimamente o app está ganhando mais popularidade por carregar a bandeira de propiciar um meio de locomoção sustentável|
-| Who: Por quem será feito? |Foi construído pela equipe de desenvolvimento da empresa Tembici, fundada por Maurício Villar e Tomás Martins|
-| How: Como foi feito? |Feito através da iniciativa privada de dois sócios, com rodadas de investimentos para bancar o projeto que é feito através da implantação de estações que possuem bicicletas disponíveis aos usuários do app|
-| How much: Quanto? |Não há informações suficientes para inferir dados exatos. Mas em 2014 a empresa passava por uma situação financeira frágil até que o banco Itaú fechou um projeto com a empresa e serviu como o respiro que precisavam. Desde então a empresa obteve outras rodadas de investimentos, algumas até milionárias|
+| What: O que? | Um aplicativo será destinado a facilitação da mobilidade urbana através do aluguel e empréstimo de bicicletas em pontos estratégicos da cidade |
+| Why: Porque está sendo feito? | Para que os usuários consigam ter hábitos mais saudáveis, já que com o uso das bicicletas disponibilizadas no app esse consegue se locomover para onde precisa, ou deseja, se exercitando no processo. Além disso, o app possibilita uma redução da poluição uma vez que quando um usuário migre do uso de veículos emissores de CO2 para o uso de bicicletas, a emissão de CO2 irá diminuir |
+| Where: Onde? | Em postos de aluguel de bicicletas distribuídos de maneira estratégica em cidades pelo Brasil e pelo mundo: São Paulo, Rio de Janeiro, Salvador, Pernambuco, Porto Alegre, Santiago, Buenos Aires, Brasília, Vila Velha, Riviera |
+| When: Quando? | Começou a ganhar popularidade a partir de 2014, porém o app foi criado em 2010. Ultimamente o app está ganhando mais popularidade por carregar a bandeira de propiciar um meio de locomoção sustentável |
+| Who: Por quem será feito? | Foi construído pela equipe de desenvolvimento da empresa Tembici, fundada por Maurício Villar e Tomás Martins |
+| How: Como foi feito? | Feito através da iniciativa privada de dois sócios, com rodadas de investimentos para bancar o projeto que é feito através da implantação de estações que possuem bicicletas disponíveis aos usuários do app |
+| How much: Quanto? | Não há informações suficientes para inferir dados exatos. Mas em 2014 a empresa passava por uma situação financeira frágil até que o banco Itaú fechou um projeto com a empresa e serviu como o respiro que precisavam. Desde então a empresa obteve outras rodadas de investimentos, algumas até milionárias |
 
 *Tabela 5W2H 1.0 img*
 
