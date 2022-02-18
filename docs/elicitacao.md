@@ -1,7 +1,7 @@
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
-|:-:|:-:|-|:-:|
+|-|-|:-:|:-:|
 | 1.0 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
 | 1.1 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
 | 1.2 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
@@ -75,4 +75,4 @@
 *Tabela 2: Requisitos*
 
 ## Referências Bibliográficas
-- 
+<p>&emsp;&emsp; . Disponível em:  . Acesso em: 18 de fevereiro de 2022. 
