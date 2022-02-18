@@ -39,7 +39,7 @@
 *Tabela 5W2H*
 
 ## Referências 
-<p>&emsp;&emsp;5w2h: hora de tirar as dúvidas e aumentar produtividade. Disponível em: https://endeavor.org.br/pessoas/5w2h/. Acesso em: 16 de fevereiro de 2022.
-<p>&emsp;&emsp;App tembici: sobre nós. Disponível em: https://www.tembici.com.br/sobre-nos/. Acesso em: 16 de fevereiro de 2022. 
-<p>&emsp;&emsp;Tembici: o sonho de popularizar a bicicleta como meio de transporte no mundo todo. Disponível em: https://endeavor.org.br/historia-de-empreendedores/tembici/. Acesso em: 16 de fevereiro de 2022.
-<p>&emsp;&emsp;Wiki - Engenharia de Requisitos do Trello. Disponível em: https://requisitos-trello.github.io/rich%20pictures.html. Acesso em: 18 de fevereiro de 2022.
+<p>&emsp;&emsp;5w2h: hora de tirar as dúvidas e aumentar produtividade. Disponível em: https://endeavor.org.br/pessoas/5w2h/ . Acesso em: 16 de fevereiro de 2022.
+<p>&emsp;&emsp;App tembici: sobre nós. Disponível em: https://www.tembici.com.br/sobre-nos/ . Acesso em: 16 de fevereiro de 2022. 
+<p>&emsp;&emsp;Tembici: o sonho de popularizar a bicicleta como meio de transporte no mundo todo. Disponível em: https://endeavor.org.br/historia-de-empreendedores/tembici/ . Acesso em: 16 de fevereiro de 2022.
+<p>&emsp;&emsp;Wiki - Engenharia de Requisitos do Trello. Disponível em: https://requisitos-trello.github.io/rich%20pictures.html . Acesso em: 18 de fevereiro de 2022.
