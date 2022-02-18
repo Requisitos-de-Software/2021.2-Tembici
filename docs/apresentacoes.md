@@ -1,8 +1,9 @@
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
-|-|-|-|-|
-| 1.0 | 06/02 | <center> Adição da primeira apresentação 1.0 <center> | <center> Luiz Henrique Fernandes Zamprogno <center> |
+|-|-|:-:|:-:|
+| 1.0 | 06/02 | Adição da primeira apresentação 1.0 | Luiz Henrique Fernandes Zamprogno |
+
 *Tabela versionamento*
 
 ## Apresentações

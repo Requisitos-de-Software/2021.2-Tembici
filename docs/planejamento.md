@@ -1,22 +1,24 @@
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
-|-|-|-|-|
-|1.0| 02/02 |<center>Criação do planejamento de trabalho</center>|<center>Gabriel, João Victor, Lívia, Luiz Henrique, Paulo Henrique, Victor Eduardo</center>|
-|1.1| 04/02 |<center>Adição das ferramentas do projeto</center>|<center>Paulo Henrique</center>|
-|1.2| 04/02 |<center>Adição do cronograma do projeto</center>|<center>João Victor Batista</center>|
-|1.3| 08/02 |<center>Adição das metodologias usadas</center>|<center>Luiz Henrique, Victor Eduardo</center>|
+|-|-|:-:|:-:|
+| 1.0 | 02/02 | Criação do planejamento de trabalho |Gabriel, João Victor, Lívia, Luiz Henrique, Paulo Henrique, Victor Eduardo |
+| 1.1 | 04/02 | Adição das ferramentas do projeto |Paulo Henrique |
+| 1.2 | 04/02 | Adição do cronograma do projeto |João Victor Batista |
+| 1.3 | 08/02 | Adição das metodologias usadas |Luiz Henrique, Victor Eduardo |
+
 *Tabela versionamento*
 
+# Planejamento
 ## Introdução 
 
 A etapa de planejamento consiste em preparar, organizar e estruturar o projeto. É essencial para que decisões importantes sejam tomadas e com que as tarefas sejam executadas com excelência. Assim sendo, a etapa de planejamento serve, principalmente, para auxiliar a equipe na organização de suas tarefas e durante as decisões importantes que vão ter que ser executadas ao longo do projeto, seguindo as datas que foram definidas.
 
-# Metodologias
-## Métodos ágeis
+## Metodologias
+### Métodos ágeis
 Como exposto no livro Engenharia de Software de Ian Sommerville, os métodos ágeis, são uma metodologia de desenvolvimento de software que, universalmente, baseiam-se em uma abordagem incremental para a especificação, o desenvolvimento e a entrega do software. Eles são mais adequados ao desenvolvimento de aplicativos nos quais as atividades mudam rapidamente durante o processo de desenvolvimento. Destinam-se a entregar o produto rapidamente aos clientes, em funcionamento, e estes podem, em seguida, propor alterações e novos requisitos a serem incluídos nas iterações posteriores do sistema. Têm como objetivo reduzir a burocracia do processo, evitando qualquer trabalho de valor duvidoso de longo prazo, produzindo assim uma documentação que vai ser mais acertiva, e, consequentemente, evitando deperdício de tempo.
 
-## Scrum
+### Scrum
 
 A abordagem Scrum (SCHWABER, 2004; SCHWABER e BEEDLE, 2001) é um método ágil geral, mas seu foco está
 no gerenciamento do desenvolvimento iterativo, ao invés das abordagens técnicas específicas da engenharia de
@@ -29,7 +31,7 @@ As principais características que utilizaremos do scrum são:
 3. Uma vez que todos estejam de acordo, a equipe se organiza para desenvolver o produto. 
 4. No fim do sprint, o trabalho é revisto e apresentado aos membros do grupo. O próximo ciclo de sprint começa em seguida.
 
-# Ferramentas utilizadas
+## Ferramentas utilizadas
 
 ||Ferramenta|Finalidade|
 |:-:|:-:|-|
@@ -44,7 +46,7 @@ As principais características que utilizaremos do scrum são:
 <h6 align = "center">Tabela 2: Tabela contendo as ferramentas utilizadas no projeto</h6>
 <h6 align = "center">Fonte: Autor</h6>
 
-# Cronograma
+## Cronograma
 
 | Tarefa | Data | Responsáveis |
 | ------ | ---- | ------------ |
@@ -77,3 +79,6 @@ As principais características que utilizaremos do scrum são:
 | Revisar artefatos e preparar apresentação 6 | 21/03 - 28/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Revisar artefatos e preparar apresentação final | 28/03 - 04/04 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Apresentação final | 04/04 - 11/04 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+
+
+## Referências
