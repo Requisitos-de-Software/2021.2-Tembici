@@ -16,7 +16,6 @@ nav:
   - Apresentações: ./apresentacoes.md
   - Planejamento: ./planejamento.md
   - Pré-Rastreabilidade: ./pre-rastreabilidade.md
-  - Elicitação de Requisitos: ./elicitacao.md
 
 markdown_extensions:
   - attr_list
