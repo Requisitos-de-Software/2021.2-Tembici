@@ -15,7 +15,7 @@
 <p align="justify">&emsp;&emsp;O Rich Picture é um artefato construído a fim de ilustrar e, assim, trazer uma melhor compreensão do problema a ser resolvido pela equipe de desenvolvimento.</p>
 
 ### Rich Picture 1.0
-![Rich Picture v1](./assets/pre-rastreabilidade/richPictureV1.jpg){width="1000"}
+![Rich Picture v1](../assets/pre-rastreabilidade/richPictureV1.jpg){width="1000"}
 *Rich Picture 1.0 img*
 
 ## 5W2H
