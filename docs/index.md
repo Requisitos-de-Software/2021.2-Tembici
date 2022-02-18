@@ -6,8 +6,8 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 |1.0| 05/02 | Criação da wiki | Gabriel Sabanai |
-|2.0| 06/02 | Pré-Rastreabilidade, planejamento e apresentação 1 | Todos os integrantes |
-|3.0| 20/02 | Correções 1ª entrega, metodologias, outros repositórios, elicitação e priorização de requisitos, e apresentação 2 | Todos os integrantes |
+|2.0| 06/02 | Pré-Rastreabilidade, planejamento e apresentação 1 | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
+|3.0| 20/02 | Correções 1ª entrega, metodologias, outros repositórios, elicitação e priorização de requisitos, e apresentação 2 | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor  |
 
 Repositório da disciplina de Requisitos de Software 2021.2 realizado sobre a aplicação Tembici. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação mobile do Tembici.
 
