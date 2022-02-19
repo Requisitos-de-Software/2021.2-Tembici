@@ -20,11 +20,17 @@ Persona é um personagem fictício que reflete um grupo de usuários, definidas 
 * Persona 1
 
 Nome: Letícia.
+
 Idade: 17 anos.
+
 Escolaridade: Ensino Médio Incompleto.
+
 Profissão: Estudante.
+
 Desafios: Não tem condições de comprar uma bicicleta de qualidade.
+
 Expectativas: Conseguir passear esporadicamente com seus amigos e familiares por Brasília.
+
 Nível de conhecimento sobre o app: Utiliza o aplicativo esporadicamente.
 
 * Persona 2
