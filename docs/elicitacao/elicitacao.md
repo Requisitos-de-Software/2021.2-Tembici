@@ -11,9 +11,7 @@
 
 *Tabela 1: Versionamento*
 
-# Técnicas
-
-## Personas
+# Personas
 
 Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. São derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado.
 
@@ -92,6 +90,9 @@ Persona é um personagem fictício que reflete um grupo de usuários, definidas 
   Profissão: Funcionário Público.
 
   Desafios: Por conta de um acidente seus movimentos foram delimitados, é cadeirante.
+
+
+# Técnicas
 
 ## Instrospecção
 
