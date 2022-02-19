@@ -7,7 +7,7 @@
 | 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
 | 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
 | 1.4 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
-| 1.5 | 19/02 | Adição de personas | Lívia Rodrigues |
+| 1.5 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
 
 *Tabela 1: Versionamento*
 
