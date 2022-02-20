@@ -2,10 +2,10 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 15/02 | Abertura do documento de brainstorm | Gabriel Sabanai Trindade |
-| 1.1 | 15/02 | Adição da introdução ao documento | Gabriel Sabanai Trindade |
-| 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade |
-| 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade |
+| 1.0 | 15/02 | Abertura do documento de brainstorm | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.1 | 15/02 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
 *Tabela versionamento*
 
 ## Introdução 
