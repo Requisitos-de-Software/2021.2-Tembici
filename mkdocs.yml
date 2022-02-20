@@ -16,6 +16,8 @@ nav:
   - Apresentações: ./apresentacoes.md
   - Planejamento: ./planejamento.md
   - Pré-Rastreabilidade: ./pre-rastreabilidade.md
+  - Elicitação:
+    - Brainstorm: ./elicitacao/brainstorm.md
 
 markdown_extensions:
   - attr_list
