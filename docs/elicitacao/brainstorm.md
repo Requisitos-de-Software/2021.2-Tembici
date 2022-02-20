@@ -119,3 +119,6 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 | BS11 | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo | Requisito Funcional |
 | BS12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes | Requisito Não Funcional |
 | BS13 | O sistema e as estações de bicicleta devem ter uma comunicação prática | Requisito Não Funcional |
+| BS14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | Requisito Não Funcional |
+| BS15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
+| BS16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
