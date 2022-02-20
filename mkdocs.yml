@@ -16,7 +16,12 @@ nav:
   - Apresentações: ./apresentacoes/apresentacoes.md
   - Planejamento: ./planejamento/planejamento.md
   - Pré-Rastreabilidade: ./pre-rastreabilidade/pre-rastreabilidade.md
-  - Elicitação de Requisitos: ./elicitacao/elicitacao.md
+  - Elicitação:
+    - Personas: ./elicitacao/personas.md
+    - Tecnicas: 
+      - Instrospecção: ./elicitacao/introspeccao.md
+      - Questionario: ./elicitacao/questionario.md
+      - Brainstorm: ./elicitacao/brainstorm.md
 
 markdown_extensions:
   - attr_list
