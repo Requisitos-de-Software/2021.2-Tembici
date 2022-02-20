@@ -13,11 +13,15 @@ extra:
 
 nav: 
   - Início: ./index.md
-  - Apresentações: ./apresentacoes.md
-  - Planejamento: ./planejamento.md
-  - Pré-Rastreabilidade: ./pre-rastreabilidade.md
+  - Apresentações: ./apresentacoes/apresentacoes.md
+  - Planejamento: ./planejamento/planejamento.md
+  - Pré-Rastreabilidade: ./pre-rastreabilidade/pre-rastreabilidade.md
   - Elicitação:
-    - Brainstorm: ./elicitacao/brainstorm.md
+    - Personas: ./elicitacao/personas.md
+    - Tecnicas: 
+      - Instrospecção: ./elicitacao/introspeccao.md
+      - Questionario: ./elicitacao/questionario.md
+      - Brainstorm: ./elicitacao/brainstorm.md
 
 markdown_extensions:
   - attr_list
