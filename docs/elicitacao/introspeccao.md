@@ -5,7 +5,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
-| 1.1 | 19/02 | Adição Introspecção Requisitos | Lívia Rodrigues, João VictorLuiz Henrique |
+| 1.1 | 19/02 | Adição Introspecção Requisitos | Luiz Henrique |
 
 
 ### Metodologia
