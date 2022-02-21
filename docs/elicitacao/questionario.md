@@ -2,7 +2,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 12/02 | Criação e prospecção do questionario |
+| 1.0 | 12/02 | Criação e prospecção do questionario | Victor Eduardo |
 | 1.1 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
 | 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
 | 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
