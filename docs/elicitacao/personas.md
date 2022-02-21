@@ -1,5 +1,16 @@
 # Personas
 
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | 12/02 | Criação e prospecção do questionario |
+| 1.1 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
+| 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
+| 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
+| 1.4 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
+| 1.5 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
+
 Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. São derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado.
 
 * Persona 1

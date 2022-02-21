@@ -1,7 +1,17 @@
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | 12/02 | Criação e prospecção do questionario |
+| 1.1 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
+| 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
+| 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
+
 ### Introdução
 <p align="justify">&emsp;&emsp;O questionário é uma ótima maneira de elicitar requisitos, pois com ele é fácil saber qual as principais características e necessidades do público alvo, além, claro, de delinear este público.</p>
 
 ### Questões
+
 #### Questão 1
 ![Resposta 1](../assets/elicitacao/Resposta1.jpg)
 <p align="center">Imagem 1 - Pergunta sobre onde o entrevistado mora</p>

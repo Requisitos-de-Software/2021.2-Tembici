@@ -1,11 +1,22 @@
+# Introspecção
+
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
+| 1.1 | 19/02 | Adição Introspecção Requisitos | Lívia Rodrigues, João VictorLuiz Henrique |
+
+
 ### Metodologia
 
 Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto. Em suma, a técnica Introspecção pode ser descrita como uma equipe de engenheiros de requisitos que se coloca no lugar do usuário e analisa quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo requisitos do Software. 
 
 ### Requisitos 
+
 | Código | Requisito | Tipo de requisito |
 |:--:|--|:--:|
-| IT01 |O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel | RN |
+| IT01 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel | RN |
 | IT02 | O usuário poderá visualizar as informações em tempo real | RN |
 | IT03 | O usuário poderá visualizar onde estão localizados os pontos de bicicletas | RF |
 | IT04 | O usuário poderá consultar  por meio de um mapa os pontos de bicicletas| RF |
