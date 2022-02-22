@@ -13,10 +13,10 @@ Nesse documento está armazenado as apresentações dos pontos de controle, que 
 
 ## Apresentação - Ponto de controle 1
 
-[![Apresentação 1](./assets/apresentacoes/AP1.png)](https://youtu.be/8ssdPAHgU4U)
+[![Apresentação 1](../assets/apresentacoes/AP1.png)](https://youtu.be/8ssdPAHgU4U)
 *Apresentação 1 thumbnail*
 
 ## Apresentação - Ponto de controle 2
 
-[![Apresentação 2](./assets/apresentacoes/AP2.png)](https://youtu.be/HjH19Su8WLQ)
+[![Apresentação 2](../assets/apresentacoes/AP2.png)](https://youtu.be/HjH19Su8WLQ)
 *Apresentação 2 thumbnail*
