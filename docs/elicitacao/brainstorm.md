@@ -10,17 +10,18 @@
 | 1.1 | 15/02 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
+| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
 *Tabela versionamento*
 
 ### Introdução 
 
-O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Desas forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.
+<p align="justify">&emsp;&emsp;O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Desas forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.</p> 
 
-O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.
+<p align="justify">&emsp;&emsp;O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.</p> 
 
 ### Metodologia
 
-Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.
+<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.</p> 
 
 #### Questionamentos
 
