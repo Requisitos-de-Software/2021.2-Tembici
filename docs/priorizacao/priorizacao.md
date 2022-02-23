@@ -1,17 +1,19 @@
-## 1. Versionamento do projeto
+# Priorização
+
+## Versionamento
+
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-|1.0| 19/02 | Criação da introdução da técnica de Priorização | Paulo Henrique |
-|1.0| 20/02 | Adição dos requisitos coletados | Gabriel Sabanai |
+|1.0| 19/02 | Criação da introdução da técnica de Priorização | Gabriel Sabanai e Paulo Henrique |
+|1.0| 20/02 | Adição dos requisitos coletados | Gabriel Sabanai e Paulo Henrique |
 
-## 2. Participantes
-- Paulo Henrique
-- Gabriel Sabanai
+## Introdução
 
-## 3. Metodologia
+MoSCoW é uma técnica que ajuda na construção de priorização de atividades de um sistema, esta técnica é muito utilizada na engenharia de requisitos a fim de definir a importância/prioridade   entre as partes interessadas dos requisitos levantados por um sistema/projeto.
+
+## Metodologia
 
 ### MoSCoW
-MoSCoW é uma técnica que ajuda na construção de priorização de atividades de um sistema, esta técnica é muito utilizada na engenharia de requisitos a fim de definir a importância/prioridade   entre as partes interessadas dos requisitos levantados por um sistema/projeto.
 
 A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de uma técnica de priorização e faz o acrônimo de de 4 letras que representam 4 verbos, utilizamos esses verbos para a classificação e identificação das prioridades de cada atividade/requisito, sendo elas:
 
@@ -21,7 +23,7 @@ A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de 
 - Would/Want/Won't: Estes verbos são para os requisitos menos críticos e que possuem um valor/retorno menor do que os outros para o software.
 
 
-## 4. Resultados
+## Resultados
 
 ### Proporção de Must, Should, Could e Would
 
@@ -62,8 +64,6 @@ A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de 
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | Questionário | MUST |
 
 
-
-
-
-## 5. Referências
-<p style="text-align: justify;">[1] <b>Aprenda a usar a técnica MoSCoW nos projetos da sua agência!</b>. Disponível em: <a href="https://rockcontent.com/br/blog/metodo-moscow/" target="_blanck">https://rockcontent.com/br/blog/metodo-moscow/</a>. Acesso em: 19 de fev. de 2022.</p>
+## Referências
+<p> Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/. Acesso em: 19 de feereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 19 de fevereiro de 2022.

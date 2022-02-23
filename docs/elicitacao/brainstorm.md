@@ -1,6 +1,8 @@
-# Brainstorm
+# Elicitação de Requisitos
 
-## Versionamento
+## Brainstorm
+
+### Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
@@ -8,19 +10,22 @@
 | 1.1 | 15/02 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
+| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
 *Tabela versionamento*
 
-## Introdução 
+### Introdução 
 
-O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Desas forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.
+<p align="justify">&emsp;&emsp;O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Desas forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.</p> 
 
-O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.
+<p align="justify">&emsp;&emsp;O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.</p> 
 
-Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.
+### Metodologia
 
-## Questionamentos
+<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.</p> 
 
-#### Qual o principal problema que a plataforma visa resolver?
+#### Questionamentos
+
+##### Qual o principal problema que a plataforma visa resolver?
 
 * **João Victor:** A plataforma objetiva fornecer um formato alternativo de transporte em comunidade
 
@@ -34,7 +39,7 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 
 * **Victor Eduardo:** Disponibilizar o uso de bicicletas a partir de determinados pontos da cidade, propiciando assim um meio de locomoção que contribua para a saúde do usuário e que ao mesmo tempo não cause poluição
 
-#### Qual a melhor maneira de se alugar uma bicicleta?
+##### Qual a melhor maneira de se alugar uma bicicleta?
 
 * **João Victor:** Considerando a situação atual que estamos vivendo, a melhor maneira para alugar a bicicleta seria aquela onde minimizamos o contato com outras pessoas e tentamos reduzir o deslocamento necessário do usuário até o local de aluguel. Uma alternativa viável seria a de estações ao ar livre, espalhadas pela cidade, nas quais o usuário pode sozinho desbloquear uma bicicleta com seu celular por exemplo
 
@@ -49,7 +54,7 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 * **Victor Eduardo:** Assinar um aplicativo que te permita usar bicicletas facilmente bastando usar apenas o celular para escanear um QR Code
 
 
-#### Qual a melhor maneira de devolver uma bicicleta?
+##### Qual a melhor maneira de devolver uma bicicleta?
 * **João Victor:** Semelhante a maneira ideal de alugar, a melhor maneira de devolver a bicicleta seria aquela onde o usuário não precisa se deslocar muito do seu local de destino até o local de devolução
 
 * **Gabriel Sabanai:** A melhor maneira seria com a mesma proposta da questão anterior. Ao devolver, o usuário utilizaria um serviço de geolocalização e comunicação que confirmaria a devolução.
@@ -62,7 +67,7 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 
 * **Victor Eduardo:** Retornando a estação após terminar o uso e devolvendo ela à uma vaga
 
-#### Como incentivar o usuário a utilizar o aplicativo mais vezes?
+##### Como incentivar o usuário a utilizar o aplicativo mais vezes?
 
 * **João Victor:** Instalando estações perto de localizações do cotidiano do usuário e fazendo planos mensais condizentes com nível econômico dele;
 
@@ -76,7 +81,7 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 
 * **Victor Eduardo:** Fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção
 
-#### Quais as principais funcionalidades do software?
+##### Quais as principais funcionalidades do software?
 
 * **João Victor:** Desbloqueio de bicicletas para uso, geolocalização e visualização do número de bicicletas ou vagas disponíveis em cada estação
 
@@ -90,7 +95,7 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 
 * **Victor Eduardo:** Alugar bicicleta, ter acesso ao trajeto percorrido, ter acesso às quantidades de CO2 e calorias gastas
 
-#### Trazer novas funcionalidades para o aplicativo, além da opção principal, seria algo vantajoso ou não para o aplicativo ?
+##### Trazer novas funcionalidades para o aplicativo, além da opção principal, seria algo vantajoso ou não para o aplicativo ?
 
 * **João Victor:** Bloquear um usuário de alugar bicicletas caso este tenha cometido um número de infrações
 
@@ -104,7 +109,9 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 
 * **Victor Eduardo:** Seria, pois novidades atrairia novos usuários bem como aumentaria o engajamento de todos os usuários para uso do app
 
-#### Requisitos levantandos:
+### Resultados
+
+Requisitos levantandos:
 
 | ID | Descrição | Tipo de Requisito |
 |----|-----------|-------------------|
@@ -124,3 +131,8 @@ Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elab
 | BS14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | Requisito Não Funcional |
 | BS15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
 | BS16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
+
+### Referências
+
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.

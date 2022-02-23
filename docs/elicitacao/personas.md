@@ -5,8 +5,17 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.1 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
+| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
 
-Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. São derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado.
+## Introdução
+
+<p align="justify">&emsp;&emsp;Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado. </p> 
+
+## Metodologia
+
+<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitção de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. </p> 
+
+## Resultados
 
 * Persona 1
 
@@ -83,3 +92,9 @@ Persona é um personagem fictício que reflete um grupo de usuários, definidas 
   Profissão: Funcionário Público.
 
   Desafios: Por conta de um acidente seus movimentos foram delimitados, é cadeirante.
+
+
+## Referências
+
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.

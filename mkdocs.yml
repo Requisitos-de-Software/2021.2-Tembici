@@ -13,16 +13,19 @@ extra:
 
 nav: 
   - Início: ./index.md
-  - Apresentações: ./apresentacoes/apresentacoes.md
+  - Apresentações: 
+    - Primeira Apresentação: ./apresentacoes/apresentacao1.md
+    - Sengunda Apresentação: ./apresentacoes/apresentacao2.md
   - Planejamento: ./planejamento/planejamento.md
-  - Pré-Rastreabilidade: ./pre-rastreabilidade/pre-rastreabilidade.md
+  - Pré-Rastreabilidade: 
+    - Rich Picture: ./pre-rastreabilidade/rich-picture.md
+    - 5W2H: ./pre-rastreabilidade/5w2h.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
     - Tecnicas: 
       - Instrospecção: ./elicitacao/introspeccao.md
       - Questionario: ./elicitacao/questionario.md
       - Brainstorm: ./elicitacao/brainstorm.md
-  - Priorização: ./priorizacao/priorizacao.md
 
 markdown_extensions:
   - attr_list

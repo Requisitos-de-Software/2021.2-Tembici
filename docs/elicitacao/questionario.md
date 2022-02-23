@@ -1,4 +1,8 @@
-## Versionamento
+# Elicitação de Requisitos
+
+## Questionario
+
+### Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
@@ -6,11 +10,12 @@
 | 1.1 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
 | 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
 | 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
+| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
 
 ### Introdução
 <p align="justify">&emsp;&emsp;O questionário é uma ótima maneira de elicitar requisitos, pois com ele é fácil saber qual as principais características e necessidades do público alvo, além, claro, de delinear este público.</p>
 
-### Questões
+### Metodologia
 
 #### Questão 1
 ![Resposta 1](../assets/elicitacao/Resposta1.jpg)
@@ -61,7 +66,10 @@
 * Ter a possibilidade de reservar uma bicicleta por alguns minutos via app
 * Incluir gamificação para a prática de exercícios físicos e pontos a serem trocados para usuários que sempre devolverem a bicicleta inteira e no prazo
 
-### Requisitos 
+### Resultados
+
+Requisitos levantados:
+
 | Código | Requisito | Tipo de requisito |
 |:--:|--|:--:|
 | Q01 | O app deve permitir que o usuário consiga assinar um plano | RF |

@@ -1,18 +1,26 @@
-# Introspecção
+# Elicitação de Requisitos
 
-## Versionamento
+## Introspecção
+
+### Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
 | 1.1 | 19/02 | Adição Introspecção Requisitos | Luiz Henrique |
+| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
 
+### Introdução
+
+<p align="justify">&emsp;&emsp;Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto.</p> 
 
 ### Metodologia
 
-Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto. Em suma, a técnica Introspecção pode ser descrita como uma equipe de engenheiros de requisitos que se coloca no lugar do usuário e analisa quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo requisitos do Software. 
+<p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção o grupo se reuniu em uma reunião onde foi realizado o exercicio de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo os requisitos.</p> 
 
-### Requisitos 
+### Resultados
+
+Requisitos levantados:
 
 | Código | Requisito | Tipo de requisito |
 |:--:|--|:--:|
@@ -34,3 +42,8 @@ Introspecção é uma técnica de Elicitação de Requisitos que consiste na com
 | IT16 | O usuário deverá realizar o pagamento do plano escolhido utilizando um cartão de crédito | RF |
 
 *Tabela 2: Requisitos Introspecção*
+
+### Referências
+
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.
