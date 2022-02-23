@@ -13,7 +13,9 @@ extra:
 
 nav: 
   - Início: ./index.md
-  - Apresentações: ./apresentacoes/apresentacoes.md
+  - Apresentações: 
+    - Primeira Apresentação: ./apresentacoes/apresentacao1.md
+    - Sengunda Apresentação: ./apresentacoes/apresentacao2.md
   - Planejamento: ./planejamento/planejamento.md
   - Pré-Rastreabilidade: ./pre-rastreabilidade/pre-rastreabilidade.md
   - Elicitação:
@@ -22,7 +24,6 @@ nav:
       - Instrospecção: ./elicitacao/introspeccao.md
       - Questionario: ./elicitacao/questionario.md
       - Brainstorm: ./elicitacao/brainstorm.md
-  - Priorização: ./priorizacao/priorizacao.md
 
 markdown_extensions:
   - attr_list
