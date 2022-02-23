@@ -120,3 +120,6 @@ Co-authored-by: Paulo Henrique <ph@gmail.com>
 &emsp;&emsp;<b>Observação:</b> O caracter '#' representa, por padrão, um comentário na mensagem de commit. Para evitar problemas basta digitar o comando: `git config --local core.commentChar auto`
 
 ## Referências
+
+<p>Aplicativo Tembici. Disponível em: <https://www.tembici.com.br>. Acesso em: 16 de fevereiro de 2022.
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: <https://requisitos-de-software.github.io/2021.1-TesouroDireto/>. Acesso em: 15 de fevereiro de 2022.
