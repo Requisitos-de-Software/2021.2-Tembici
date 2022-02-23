@@ -22,6 +22,7 @@ nav:
       - Instrospecção: ./elicitacao/introspeccao.md
       - Questionario: ./elicitacao/questionario.md
       - Brainstorm: ./elicitacao/brainstorm.md
+  - Priorização: ./priorizacao/priorizacao.md
 
 markdown_extensions:
   - attr_list
