@@ -33,4 +33,5 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 | ![Victor Eduardo](./assets/team/victor.jpg){width="80"} | Victor Eduardo         | victorear05@gmail.com            | [@victorear05](https://github.com/victorear05)         |
 
 ## Referências
-<p>&emsp;&emsp;App tembici: sobre nós. Disponível em: https://www.tembici.com.br/sobre-nos/. Acesso em: 16 de fevereiro de 2022.</p>
+
+<p>App tembici: sobre nós. Disponível em: <https://www.tembici.com.br/sobre-nos/>. Acesso em: 16 de fevereiro de 2022.</p>
