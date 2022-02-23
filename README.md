@@ -1,11 +1,10 @@
 
 <div align="center" >
 
-<a href="https://requisitos-de-software.github.io/2021.2-Tembici/">
-
 # Tembici
 
-<img src="./docs/assets/tembiciAlt.png" alt="Tembici logo" height="auto" width="300"  style="border-radius:50px">
+<a href="https://requisitos-de-software.github.io/2021.2-Tembici/">
+  <img src="./docs/assets/tembiciAlt.png" alt="Tembici logo" height="auto" width="300"  style="border-radius:50px">
 </a>
 
 ## 1. Sobre
