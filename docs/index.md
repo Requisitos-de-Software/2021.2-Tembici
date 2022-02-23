@@ -34,4 +34,4 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 
 ## Referências
 
-<p>App tembici: sobre nós. Disponível em: <https://www.tembici.com.br/sobre-nos/>. Acesso em: 16 de fevereiro de 2022.</p>
+<p>App tembici: sobre nós. Disponível em: https://www.tembici.com.br/sobre-nos/. Acesso em: 16 de fevereiro de 2022.</p>

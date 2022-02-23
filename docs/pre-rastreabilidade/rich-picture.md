@@ -33,6 +33,6 @@
 
 ### Referências 
 
-<p>Introducing Rich Pictures. Disponível em: <https://aprender3.unb.br/mod/resource/view.php?id=597193>. Acesso em: 4 de fevereiro de 2022.
-<p>Aplicativo Tembici. Disponível em: <https://www.tembici.com.br>. Acesso em: 4 de fevereiro de 2022.
+<p>Introducing Rich Pictures. Disponível em: https://aprender3.unb.br/mod/resource/view.php?id=597193. Acesso em: 4 de fevereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 4 de fevereiro de 2022.
 

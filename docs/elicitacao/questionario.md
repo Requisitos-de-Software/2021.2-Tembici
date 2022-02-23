@@ -82,5 +82,5 @@ Requisitos levantados:
 
 ### Referências
 
-<p>Aplicativo Tembici. Disponível em: <https://www.tembici.com.br>. Acesso em: 16 de fevereiro de 2022.
-<p>Wiki Requisitos - Tesouro Direto. Disponível em: <https://requisitos-de-software.github.io/2021.1-TesouroDireto/>. Acesso em: 15 de fevereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.

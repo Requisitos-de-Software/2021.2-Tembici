@@ -65,5 +65,5 @@ A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de 
 
 
 ## Referências
-<p> Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: <https://rockcontent.com/br/blog/metodo-moscow/>. Acesso em: 19 de feereiro de 2022.
-<p>Aplicativo Tembici. Disponível em: <https://www.tembici.com.br>. Acesso em: 19 de fevereiro de 2022.
+<p> Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/. Acesso em: 19 de feereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 19 de fevereiro de 2022.
