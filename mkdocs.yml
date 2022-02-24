@@ -27,6 +27,9 @@ nav:
       - Questionario: ./elicitacao/questionario.md
       - Brainstorm: ./elicitacao/brainstorm.md
     - Priorização: ./priorizacao/priorizacao.md
+  - Modelagem:
+    - Casos de Uso: ./modelagem/casos_de_uso.md
+    
 markdown_extensions:
   - attr_list
   - md_in_html
