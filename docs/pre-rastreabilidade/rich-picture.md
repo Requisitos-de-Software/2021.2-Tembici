@@ -28,8 +28,18 @@
 
 ### Resultados
 
-![Rich Picture v1](../assets/pre-rastreabilidade/richPictureV1.jpg){width="1000"}
-*Rich Picture 1.0 img*
+#### Rich Picture - Geral
+
+![Rich Picture Geral v1](../assets/pre-rastreabilidade/richPictureV1.jpg)
+*Rich Picture Geral 1.0 img*
+
+
+#### Rich Picture - Funcionalidades
+
+##### Rich Picture - Planos
+
+![Rich Picture - Planos v1](../assets/pre-rastreabilidade/richPicturePlanosV1.png)
+*Rich Picture Geral 1.0 img*
 
 ### Referências 
 
