@@ -8,6 +8,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 04/02 |  Criação da Rich Picture 1.0 |  João Victor Batista |
 | 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
+| 2.q | 23/02 | Adição Rich Picture de Planos | Luiz Henrique Fernandes Zamprogno |
 
 *Tabela versionamento*
 
