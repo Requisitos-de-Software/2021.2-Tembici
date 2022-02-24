@@ -15,18 +15,24 @@ nav:
   - Início: ./index.md
   - Apresentações: 
     - Primeira Apresentação: ./apresentacoes/apresentacao1.md
-    - Sengunda Apresentação: ./apresentacoes/apresentacao2.md
-  - Planejamento: ./planejamento/planejamento.md
+    - Segunda Apresentação: ./apresentacoes/apresentacao2.md
+  - Planejamento: 
+    - Metodologia: ./planejamento/metodologia.md
+    - Ferramentas Utilizadas: ./planejamento/ferramentas.md
+    - Cronograma: ./planejamento/cronograma.md
+    - Políticas: ./planejamento/politicas.md
   - Pré-Rastreabilidade: 
     - Rich Picture: ./pre-rastreabilidade/rich-picture.md
     - 5W2H: ./pre-rastreabilidade/5w2h.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
-    - Tecnicas: 
-      - Instrospecção: ./elicitacao/introspeccao.md
-      - Questionario: ./elicitacao/questionario.md
-      - Brainstorm: ./elicitacao/brainstorm.md
-    - Priorização: ./priorizacao/priorizacao.md
+    - Técnicas: 
+      - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
+      - Questionário: ./elicitacao/tecnicas/questionario.md
+      - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+    - Priorização: 
+      - MosCoW: ./elicitacao/priorizacao/moscow.md
+
 markdown_extensions:
   - attr_list
   - md_in_html

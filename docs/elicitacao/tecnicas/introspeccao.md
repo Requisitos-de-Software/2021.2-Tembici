@@ -1,24 +1,23 @@
-# Elicitação de Requisitos
-
-## Introspecção
-
-### Versionamento
+# Introspecção
+## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
 | 1.1 | 19/02 | Adição Introspecção Requisitos | Luiz Henrique |
-| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
+| 1.2 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
 
-### Introdução
+*Tabela 1: versionamento*
+
+## Introdução
 
 <p align="justify">&emsp;&emsp;Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto.</p> 
 
-### Metodologia
+## Metodologia
 
 <p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção o grupo se reuniu em uma reunião onde foi realizado o exercicio de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo os requisitos.</p> 
 
-### Resultados
+## Resultados
 
 Requisitos levantados:
 
@@ -43,7 +42,7 @@ Requisitos levantados:
 
 *Tabela 2: Requisitos Introspecção*
 
-### Referências
+## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
-<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>

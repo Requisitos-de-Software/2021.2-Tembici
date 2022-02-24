@@ -1,5 +1,6 @@
 # Início
-![Image title](./assets/tembici.svg){ width="300" }
+
+![Image title](./assets/tembici.svg){ width="300"}
 *Imagem 1: Logo tembici*
 
 ## Versionamento do projeto
@@ -7,7 +8,11 @@
 |-|-|:-:|:-:|
 |1.0| 05/02 | Criação da wiki | Gabriel Sabanai |
 |2.0| 06/02 | Pré-Rastreabilidade, planejamento e apresentação 1 | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
-|3.0| 20/02 | Correções 1ª entrega, metodologias, outros repositórios, elicitação e priorização de requisitos, e apresentação 2 | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor  |
+|3.0| 20/02 | Correções 1ª entrega, metodologias, outros repositórios, elicitação e priorização de requisitos, e apresentação 2 | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
+
+*Tabela 1: Versionamento*
+
+## Introdução
 
 Repositório da disciplina de Requisitos de Software 2021.2 realizado sobre a aplicação Tembici. Este repositório reúne artefatos de requisitos de software levantados a partir da aplicação mobile do Tembici.
 
@@ -31,6 +36,8 @@ Dessa forma, não existe nenhum repositório, que visa documentar o sistema, no 
 | ![Paulo](./assets/team/paulo.jpg){width="80"}           | Paulo Henrique Rezende | ph.hr.001@gmail.com              | [@phRezende-eng](https://github.com/PhRezende-eng)     |
 | ![Lívia](./assets/team/livia.jpg){width="80"}          | Lívia Rodrigues       | liviarodriguesre@gmail.com       | [@Liviarodrigues1](https://github.com/Liviarodrigues1) |
 | ![Victor Eduardo](./assets/team/victor.jpg){width="80"} | Victor Eduardo         | victorear05@gmail.com            | [@victorear05](https://github.com/victorear05)         |
+
+*Tabela 2: Tabela de membros*
 
 ## Referências
 

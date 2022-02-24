@@ -1,11 +1,12 @@
 # Personas
-
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.1 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
-| 2.0 | 23/02 | Padronização e modalização | Luiz Henrique Fernandes Zamprogno |
+| 1.0 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
+| 1.1 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+
+*Tabela 1: versionamento*
 
 ## Introdução
 
@@ -96,5 +97,5 @@
 
 ## Referências
 
-<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.
-<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.
+<p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
+<p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>
