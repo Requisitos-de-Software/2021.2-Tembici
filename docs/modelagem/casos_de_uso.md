@@ -4,6 +4,7 @@
 |-|-|-|-|
 | 1.0 | 12/02 | Criação da seção Casos de Uso e template | Victor Eduardo |
 | 1.1 | 25/02 | Adição dos casos de Uso 1 a 4 | Victor Eduardo |
+| 1.2 | 26/02 | Adição dos casos de Uso 5 a 8 | Lívia Rodrigues |
 
 *Tabela 1: Versionamento*
 
