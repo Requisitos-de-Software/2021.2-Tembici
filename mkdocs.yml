@@ -3,6 +3,8 @@ repo_url: https://github.com/Requisitos-de-Software/2021.2-Tembici
 
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     primary: pink
     accent: indigo
