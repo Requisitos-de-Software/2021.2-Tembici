@@ -30,18 +30,14 @@ nav:
     - 5W2H: ./pre-rastreabilidade/5w2h.md
   - Elicitação:
     - Personas: ./elicitacao/personas.md
-    - Tecnicas: 
-      - Instrospecção: ./elicitacao/introspeccao.md
-      - Questionario: ./elicitacao/questionario.md
-      - Brainstorm: ./elicitacao/brainstorm.md
-      - Priorização: 
-        - MosCoW: ./elicitacao/priorizacao/moscow.md
-   - Modelagem:
-    - Casos de Uso: ./modelagem/casos_de_uso.md
     - Técnicas: 
       - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
       - Questionário: ./elicitacao/tecnicas/questionario.md
       - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+      - Priorização: 
+        - MosCoW: ./elicitacao/priorizacao/moscow.md
+  - Modelagem:
+    - Casos de Uso: ./modelagem/casos_de_uso.md
 
 markdown_extensions:
   - attr_list
