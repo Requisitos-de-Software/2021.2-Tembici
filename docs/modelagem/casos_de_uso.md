@@ -160,7 +160,6 @@
 | 9   | Cenários de exceção   | Usuário não ter feito nenhuma viagem ainda                                                                                        |
 | 10  | Rastreabilidade       | RF08                                                                                                                              |
 
-*Tabela 8: Caso de uso 7*
 
 ## Referências Bibliográficas
 - POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98).
