@@ -10,10 +10,10 @@
 
 # Casos de Uso
 ## Introdução
-<p align="justify">&emsp;&emsp;Também chamados de diagramas comportamentais, na notação da UML, os casos de uso são usados para descrever um conjunto de ações (uses cases - casos de uso) que um sistema ou um conjunto de sistemas (subject - sujeito) deve desempenhar em colaboração com um ou mais indivíduos externos ao sistema (actors - atores). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.
+<p align="justify">&emsp;&emsp;Também chamados de diagramas comportamentais, na notação da UML, os casos de uso são usados para descrever um conjunto de ações (uses cases - casos de uso) que um sistema ou um conjunto de sistemas (subject - sujeito) deve desempenhar em colaboração com um ou mais indivíduos externos ao sistema (actors - atores). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Para cada caso de uso é colocado um diagrama feito no site Lucidchart, e uma tabela descrevendo o diagrama, sendo composta de:
+<p align="justify">&emsp;&emsp;Para cada caso de uso é colocado um diagrama feito no site Lucidchart, e uma tabela descrevendo o diagrama, sendo composta de:</p>
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------- |
@@ -26,6 +26,7 @@
 | 7   | Cenários Principais   | Descrição do cenário, ou fluxo, principal do caso de uso                                           |
 | 8   | Cenários alternativos | Descrição dos cenários, ou fluxos, alternativos do caso de uso                                     |
 | 9   | Cenários de exceção   | Descrição dos cenários, ou fluxos, de exceção do caso de uso                                       |
+| 10  | Rastreabilidade       | Requisito o qual o caso de uso representa                                                          |
 
 ## Casos de Uso e Especificações
 ### 1 - Caso de Uso: Fazer cadastro
@@ -43,10 +44,11 @@
 | 7   | Cenários Principais   | Usuário selecionar a opção fazer criar conta                                               |
 | 8   | Cenários alternativos | Usuário abrir a aba lateral e selecionar a opção fazer cadastro                            |    
 | 9   | Cenários de exceção   | Usuário preencher algum dos campos de forma inválida ou não preencher um campo obrigatório | 
+| 10  | Rastreabilidade       | RF01                                                                                       |
 
 *Tabela 2: Caso de Uso 1*
 
-### 2 - Caso de Uso: Fazer login
+### 2 - Caso de Uso: Fazer login 
 ![Fazer Login](../assets/modelagem/casos-de-uso/login.png)
 *Imagem 2: Diagrama 2*
 
@@ -60,7 +62,8 @@
 | 6   | Pós-condições         | Usuário estar logado no sistema com sua conta                                                                  |
 | 7   | Cenários Principais   | Usuário selecionar a opção fazer login                                                                         |
 | 8   | Cenários alternativos | Usuário abrir a aba lateral e selecionar a opção fazer login                                                   |
-| 9   | Cenários de exceção   | Usuário digitar a senha ou e-mail errados                                                                      | 
+| 9   | Cenários de exceção   | Usuário digitar a senha ou e-mail errados                                                                      |
+| 10  | Rastreabilidade       | RF01                                                                                                           |
 
 *Tabela 3: Caso de Uso 2*
 
@@ -73,16 +76,17 @@
 | 1   | Versão                | 1.0                                                                                                                                               |
 | 2   | Autor                 | Victor Eduardo                                                                                                                                    |
 | 3   | Descrição             | O usuário deverá conseguir assinar um dos planos disponíveis                                                                                      |
-| 4   | Atores                | Usuário                                                                                                                                           |
+| 4   | Atores                | Usuário                                                                                                                                           |  
 | 5   | Pré-condições         | Dispositivo do usuário ter conexão com a internet e estar logado em sua conta                                                                     |
 | 6   | Pós-condições         | Usuário ter assinado um plano e poder retirar uma bicicleta                                                                                       |
 | 7   | Cenários Principais   | Usuário selecionar a opção comprar plano, selecionar a cidade, a categoria do plano e o plano desejado, e realizar pagamento                      |
-| 8   | Cenários alternativos | Usuário abrir a aba lateral, selecionar a opção comprar plano, selecionar a cidade, a categoria do plano e o plano desejado, e realizar pagamento |
-| 9   | Cenários de exceção   | Pagamento ser recusado                                                                                                                            | 
+| 8   | Cenários alternativos | Usuário abrir a aba lateral, selecionar a opção comprar plano, selecionar a cidade, a categoria do plano e o plano desejado, incluir cumpom de desconto, se houver, e realizar pagamento |
+| 9   | Cenários de exceção   | Pagamento ser recusado                                                                                                                            |
+| 10  | Rastreabilidade       | RF06, RF07, RF22                                                                                                                                  |
 
 *Tabela 4: Caso de Uso 3*
 
-### 4 - Caso de Uso: Ver mapa com as estações
+### 4 - Caso de Uso: Ver mapa a localização atual do usuário e com as estações
 ![Ver Mapa](../assets/modelagem/casos-de-uso/ver_mapa.png)
 *Imagem 4: Diagrama 4*
 
@@ -97,6 +101,7 @@
 | 7   | Cenários Principais   | Usuário navegar até a localização desejada                                                                     |
 | 8   | Cenários alternativos | -                                                                                                              |
 | 9   | Cenários de exceção   | Mapa estar indisponível                                                                                        |
+| 10  | Rastreabilidade       | RF02, RF03, RF04, RF05, RF20                                                                                   |
 
 *Tabela 5: Caso de uso 4*
 
@@ -112,9 +117,10 @@
 | 4   | Atores                | Usuário                                                                                                                                        |
 | 5   | Pré-condições         | O usuário ter feito cadastro, login e assinado um plano                                                                                        |
 | 6   | Pós-condições         | Usuário retirar bicicleta para viagem                                                                                                          |
-| 7   | Cenários Principais   | Usuário escolher cidade que deseja pedalar e retirar bicicleta na estação desejada, gerando um código no aplicativo e inserindo na estação ao lado esquerdo da bicicleta ou escaneando o código QR Code encontrado no guidão da bike ou debaixo do banco                                                                     |
+| 7   | Cenários Principais   | Usuário escolher cidade que deseja pedalar e retirar bicicleta na estação desejada, gerando um código no aplicativo e inserindo na estação ao lado esquerdo da bicicleta ou escaneando o código QR Code encontrado no guidão da bike ou debaixo do banco |
 | 8   | Cenários alternativos | Usuário retirar a bicicleta em uma estação e devolver em outra                                                                                 |
 | 9   | Cenários de exceção   | A compra não ter sido aprovada                                                                                                                 |
+| 10  | Rastreabilidade       | RF23, RF19                                                                                                                                     |
 
 *Tabela 6: Caso de uso 5*
 
@@ -130,9 +136,10 @@
 | 4   | Atores                | Usuário                                                                                                                              |
 | 5   | Pré-condições         | O usuário ter cadastro no aplicativo e fazer login                                                                                   |
 | 6   | Pós-condições         | Usuário acessar a aba ajuda                                                                                                          |
-| 7   | Cenários Principais   | Usuário conseguir acessar a aba ajuda para descobrir como o aplicativo funciona, cessar dúvidas sobre a conta, planos, pagamentos, desloqueio/devolução e viagens                                                                                                                                       |
-| 8   | Cenários alternativos |         Existe a opção do chat e falar com um atendente de acordo com a região escolhida pelo usuário                                                                                                |
+| 7   | Cenários Principais   | Usuário conseguir acessar a aba ajuda para descobrir como o aplicativo funciona, cessar dúvidas sobre a conta, planos, pagamentos, desbloqueio/devolução e viagens                                                                                                                                                              |
+| 8   | Cenários alternativos | Existe a opção do chat e falar com um atendente de acordo com a região escolhida pelo usuário                                        |
 | 9   | Cenários de exceção   | Usuário não ter feito login                                                                                                          |
+| 10  | Rastreabilidade       |                                                                                                                                      |
 
 *Tabela 7: Caso de uso 6*
 
@@ -151,25 +158,10 @@
 | 7   | Cenários Principais   | Usuário     conseguir visualizar todos os seus trajetos pelo aplicativo                                                           |
 | 8   | Cenários alternativos |  -                                                                                                                                |
 | 9   | Cenários de exceção   | Usuário não ter feito nenhuma viagem ainda                                                                                        |
+| 10  | Rastreabilidade       | RF08                                                                                                                              |
 
 *Tabela 8: Caso de uso 7*
 
-### 8 - Caso de Uso: Fazer logout
-![Logout](../assets/modelagem/casos-de-uso/logout.png)
-*Imagem 8: Caso de uso 8*
-
-| Item | Sigla | Definição |
-| :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
-| 1   | Versão                | 1.0                                                                                                            |
-| 2   | Autor                 | Lívia Rodrigues                                                                                                |
-| 3   | Descrição             | O usuário deverá conseguir fazer logout                                                                        |
-| 4   | Atores                | Usuário                                                                                                        |
-| 5   | Pré-condições         | O usuário fazer login                                                                                          |
-| 6   | Pós-condições         | O usuário fazer logout, acessando o menu e escolhendo sair no canto inferior esquerdo                          |
-| 7   | Cenários Principais   | Usuário faz login, entra no aplicativo e deseja sair                                                           |
-| 8   | Cenários alternativos |  -                                                                                                             |
-| 9   | Cenários de exceção   | Usuário continuar logado em sua conta                                                                          |
-
 ## Referências Bibliográficas
-- POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98)
-- Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs, Acesso em 25/02/2022
+- POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98).
+- Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs>. Acesso em 25/02/2022.
