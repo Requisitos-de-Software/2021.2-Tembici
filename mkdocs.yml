@@ -1,4 +1,6 @@
 site_name: Tembici
+repo_url: https://github.com/Requisitos-de-Software/2021.2-Tembici
+
 theme:
   name: material
   palette:
