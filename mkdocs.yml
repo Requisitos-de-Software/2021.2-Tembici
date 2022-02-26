@@ -32,7 +32,9 @@ nav:
       - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
     - Priorização: 
       - MosCoW: ./elicitacao/priorizacao/moscow.md
-
+  - Modelagem:
+    - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
+  
 markdown_extensions:
   - attr_list
   - md_in_html
