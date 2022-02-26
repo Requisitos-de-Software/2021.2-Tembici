@@ -105,7 +105,7 @@
 
 *Tabela 5: Caso de uso 4*
 
-### 5 - Caso de Uso: Realizar viagem
+### 5 - Caso de Uso: Realizar viagem e devolução
 ![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
 *Imagem 5: Diagrama 5*
 
@@ -113,12 +113,12 @@
 | :-- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Versão                | 1.0                                                                                                                                            |
 | 2   | Autor                 | Lívia Rodrigues                                                                                                                                |
-| 3   | Descrição             | O usuário deverá conseguir assinar o plano e retirar a bicicleta para realizar uma viagem                                                      |
+| 3   | Descrição             | O usuário deverá conseguir assinar o plano e retirar a bicicleta para realizar uma viagem e devolver no final do trajeto de acordo com a quantidade de vagas disponível em cada ponto                                                      |
 | 4   | Atores                | Usuário                                                                                                                                        |
 | 5   | Pré-condições         | O usuário ter feito cadastro, login e assinado um plano                                                                                        |
-| 6   | Pós-condições         | Usuário retirar bicicleta para viagem                                                                                                          |
-| 7   | Cenários Principais   | Usuário escolher cidade que deseja pedalar e retirar bicicleta na estação desejada, gerando um código no aplicativo e inserindo na estação ao lado esquerdo da bicicleta ou escaneando o código QR Code encontrado no guidão da bike ou debaixo do banco |
-| 8   | Cenários alternativos | Usuário retirar a bicicleta em uma estação e devolver em outra                                                                                 |
+| 6   | Pós-condições         | Usuário retirar bicicleta para viagem e devolver antes do tempo máximo escolhido pelo usuário no plano                                                                                                        |
+| 7   | Cenários Principais   | Usuário escolher cidade que deseja pedalar e retirar bicicleta na estação desejada, gerando um código no aplicativo (inserindo na estação ao lado esquerdo da bicicleta) ou escaneando o código QR Code (encontrado no guidão da bicicleta ou debaixo do banco), e devolvendo após o trajeto de acordo com a quantidade de vagas disponível em cada ponto, visualizando o tempo de posse da bicicleta no aplicativo, passado do tempo limite o usuário será cobrado de acordo com o seu plano                                                                     |
+| 8   | Cenários alternativos | Usuário retirar a bicicleta em uma estação e devolver em outra; Usuário passar do tempo limite do seu plano e pagar multa de acordo com o plano escolhido; Usuário fazer viagens extras e ser cobrado por elas                                                                                |
 | 9   | Cenários de exceção   | A compra não ter sido aprovada                                                                                                                 |
 | 10  | Rastreabilidade       | RF23, RF19                                                                                                                                     |
 
