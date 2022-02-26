@@ -63,7 +63,7 @@
 
 *Tabela 3: Caso de Uso 2*
 
-### 2 - Caso de Uso: Assinar plano
+### 3 - Caso de Uso: Assinar plano
 ![Assinar Plano](../assets/modelagem/casos-de-uso/planos_pagamento.png)
 *Imagem 3: Diagrama 3*
 
@@ -81,7 +81,7 @@
 
 *Tabela 4: Caso de Uso 3*
 
-### 3 - Caso de Uso: Ver mapa com as estações
+### 4 - Caso de Uso: Ver mapa com as estações
 ![Ver Mapa](../assets/modelagem/casos-de-uso/ver_mapa.png)
 *Imagem 4: Diagrama 4*
 
@@ -98,6 +98,76 @@
 | 9   | Cenários de exceção   | Mapa estar indisponível                                                                                        |
 
 *Tabela 5: Diagrama 4*
+
+### 5 - Caso de Uso: Realizar viagem
+![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
+*Imagem 5: Diagrama 5*
+
+| Item | Sigla | Definição |
+| :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
+| 1   | Versão                | 1.0                                                                                                            |
+| 2   | Autor                 | Lívia Rodrigues                                                                                                 |
+| 3   | Descrição             | O usuário deverá conseguir assinar o plano e retirar a bicicleta para realizar uma viagem                     |
+| 4   | Atores                | Usuário                                                                                                        |
+| 5   | Pré-condições         | O usuário ter feito cadastro, login e assinado um plano                                                     |
+| 6   | Pós-condições         | Usuário retirar bicicleta para viagem                          |
+| 7   | Cenários Principais   | Usuário escolher cidade que deseja pedalar e retirar bicicleta na estação desejada, gerando um código no aplicativo e inserindo na estação ao lado esquerdo da bicicleta ou escaneando o código QR Code encontrado no guidão da bike ou debaixo do banco|
+| 8   | Cenários alternativos | Usuário retirar a bicicleta em uma estação e devolver em outra                                                                                                              |
+| 9   | Cenários de exceção   | A compra não ter sido aprovada                                                             |
+
+*Tabela 6: Diagrama 5*
+
+### 6 - Caso de Uso: Aba ajuda
+![Aba Ajuda](../assets/modelagem/casos-de-uso/aba_ajuda.png)
+*Imagem 6: Diagrama 6*
+
+| Item | Sigla | Definição |
+| :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
+| 1   | Versão                | 1.0                                                                                                            |
+| 2   | Autor                 | Lívia Rodrigues                                                                                                 |
+| 3   | Descrição             | O usuário deverá conseguir acessar a opção ajuda do menu para se informar e tirar dúvidas                    |
+| 4   | Atores                | Usuário                                                                                                        |
+| 5   | Pré-condições         | O usuário ter cadastro no aplicativo e fazer login                                                   |
+| 6   | Pós-condições         | Usuário acessar a aba ajuda                          |
+| 7   | Cenários Principais   | Usuário conseguir acessar a aba ajuda para descobrir como o aplicativo funciona, cessar dúvidas sobre a conta, planos, pagamentos, desloqueio/devolução e viagens                                                                 |
+| 8   | Cenários alternativos |         Existe a opção do chat e falar com um atendente de acordo com a região escolhida pelo usuário                                                                                                |
+| 9   | Cenários de exceção   | Usuário não ter feito login                                                                                       |
+
+*Tabela 7: Diagrama 6*
+
+### 7 - Caso de Uso: Visualizar histórico de viagem
+![Aba Viagem](../assets/modelagem/casos-de-uso/aba_viagem.png)
+*Imagem 7: Diagrama 7*
+
+| Item | Sigla | Definição |
+| :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
+| 1   | Versão                | 1.0                                                                                                            |
+| 2   | Autor                 | Lívia Rodrigues                                                                                                 |
+| 3   | Descrição             | O usuário deverá conseguir acessar a aba viagens do menu para visualizar o seus trajetos feitos, o seu histórico de viagem                    |
+| 4   | Atores                | Usuário                                                                                                        |
+| 5   | Pré-condições         | O usuário fazer login e já ter feito algum trajeto                                                   |
+| 6   | Pós-condições         | Usuário acessar a aba viagem e conferir seus trajetos                          |
+| 7   | Cenários Principais   | Usuário     conseguir visualizar todos os seus trajetos pelo aplicativo                                                               |
+| 8   | Cenários alternativos |  -                                                                                               |
+| 9   | Cenários de exceção   | Usuário não ter feito nenhuma viagem ainda                                                                                      |
+
+*Tabela 8: Diagrama 7*
+
+### 8 - Caso de Uso: Fazer logout
+![Logout](../assets/modelagem/casos-de-uso/logout.png)
+*Imagem 8: Diagrama 8*
+
+| Item | Sigla | Definição |
+| :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
+| 1   | Versão                | 1.0                                                                                                            |
+| 2   | Autor                 | Lívia Rodrigues                                                                                                 |
+| 3   | Descrição             | O usuário deverá conseguir fazer logout                   |
+| 4   | Atores                | Usuário                                                                                                        |
+| 5   | Pré-condições         | O usuário fazer login                                                   |
+| 6   | Pós-condições         | O usuário fazer logout, acessando o menu e escolhendo sair no canto inferior esquerdo                         |
+| 7   | Cenários Principais   | Usuário faz login, entra no aplicativo e deseja sair                                                              |
+| 8   | Cenários alternativos |  -                                                                                              |
+| 9   | Cenários de exceção   | Usuário continuar logado em sua conta                                                                                    |
 
 ## Referências Bibliográficas
 - POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98)
