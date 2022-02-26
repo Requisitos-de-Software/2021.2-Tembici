@@ -1,6 +1,10 @@
 site_name: Tembici
+repo_url: https://github.com/Requisitos-de-Software/2021.2-Tembici
+
 theme:
   name: material
+  icon:
+    repo: fontawesome/brands/github
   palette:
     primary: pink
     accent: indigo
@@ -15,8 +19,12 @@ nav:
   - Início: ./index.md
   - Apresentações: 
     - Primeira Apresentação: ./apresentacoes/apresentacao1.md
-    - Sengunda Apresentação: ./apresentacoes/apresentacao2.md
-  - Planejamento: ./planejamento/planejamento.md
+    - Segunda Apresentação: ./apresentacoes/apresentacao2.md
+  - Planejamento: 
+    - Metodologia: ./planejamento/metodologia.md
+    - Ferramentas Utilizadas: ./planejamento/ferramentas.md
+    - Cronograma: ./planejamento/cronograma.md
+    - Políticas: ./planejamento/politicas.md
   - Pré-Rastreabilidade: 
     - Rich Picture: ./pre-rastreabilidade/rich-picture.md
     - 5W2H: ./pre-rastreabilidade/5w2h.md
@@ -26,10 +34,15 @@ nav:
       - Instrospecção: ./elicitacao/introspeccao.md
       - Questionario: ./elicitacao/questionario.md
       - Brainstorm: ./elicitacao/brainstorm.md
-    - Priorização: ./priorizacao/priorizacao.md
-  - Modelagem:
+      - Priorização: 
+        - MosCoW: ./elicitacao/priorizacao/moscow.md
+   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
-    
+    - Técnicas: 
+      - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
+      - Questionário: ./elicitacao/tecnicas/questionario.md
+      - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+
 markdown_extensions:
   - attr_list
   - md_in_html
