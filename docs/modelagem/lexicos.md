@@ -4,7 +4,8 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 02/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
+| 1.0 | 24/02 | Abertura do documento Lexico | Paulo Henrique e Luiz Henrique |
+| 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
 
 
 *Tabela 1: versionamento*
