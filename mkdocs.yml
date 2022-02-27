@@ -38,7 +38,8 @@ nav:
         - MosCoW: ./elicitacao/priorizacao/moscow.md
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
-
+    - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
+    
 markdown_extensions:
   - attr_list
   - md_in_html
