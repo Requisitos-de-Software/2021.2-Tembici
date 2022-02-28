@@ -34,7 +34,7 @@ nav:
       - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
       - Questionário: ./elicitacao/tecnicas/questionario.md
       - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
-      - Priorização: 
+    - Priorização: 
         - MosCoW: ./elicitacao/priorizacao/moscow.md
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
