@@ -7,11 +7,14 @@
 | 1.0 | 24/02 | Abertura do documento Lexico | Paulo Henrique e Luiz Henrique |
 | 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
 | 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
+| 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
+
 
 *Tabela 1: Versionamento da modelagem*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+
+O Léxico é uma técnica de modelagem que permite a descrição dos símbolos de uma linguagem, ele se assemelha a um dicionário que auxiliará na identificação de palavras ou frases peculiares relativas ao meio social da aplicação. Os símbolos da linguagem são descritos considerando noção e impacto, onde noção representa o significado do símbolo (denotação) e impacto, descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo.
 
 *Tabela 2: Introdução sobre o que é o Léxicos*
 
@@ -31,12 +34,12 @@
 |**XX**|Numeração|
 
 *Tabela 3: Metodologia do léxicos*
-<!-- 
-## Resultados -->
 
-## Léxicos
+## Resultados
 
-### Objetos 
+### Léxicos
+
+#### Objetos 
 
 |LO01|**Usuário**|
 |---|------------------|
@@ -94,117 +97,116 @@
 
 *Tabela 4: Léxicos Objetos*
 
-### Verbos
+#### Verbos
 
 | LV01 | **Alugar bicicleta** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV02 | **Alugar bicicleta** |
+| LV02 | **Aplicar cupom** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Utilizar , ter desconto |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV03 | **Aplicar cupon** |
+| LV03 | **Assinar plano** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Contratar plano, Comprar Plano, Escolher plano |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV04 | **Assinar plano** |
+| LV04 | **Cadastrar cartão** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** |<center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV05 | **Cancelar plano** |
+| LV05 | **Cadastrar usuário** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Realizar Cadastro |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV06 | **Consultar Histórico** |
+| LV06 | **Cancelar plano** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV07 | **Cadastrar usuário** |
+| LV07 | **Cobrar multa** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Aplicar multa, Ter custos adicionais |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV08 | **Cobrar multa** |
+| LV08 | **Começar a pedalar** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Realizar a primeira viagem |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV09 | **Consultar bicicletas disponiveis** |
+| LV09 | **Consultar Histórico** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Acessar Histórico, ver minhas viagens  |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV10 | **Consultar vagas disponiveis** |
+| LV10 | **Consultar bicicletas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV11 | **Devolver bicicleta** |
+| LV11 | **Consultar vagas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV12 | **Desbloquear bicicleta** |
+| LV12 | **Devolver bicicleta** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV13 | **Escolher plano** |
+| LV13 | **Iniciar rota** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV14 | **Desbloquear bicicleta** |
+| LV14 | **Gerar código** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
-| LV15 | **Escolher plano** |
+| LV15 | **Ler QR Code** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | <center> --- </center> |
 | **Noção** |  |
 | **Impacto**|  |
 
 | LV16 | **Logar no sistema** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Acessar sistema |
 | **Noção** |  |
 | **Impacto**|  |
 
 | LV17 | **Realizar pagamento** |
 | ------ | ---- | 
-| **Sinônimos** |  |
+| **Sinônimos** | Efetuar pagamento |
 | **Noção** |  |
 | **Impacto**|  |
 
-*Tabela 5: Léxicos Verbo*
+*Tabela 5: Léxicos Verbos*
 
-### Estados
+#### Estados
 
 *Tabela 6: Léxicos Estados*
 
 ## Referências
-<!-- Adicionar Referências -->
-<!-- - <p></p> -->
-*Tabela 7: Referência*
+
+<p>Wiki Requisitos - Lexicos - Ingresso.com. Disponível em: https://requisitos-de-software.github.io/2021.1-Ingresso.com/modelagem/lexicos/. Acesso em: 25 de fevereiro de 2022.</p>
