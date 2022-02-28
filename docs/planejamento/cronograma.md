@@ -43,7 +43,8 @@
 | Revisar artefatos e preparar apresentação 3 | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Backlog | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique |
 | Histórias do usuário | 28/02 - 07/03 | João Victor Batista, Lívia Rodrigues |
-| NFR framework | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
+| NFR framework | 28/02 - 07/03 | Victor Eduardo |
+| iStar | 28/02 - 07/03 | Luiz Henrique |
 | Revisar artefatos e preparar apresentação 4 | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Verificação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Validação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
