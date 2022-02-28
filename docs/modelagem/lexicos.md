@@ -14,7 +14,7 @@
 
 ## Introdução
 
-O Léxico é uma técnica de modelagem que permite a descrição dos símbolos de uma linguagem, ele se assemelha a um dicionário que auxiliará na identificação de palavras ou frases peculiares relativas ao meio social da aplicação. Os símbolos da linguagem são descritos considerando noção e impacto, onde noção representa o significado do símbolo (denotação) e impacto, descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo.
+O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo.
 
 *Tabela 2: Introdução sobre o que é o Léxicos*
 
@@ -102,104 +102,105 @@ O Léxico é uma técnica de modelagem que permite a descrição dos símbolos d
 | LV01 | **Alugar bicicleta** |
 | ------ | ---- | 
 | **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário irá, através do aluguel da bicicleta, poder utiliza a bicicleta escolhida para se locomover |
+| **Impacto**| O desbloqueará para uso uma bicileta |
 
 | LV02 | **Aplicar cupom** |
 | ------ | ---- | 
-| **Sinônimos** | Utilizar , ter desconto |
-| **Noção** |  |
-| **Impacto**|  |
+| **Sinônimos** | Utilizar desconto, Aplicar desconto |
+| **Noção** | O usuário poderá, caso possua um cupom, ter descontos nas compras dentro do app |
+| **Impacto**| O usuário terá variados descontos ao realizar o pagamento de uma compra |
 
 | LV03 | **Assinar plano** |
 | ------ | ---- | 
 | **Sinônimos** | Contratar plano, Comprar Plano, Escolher plano |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá assinar um plano no app para receber benefícios a mais |
+| **Impacto**| O usuário com plano tem direito a alguns beneficos a mais nas funcionalidade do aplicativo |
 
 | LV04 | **Cadastrar cartão** |
 | ------ | ---- | 
 | **Sinônimos** |<center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário irá, caso queira realizar uma compra, cadastrar um cartão onde será comprado o pagamento |
+| **Impacto**| O usuário será capaz de efutar uma compra utilizando o cartão como seu meio de pagamento |
 
 | LV05 | **Cadastrar usuário** |
 | ------ | ---- | 
 | **Sinônimos** | Realizar Cadastro |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá se cadastrar no app e receber alguns benefícios |
+| **Impacto**| 	O usuário cadastrado tem direito a algumas funcionalidades a mais |
 
 | LV06 | **Cancelar plano** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá cancelar um plano contrato seguindo as diretris estipuladas na contratação do plano |
+| **Impacto**| O usuário após cancelar o plano perderá os bebficios do mesmo e estará sujeito a multas estipuladas nas diretrizes |
 
 | LV07 | **Cobrar multa** |
 | ------ | ---- | 
 | **Sinônimos** | Aplicar multa, Ter custos adicionais |
-| **Noção** |  |
+| **Noção** | O usuário estará sujeito a multas caso infrinja algum acordo estipulado nas compras dentro da plataforma |
 | **Impacto**|  |
 
 | LV08 | **Começar a pedalar** |
 | ------ | ---- | 
 | **Sinônimos** | Realizar a primeira viagem |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário irá realizar sua primeira viagem no aplicativo |
+| **Impacto**| O usuário após realizar sua primeira viagem poderá visualizar seu historico de viagens|
 
-| LV09 | **Consultar Histórico** |
+| LV09 | **Consultar Histórico de viagens** |
 | ------ | ---- | 
-| **Sinônimos** | Acessar Histórico, ver minhas viagens  |
-| **Noção** |  |
-| **Impacto**|  |
+| **Sinônimos** | Acessar Histórico de viagens, ver minhas viagens  |
+| **Noção** | O usuário poderá consultar seu historico de viagens contendo detalhes das viagens realizadas pelo usuário |
+| **Impacto**| O usuário poderá obter metricas quanto a suas viagens |
 
 | LV10 | **Consultar bicicletas disponiveis** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá consultar no app em que postos possuem bicicletas disponiveis |
+| **Impacto**| O usuário consiguirá encontrar bicicletas do app para desbloquear |
 
 | LV11 | **Consultar vagas disponiveis** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá consultar no app em que postos há vagas disponiveis para a devolução de uma bicicleta |
+| **Impacto**| O usuário consiguirá encontrar vagas para devolver a bicicleta após a viagem |
 
 | LV12 | **Devolver bicicleta** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário irá, após uma viagem, devolver um bicicleta que alugou |
+| **Impacto**| Após usuário devolver a bicicleta a mesma ficará disponivel para mais pessoas utilizarem |
 
 | LV13 | **Iniciar rota** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá utilizar o app para guiar sua rota até o posto de retirada desejado |
+| **Impacto**| O usuário consiguirá encontrar o posto para realizar o desbloqueo e/o devolução da uma bicicleta|
 
 | LV14 | **Gerar código** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá, para realizar o desbloqueio de uma bicleta, utilizar um código gereado em seu app que será digitado no posto de retirada |
+| **Impacto**| O usuário consiguirá, utilizando código, desbloquear uma bicicleta para realizar uma viagem |
 
 | LV15 | **Ler QR Code** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário poderá, para realizar o desbloqueio de uma bicleta, realizar a leitura um código QR Code locaçlizado no posto de retirada |
+| **Impacto**| O usuário consiguirá, lendo o QR Code, desbloquear uma bicicleta para realizar uma viagem |
+
 
 | LV16 | **Logar no sistema** |
 | ------ | ---- | 
 | **Sinônimos** | Acessar sistema |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário já cadastrado, utilizando suas credenciais, poderá logar no sistema |
+| **Impacto**| Ao logar, o usuário poderá ter acesso às informações sobre sua conta, bem como os benefícios de um usuário cadastrado |
 
 | LV17 | **Realizar pagamento** |
 | ------ | ---- | 
 | **Sinônimos** | Efetuar pagamento |
-| **Noção** |  |
-| **Impacto**|  |
+| **Noção** | O usuário irá, efetivar o processo de compra de um item, realizando o pagamento do valor correspondente ao mesmo  |
+| **Impacto**| O pagará e poderá disfrutar do item comprado |
 
 *Tabela 5: Léxicos Verbos*
 
