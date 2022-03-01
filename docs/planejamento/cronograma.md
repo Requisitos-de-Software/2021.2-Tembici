@@ -39,7 +39,7 @@
 | Cenários | 07/02 - 14/02 | Gabriel Sabanai, João Victor Batista |
 | Léxicos | 07/02 - 14/02 | Paulo Henrique, Luiz Henrique |
 | Diagrama de casos de Uso | 14/02 - 21/02 |  Victor Eduardo, Lívia Rodrigues |
-| Especificação Suplementar | 14/02 - 21/02 |  Victor Eduardo, Lívia Rodrigues |
+| Especificação Suplementar | 14/02 - 21/02 |  Victor Eduardo |
 | Revisar artefatos e preparar apresentação 3 | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Backlog | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique |
 | Histórias do usuário | 28/02 - 07/03 | João Victor Batista, Lívia Rodrigues |
