@@ -14,7 +14,7 @@
 
 ## Introdução
 
-O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo.
+<p style="text-align: justify;"> O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. </p>
 
 *Tabela 2: Introdução sobre o que é o Léxicos*
 
@@ -30,7 +30,7 @@ O Léxico é uma técnica de modelagem que permite a descrição de símbolos de
 |Legenda||
 |:----:|:--------------------:|
 |**L**|Léxico|
-|**C**|Classificação (estado, verbo ou objeto)|
+|**C**|Classificação (Estado(E),Verbo(V) ou Ofbjeto(O))|
 |**XX**|Numeração|
 
 *Tabela 3: Metodologia do léxicos*
@@ -205,6 +205,42 @@ O Léxico é uma técnica de modelagem que permite a descrição de símbolos de
 *Tabela 5: Léxicos Verbos*
 
 #### Estados
+
+| LE01 | **O Tempo está acabando** |
+| ------ | ---- | 
+| **Sinônimos** |  |
+| **Noção** | |
+| **Impacto**| |
+
+| LE02 | **O Tempo acabou** |
+| ------ | ---- | 
+| **Sinônimos** |  |
+| **Noção** | |
+| **Impacto**| |
+
+| LE03 | **Bicicleta Disponível** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
+
+| LE04 | **Bicicleta Indisponível** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
+
+| LE05 | **Sem plano** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
+
+| LE06 | **Comprar plano** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
 
 *Tabela 6: Léxicos Estados*
 
