@@ -8,13 +8,15 @@
 | 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
 | 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
 | 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
+| 1.4 | 02/03 | Adição da tabela de estados | Paulo Henrique |
+
 
 
 *Tabela 1: Versionamento da modelagem*
 
 ## Introdução
 
-O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo.
+<p style="text-align: justify;"> O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. </p>
 
 *Tabela 2: Introdução sobre o que é o Léxicos*
 
@@ -30,7 +32,7 @@ O Léxico é uma técnica de modelagem que permite a descrição de símbolos de
 |Legenda||
 |:----:|:--------------------:|
 |**L**|Léxico|
-|**C**|Classificação (estado, verbo ou objeto)|
+|**C**|Classificação (Estado(E),Verbo(V) ou Ofbjeto(O))|
 |**XX**|Numeração|
 
 *Tabela 3: Metodologia do léxicos*
@@ -205,6 +207,42 @@ O Léxico é uma técnica de modelagem que permite a descrição de símbolos de
 *Tabela 5: Léxicos Verbos*
 
 #### Estados
+
+| LE01 | **O Tempo está acabando** |
+| ------ | ---- | 
+| **Sinônimos** | O Tempo do aluguel está acabando |
+| **Noção** | O Tempo está acabando significa que o tempo que previsto pelo aplicaticativo está chegando ao fim e você deverá procurar o posto de bicicletas mais próximo |
+| **Impacto**| O usuário pode estar com o tempo de uso da bicicleta acabando e assim, poderá deveolve-lá ao posto mais próximo ou poderá continuar usando, porém terá que pagar uma taxa pelo tempo excedidio |
+
+| LE02 | **O Tempo acabou** |
+| ------ | ---- | 
+| **Sinônimos** | O Tempo do aluguel chegou ao fim |
+| **Noção** | O Tempo acabou significa que tempo de aluguel da bicicleta chegou ao fim |
+| **Impacto**| O usuário poderá ter o tempo acabado conforme a escolha do plano/aluguel escolhido no aplicativo |
+
+| LE03 | **Bicicleta Disponível** |
+| ------ | ---- | 
+| **Sinônimos** | A bicicleta não está sendo usada |
+| **Noção** | A bicicleta estar disponível significa que ela poderá ser usada pelo usuário |
+| **Impacto**| O usuário poderá pegar a bicleta que estiver diponível no posto de bicletas para poder andar pela cidade |
+
+| LE04 | **Bicicleta Indisponível** |
+| ------ | ---- | 
+| **Sinônimos** |  |
+| **Noção** | |
+| **Impacto**| |
+
+| LE05 | **Sem plano** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
+
+| LE06 | **Planos disponíveis** |
+| ------ | ---- | 
+| **Sinônimos** | |
+| **Noção** | |
+| **Impacto**| |
 
 *Tabela 6: Léxicos Estados*
 
