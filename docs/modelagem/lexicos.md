@@ -8,7 +8,7 @@
 | 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
 | 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
 | 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
-| 1.4 | 02/03 | Adição da tabela de estados | Paulo Henrique |
+| 1.4 | 02/03 | Adição da tabela de estados | Luiz Henrique e Paulo Henrique |
 
 
 
