@@ -43,47 +43,47 @@
 
 #### Objetos 
 
-|LO01|**Usuário**|
+|LO01|**Artefato**|
 |---|------------------|
-|**Sinônimos**|Cliente|
-|**Noção**|Pessoa que irá usar o aplicativo tembici|
-|**Impacto**|O usuário pederá pagar o plano que a plataforma oferece para que possa usufruir do serviço e consequentemente andar de bicicleta pela cidade|
+|**Sinônimos**|Atividade, "Task", Artifício|
+|**Noção**| Atividade que será entregue para incremento da documentação ao final da sprint |
+|**Impacto**| O artefato irá acrescentar no desenvolvimento da documentação a fim enterdemos melhor sobre o aplicativo |
 
-|LO02|**Requisito**|
-|---|------------------|
-|**Sinônimos**|Exigência, Premissas|
-|**Noção**| Premissas que irão ser usadas para desenvolver a melhor aplicação possível |
-|**Impacto**| Premissas essas que irão impactar e agregar valor no produto final para o cliente |
-
-|LO03|**Software**|
-|---|------------------|
-|**Sinônimos**|Programa, Aplicativo|
-|**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
-|**Impacto**| O usuário poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
-
-|LO04|**Repositório**|
-|---|------------------|
-|**Sinônimos**|Depósito, Armazenamento|
-|**Noção**|Lugar aonde guardamos de forma online todos as nossas documentações|
-|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o software oferece, poderão acessar o repositório do projeto a fim de conhcer um pouco mais sobre o aplicativo |
-
-|LO05|**Back-end**|
+|LO02|**Back-end**|
 |---|------------------|
 |**Sinônimos**| "Por-trás", "Parte de trás" |
 |**Noção**| Programa que roda por trás do software, fica entre o usuário e o que possível ser visto por ele |
 |**Impacto**| Ele conectará o usuário com o banco de dados, isso fará com que usuário possa consumir os seus própios dados e os dados sobre as bicicletas |
 
-|LO06|**Clone**|
+|LO03|**Clone**|
 |---|------------------|
 |**Sinônimos**| Cópia |
 |**Noção**| Cópia do código da docuementação que está guardado no repositório |
 |**Impacto**| Com o clone da documentação será possível versionar o projeto para que o incremento dos artefatos sejam entregue mais rápido e com maior eficiência |
 
-|LO07|**Thumbnail**|
+|LO04|**Usuário**|
 |---|------------------|
-|**Sinônimos**| Miniatura |
-|**Noção**| Imagem que represente algo que será assistido |
-|**Impacto**| A thumbnail será útil para pré-visualização as apresentações da dusciplina |
+|**Sinônimos**|Cliente|
+|**Noção**|Pessoa que irá usar o aplicativo tembici|
+|**Impacto**|O usuário pederá pagar o plano que a plataforma oferece para que possa usufruir do serviço e consequentemente andar de bicicleta pela cidade|
+
+|LO05|**Requisito**|
+|---|------------------|
+|**Sinônimos**|Exigência, Premissas|
+|**Noção**| Premissas que irão ser usadas para desenvolver a melhor aplicação possível |
+|**Impacto**| Premissas essas que irão impactar e agregar valor no produto final para o cliente |
+
+|LO06|**Repositório**|
+|---|------------------|
+|**Sinônimos**|Depósito, Armazenamento|
+|**Noção**|Lugar aonde guardamos de forma online todos as nossas documentações|
+|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o software oferece, poderão acessar o repositório do projeto a fim de conhcer um pouco mais sobre o aplicativo |
+
+|LO07|**Software**|
+|---|------------------|
+|**Sinônimos**|Programa, Aplicativo, App|
+|**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
+|**Impacto**| O usuário poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
 
 |LO08|**Sprint**|
 |---|------------------|
@@ -91,11 +91,11 @@
 |**Noção**| Tempo determinado pelo time do projeto para a execução e entrega de um ou mais artefatos |
 |**Impacto**| A sprint trará impacto significativo para a entrega da documentação dos requisitos, com incrementos graduais, em um curto prazo |
 
-|LO09|**Artefato**|
+|LO09|**Thumbnail**|
 |---|------------------|
-|**Sinônimos**|Atividade, "Task", Artifício|
-|**Noção**| Atividade que será entregue para incremento da documentação ao final da sprint |
-|**Impacto**| O artefato irá acrescentar no desenvolvimento da documentação a fim enterdemos melhor sobre o aplicativo |
+|**Sinônimos**| Miniatura |
+|**Noção**| Imagem que represente algo que será assistido |
+|**Impacto**| A thumbnail será útil para pré-visualização as apresentações da dusciplina |
 
 *Tabela 4: Léxicos Objetos*
 
@@ -208,41 +208,54 @@
 
 #### Estados
 
-| LE01 | **O Tempo está acabando** |
-| ------ | ---- | 
-| **Sinônimos** | O Tempo do aluguel está acabando |
-| **Noção** | O Tempo está acabando significa que o tempo que previsto pelo aplicaticativo está chegando ao fim e você deverá procurar o posto de bicicletas mais próximo |
-| **Impacto**| O usuário pode estar com o tempo de uso da bicicleta acabando e assim, poderá deveolve-lá ao posto mais próximo ou poderá continuar usando, porém terá que pagar uma taxa pelo tempo excedidio |
-
-| LE02 | **O Tempo acabou** |
-| ------ | ---- | 
-| **Sinônimos** | O Tempo do aluguel chegou ao fim |
-| **Noção** | O Tempo acabou significa que tempo de aluguel da bicicleta chegou ao fim |
-| **Impacto**| O usuário poderá ter o tempo acabado conforme a escolha do plano/aluguel escolhido no aplicativo |
-
-| LE03 | **Bicicleta Disponível** |
+| LE01 | **Bicicleta Disponível** |
 | ------ | ---- | 
 | **Sinônimos** | A bicicleta não está sendo usada |
 | **Noção** | A bicicleta estar disponível significa que ela poderá ser usada pelo usuário |
 | **Impacto**| O usuário poderá pegar a bicleta que estiver diponível no posto de bicletas para poder andar pela cidade |
 
-| LE04 | **Bicicleta Indisponível** |
+| LE02 | **Bicicleta Indisponível** |
 | ------ | ---- | 
-| **Sinônimos** |  |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | A bicicleta está sendo usada |
+| **Noção** | A bicicleta estar indisponível significa que ela não está sendo usada por um usuárío |
+| **Impacto**| O usuário não poderá pegar as bicletas que não estiverem diponíveis, dendo que esperar sua devolução no posto de bicletas para poder utiliza-la |
 
-| LE05 | **Sem plano** |
+| LE03 | **Não cadastrado** |
 | ------ | ---- | 
-| **Sinônimos** | |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | Usuário sem cadastro |
+| **Noção** | Estado em que o usuário ainda não realizou o cadastro no sistema |
+| **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não possuir credenciais para se logar no sistema |
 
-| LE06 | **Planos disponíveis** |
+| LE04 | **Não logado** |
 | ------ | ---- | 
-| **Sinônimos** | |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | Usuário deslogado |
+| **Noção** | Estado em que o usuário ainda não realizou o login no sistema |
+| **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não estar com os beficios realacionados a um usuário logado |
+
+| LE05 | **O Tempo está acabando** |
+| ------ | ---- | 
+| **Sinônimos** | O Tempo do aluguel está acabando |
+| **Noção** | O Tempo está acabando significa que o tempo que previsto pelo aplicaticativo está chegando ao fim e você deverá procurar o posto de bicicletas mais próximo |
+| **Impacto**| O usuário pode estar com o tempo de uso da bicicleta acabando e assim, poderá deveolve-lá ao posto mais próximo ou poderá continuar usando, porém terá que pagar uma taxa pelo tempo excedidio |
+
+| LE06 | **O Tempo acabou** |
+| ------ | ---- | 
+| **Sinônimos** | O Tempo do aluguel chegou ao fim |
+| **Noção** | O Tempo acabou significa que tempo de aluguel da bicicleta chegou ao fim |
+| **Impacto**| O usuário poderá ter o tempo acabado conforme a escolha do plano/aluguel escolhido no aplicativo |
+
+| LE07 | **Planos disponíveis** |
+| ------ | ---- | 
+| **Sinônimos** | Opções de plano |
+| **Noção** | Opções de planos disponiveis para a contratação, definidas pela localização do usuário |
+| **Impacto**| Os planos disponiveis limitam as opções de escolha de plano do usuário, podendo apenas contratar os planos disponiveis para a cidade selecionada |
+
+| LE08 | **Sem plano** |
+| ------ | ---- | 
+| **Sinônimos** | Não possui plano |
+| **Noção** | Estado em que o usuário não contratou um plano |
+| **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não possuir os beneficios realacionados a um plano |
+
 
 *Tabela 6: Léxicos Estados*
 
