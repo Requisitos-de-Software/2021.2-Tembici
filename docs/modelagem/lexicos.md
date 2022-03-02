@@ -222,13 +222,13 @@
 
 | LE03 | **Bicicleta Disponível** |
 | ------ | ---- | 
-| **Sinônimos** | |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | A bicicleta não está sendo usada |
+| **Noção** | A bicicleta estar disponível significa que ela poderá ser usada pelo usuário |
+| **Impacto**| O usuário poderá pegar a bicleta que estiver diponível no posto de bicletas para poder andar pela cidade |
 
 | LE04 | **Bicicleta Indisponível** |
 | ------ | ---- | 
-| **Sinônimos** | |
+| **Sinônimos** |  |
 | **Noção** | |
 | **Impacto**| |
 
