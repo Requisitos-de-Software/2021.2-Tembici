@@ -8,6 +8,8 @@
 | 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
 | 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
 | 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
+| 1.4 | 02/03 | Adição da tabela de estados | Paulo Henrique |
+
 
 
 *Tabela 1: Versionamento da modelagem*
@@ -208,15 +210,15 @@
 
 | LE01 | **O Tempo está acabando** |
 | ------ | ---- | 
-| **Sinônimos** |  |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | O Tempo do aluguel está acabando |
+| **Noção** | O Tempo está acabando significa que o tempo que previsto pelo aplicaticativo está chegando ao fim e você deverá procurar o posto de bicicletas mais próximo |
+| **Impacto**| O usuário pode estar com o tempo de uso da bicicleta acabando e assim, poderá deveolve-lá ao posto mais próximo ou poderá continuar usando, porém terá que pagar uma taxa pelo tempo excedidio |
 
 | LE02 | **O Tempo acabou** |
 | ------ | ---- | 
-| **Sinônimos** |  |
-| **Noção** | |
-| **Impacto**| |
+| **Sinônimos** | O Tempo do aluguel chegou ao fim |
+| **Noção** | O Tempo acabou significa que tempo de aluguel da bicicleta chegou ao fim |
+| **Impacto**| O usuário poderá ter o tempo acabado conforme a escolha do plano/aluguel escolhido no aplicativo |
 
 | LE03 | **Bicicleta Disponível** |
 | ------ | ---- | 
@@ -236,7 +238,7 @@
 | **Noção** | |
 | **Impacto**| |
 
-| LE06 | **Comprar plano** |
+| LE06 | **Planos disponíveis** |
 | ------ | ---- | 
 | **Sinônimos** | |
 | **Noção** | |
