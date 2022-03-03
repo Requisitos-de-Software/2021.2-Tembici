@@ -31,36 +31,38 @@ Os rótulos utilizados foram:
 
 *Tabela 2: Rótulos*
 
-## Gráfico de Interdependência de Softgoal (SIG)
-### Usabilidade 
+## Resultados
+
+### Gráfico de Interdependência de Softgoal (SIG)
+#### Usabilidade 
 ![NFR Usabilidade](../assets/modelagem/nfr-framework/usabilidade/usabilidade.jpg)<br>
 *Imagem 1: NFR Usabilidade*
 
-### Usabilidade Propagação
+#### Usabilidade Propagação
 ![NFR Usabilidade Propagação](../assets/modelagem/nfr-framework/usabilidade/usabilidadeprop.jpg)<br>
 *Imagem 2: NFR Usabilidade Propagação*
 
-### Confiabilidade
+#### Confiabilidade
 ![NFR Confiabilidade](../assets/modelagem/nfr-framework/confiabilidade/confiabilidade.jpg)<br>
 *Imagem 3: NFR Confiabilidade*
 
-### Confiabilidade Propagação
+#### Confiabilidade Propagação
 ![NFR Confiabilidade Propagação](../assets/modelagem/nfr-framework/confiabilidade/confiabilidadeprop.jpg)<br>
 *Imagem 4: NFR Confiabilidade Propagação*
 
-### Desempenho
+#### Desempenho
 ![NFR Desempenho](../assets/modelagem/nfr-framework/desempenho/desempenho.jpg)<br>
 *Imagem 5: NFR Desempenho*
 
-### Desempenho Propagação
+#### Desempenho Propagação
 ![NFR Desempenho Propagação](../assets/modelagem/nfr-framework/desempenho/desempenhoprop.jpg)<br>
 *Imagem 6: NFR Desempenho Propagação*
 
-### Suportabilidade
+#### Suportabilidade
 ![NFR Suportabilidade](../assets/modelagem/nfr-framework/suportabilidade/suportabilidade.jpg)<br>
 *Imagem 7: NFR Suportabilidade*
 
-### Suportabilidade Propagação
+#### Suportabilidade Propagação
 ![NFR Suportabilidade Propagação](../assets/modelagem/nfr-framework/suportabilidade/suportabilidadeprop.jpg)<br>
 *Imagem 8: NFR Suportabilidade Propagação* 
 
