@@ -1,3 +1,5 @@
+# Casos de Uso
+
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -8,7 +10,6 @@
 
 *Tabela 1: Versionamento*
 
-# Casos de Uso
 ## Introdução
 <p align="justify">&emsp;&emsp;Também chamados de diagramas comportamentais, na notação da UML, os casos de uso são usados para descrever um conjunto de ações (uses cases - casos de uso) que um sistema ou um conjunto de sistemas (subject - sujeito) deve desempenhar em colaboração com um ou mais indivíduos externos ao sistema (actors - atores). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.</p>
 
@@ -162,5 +163,5 @@
 
 
 ## Referências Bibliográficas
-- POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98).
-- Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs>. Acesso em 25/02/2022.
+<p> POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98). </p>
+<p>Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs>. Acesso em 25/02/2022. </p>

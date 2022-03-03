@@ -83,10 +83,10 @@ Todas as funcionalidades do aplicativo Tembici podem ser encontradas na [lista d
 - Os usuários do software estarão sujeitos à lei de direitos autorais. Assim, o software será desenvolvido para um aplicativo de aluguel de bicicletas, não sendo autorizada a cópia de trechos do programa para utilizações diversas.
 
 ## Referências 
-- [1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. 2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 26 de fevereiro de 2022.
+<p>SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 13. 2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 26 de fevereiro de 2022.</p>
 
-- [2] GOIS, Samily Rocha; SOBRINHO, Francisco Luiz. PHP SOFTWARE COMPANY. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 26 de fevereiro de 2022.
+<p>GOIS, Samily Rocha; SOBRINHO, Francisco Luiz. PHP SOFTWARE COMPANY. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 26 de fevereiro de 2022.</p>
 
-- [3] FURPS+. QualidadeBR, 10 de julho de 2008. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A>. Acesso em: 26 de fevereiro de 2022.
+<p> FURPS+. QualidadeBR, 10 de julho de 2008. Disponível em: <https://qualidadebr.wordpress.com/2008/07/10/furps/#:~:text=FURPS%2B%20%C3%A9%20um%20sistema%20para,Rational%20Unified%20Process%20(RUP)%3A>. Acesso em: 26 de fevereiro de 2022.</p>
 
-- [4] Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 26 de fevereiro de 2022.
+<p> Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 26 de fevereiro de 2022. </p>
