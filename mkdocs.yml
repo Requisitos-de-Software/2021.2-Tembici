@@ -39,7 +39,7 @@ nav:
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
     - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
-    - Especificação Suplementar: ./modelagem/lexicos.md
+    - Lexícos: ./modelagem/lexicos.md
     
 markdown_extensions:
   - attr_list
