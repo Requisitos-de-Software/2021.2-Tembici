@@ -4,16 +4,16 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 28/02/2022 | Criação do artefato | Victor Eduardo |
-| 1.1 | 03/02/2022 | Revisão e padronização | Luiz Henrique |
+| 1.1 | 03/03/2022 | Revisão e padronização | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
-<p align="justify">&emsp;&emsp;Este framework é utilizado neste trabalho para representar os Requisitos Não-Funcionais presentes no Catálogo NFR4Es, onde estes Requisitos Não-Funcionais serão expressados através de um grafo SIG. O NFR framework criado por (CHUNG et al., 2000), foi adotado por propor uma abordagem específica para o tratamento de Requisitos Não-Funcionais e fornecer uma rica representação para expressar esses requisitos, além de suas relações e correlações [1].</p>
+<p align="justify">&emsp;&emsp;Este framework é utilizado neste trabalho para representar os Requisitos Não-Funcionais presentes no Catálogo NFR4Es, onde estes Requisitos Não-Funcionais serão expressados através de um grafo SIG. O NFR framework criado por (CHUNG et al., 2000), foi adotado por propor uma abordagem específica para o tratamento de Requisitos Não-Funcionais e fornecer uma rica representação para expressar esses requisitos, além de suas relações e correlações.</p>
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Essa técnica de modelagem trata de decompor os requisitos não funcionais a niveis operacionais, facilitando a compreensão, priorização e garantindo que as expectativas dos stakeholders sejam atendidas. Cada tema de diagrama NFR elaborado nesse documento foi retirado dos requisitos não funcionais levantados na <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/">especificação suplementar</a>.</p>
-Os tipos de contribuição utilizados nos diagramas foram [1]:
+Os tipos de contribuição utilizados nos diagramas foram:
 
 - AND: Caso os softgoals descendentes sejam satisfeitos, serão também os ascendentes.
 - OR: Caso algum softgoal descendentes seja satisfeitos, será também os ascendente.
@@ -68,4 +68,4 @@ Os rótulos utilizados foram:
 *Imagem 8: NFR Suportabilidade Propagação* 
 
 ## Referências 
-- [1] SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.
+- SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.

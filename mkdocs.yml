@@ -40,6 +40,7 @@ nav:
     - Casos de Uso: ./modelagem/casos_de_uso.md
     - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
     - NFR Framework: ./modelagem/nfrframework.md
+    - Istar: ./modelagem/istar.md
 
 markdown_extensions:
   - attr_list
