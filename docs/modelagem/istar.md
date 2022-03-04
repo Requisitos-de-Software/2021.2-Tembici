@@ -8,7 +8,7 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<p align="justify">&emsp;&emsp;A técnica iStar da etapa de Modelagem tem como objetivo o suporte à definição e especificação de elementos que compreenderão o produto final. A modelagem traz uma orientação voltada a objetivo e atores para o projeto, sendo dois elementos extremamente focalizados dentro da técnica. Sendo assim, o iStar consegue detalhar e melhorar a visualização de determinado contexto ou de determinado problema em estudo, correlacionando atores, problemas, objetivos e soluções.</p>
+<p align="justify">&emsp;&emsp;A técnica iStar da etapa de Modelagem tem como objetivo o suporte à definição e especificação de elementos que compreenderão o produto final. A modelagem traz uma orientação voltada a objetivo e atores para o projeto, sendo dois elementos extremamente focalizados dentro da técnica. Sendo assim, o iStar consegue detalhar e melhorar a visualização do contexto e/ou problema em estudo, correlacionando atores, problemas, objetivos e soluções.</p>
 
 ## Metodologia
  
