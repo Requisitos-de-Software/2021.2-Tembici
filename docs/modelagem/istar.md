@@ -1,4 +1,4 @@
-# NFR Framework 
+# iStar
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -15,7 +15,19 @@
 
 ## Resultados
 
+### Cadastro
 
+#### Modelo Depêndencia
+
+![Cadasttro - Modelo Depêndencia](../assets/modelagem/istar/DiagramaCadastro1.png)
+*Imagem 1: Cadasttro - Modelo Depêndencia*
+
+#### Modelo Rationale
+
+![Cadastro - Modelo Rationale](../assets/modelagem/istar/DiagramaCadastro2.png)
+*Imagem 2: Cadastro - Modelo Rationale*
+
+### Cadastro
 
 ## Referências 
 - SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.
