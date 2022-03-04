@@ -19,7 +19,7 @@
 
 #### Modelo Depêndencia
 
-![Cadasttro - Modelo Depêndencia](../assets/modelagem/istar/DiagramaCadastro1.png)
+![Cadastro - Modelo Depêndencia](../assets/modelagem/istar/DiagramaCadastro1.png)
 *Imagem 1: Cadasttro - Modelo Depêndencia*
 
 #### Modelo Rationale
@@ -31,16 +31,29 @@
 
 #### Modelo Depêndencia
 
-![Cadasttro - Modelo Depêndencia](../assets/modelagem/istar/DragramaAlugarPlano1.png)
+![Alugar bicicleta - Modelo Depêndencia](../assets/modelagem/istar/DragramaAlugarPlano1.png)
 *Imagem 3: Alugar bicicleta - Modelo Depêndencia*
 
 #### Modelo Rationale
 
-![Cadastro - Modelo Rationale](../assets/modelagem/istar/DragramaAlugarPlano2.png)
+![Alugar bicicleta - Modelo Rationale](../assets/modelagem/istar/DragramaAlugarPlano2.png)
 
 *Imagem 4: Alugar bicicleta - Modelo Rationale*
 
-### Cadastro
+### Devolver bicicleta
+
+#### Modelo Depêndencia
+
+![Devolver bicicleta - Modelo Depêndencia](../assets/modelagem/istar/DiagramaDevolver1.png)
+*Imagem 5: Devolver bicicleta - Modelo Depêndencia*
+
+#### Modelo Rationale
+
+![Devolver bicicleta - Modelo Rationale](../assets/modelagem/istar/DiagramaDevolver2.png)
+
+*Imagem 6: Devolver bicicleta - Modelo Rationale*
+
+
 
 ## Referências 
-- SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework.
+- SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework. Acesso em 
