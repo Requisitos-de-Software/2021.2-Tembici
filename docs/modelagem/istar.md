@@ -27,6 +27,19 @@
 ![Cadastro - Modelo Rationale](../assets/modelagem/istar/DiagramaCadastro2.png)
 *Imagem 2: Cadastro - Modelo Rationale*
 
+### Alugar bicicleta
+
+#### Modelo Depêndencia
+
+![Cadasttro - Modelo Depêndencia](../assets/modelagem/istar/DragramaAlugarPlano1.png)
+*Imagem 3: Alugar bicicleta - Modelo Depêndencia*
+
+#### Modelo Rationale
+
+![Cadastro - Modelo Rationale](../assets/modelagem/istar/DragramaAlugarPlano2.png)
+
+*Imagem 4: Alugar bicicleta - Modelo Rationale*
+
 ### Cadastro
 
 ## Referências 
