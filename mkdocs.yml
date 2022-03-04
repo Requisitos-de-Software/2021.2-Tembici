@@ -39,9 +39,10 @@ nav:
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
     - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
+    - Lexícos: ./modelagem/lexicos.md
     - NFR Framework: ./modelagem/nfrframework.md
     - Istar: ./modelagem/istar.md
-
+    
 markdown_extensions:
   - attr_list
   - md_in_html
