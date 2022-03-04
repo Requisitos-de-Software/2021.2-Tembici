@@ -60,4 +60,4 @@ O cronograma visa organizar de maneira sistematica em sprints ao longo do period
 
 ## Referências
 
-<p> SALES, André. Plano de Ensino: Requisitos de Software 2021.2. </p>
+<p> SALES, André. Plano de Ensino: Requisitos de Software 2021.2. Acesso em 03 de Março de 2022</p>
