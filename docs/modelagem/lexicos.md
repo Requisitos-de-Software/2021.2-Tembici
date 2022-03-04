@@ -16,7 +16,7 @@
 
 ## Introdução
 
-<p style="text-align: justify;"> O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. </p>
+<p style="text-align: justify;"> O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. [1]</p> 
 
 *Tabela 2: Introdução sobre o que é o Léxicos*
 
@@ -344,4 +344,5 @@
 
 ## Referências
 
-<p>Wiki Requisitos - Lexicos - Ingresso.com. Disponível em: https://requisitos-de-software.github.io/2021.1-Ingresso.com/modelagem/lexicos/. Acesso em: 25 de fevereiro de 2022.</p>
+<p>[1] SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. 2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 25 de fevereiro de 2022.</p>
+
