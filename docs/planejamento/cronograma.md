@@ -12,7 +12,8 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+
+O cronograma visa organizar de maneira sistematica em sprints ao longo do periodo do projeto as atividades que serão realizadas ao longo da disciplina, o  mesmo foi baseando no cronogrma de entregas das atividades do plano de ensino da disciplina Requisitos de Software, o mesmo está sujeito a autorações e acressimos caso necessário.
 
 ## Datas e Sprints
 
@@ -44,6 +45,7 @@
 | Backlog | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique |
 | Histórias do usuário | 28/02 - 07/03 | João Victor Batista, Lívia Rodrigues |
 | NFR framework | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
+| Istar | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
 | Revisar artefatos e preparar apresentação 4 | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Verificação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Validação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
@@ -57,5 +59,5 @@
 *Tabela 2: Distribuição de atividades do projeto*
 
 ## Referências
-<!-- Adicionar Referências -->
-<!-- - <p></p> -->
+
+<p> SALES, André. Plano de Ensino: Requisitos de Software 2021.2. </p>
