@@ -38,6 +38,7 @@ nav:
     - Personas: ./elicitacao/personas.md
   - Modelagem:
     - Casos de Uso: ./modelagem/casos_de_uso.md
+    - Cenários: ./modelagem/cenarios.md
     - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
     - Lexícos: ./modelagem/lexicos.md
     - NFR Framework: ./modelagem/nfrframework.md
