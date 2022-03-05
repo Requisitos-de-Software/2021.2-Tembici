@@ -164,4 +164,4 @@
 
 ## Referências Bibliográficas
 <p> POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98). </p>
-<p>Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs>. Acesso em 25/02/2022. </p>
+<p>Tutorial de Caso de Uso UML, Lucidchart Português, Youtube, Disponível em: <https://www.youtube.com/watch?v=ab6eDdwS3rA&ab_channel=LucidchartPortugu%C3%AAs>. Acesso em 25 Fevereiro de 2022. </p>
