@@ -12,6 +12,7 @@
 
 ## Metodologia
  
+<p align="justify">&emsp;&emsp;Foram desenvolvidos para o projeto seis diagramas utilizando o software  Draw.io que detalham e analisam contextos da aplicação, sendo eles: Cadastro, Alugar Bicicleta e Devolver Bicicleta. A seguir podemos analisar cada um desses diagramas envolvendo tanto o Modelo de Dependência quanto o Modelo Rationale para cada contexto analisado.
 
 ## Resultados
 
@@ -54,6 +55,7 @@
 *Imagem 6: Devolver bicicleta - Modelo Rationale*
 
 
-
 ## Referências 
-- SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework. Acesso em 
+Sanderson. iStar4G: Estendendo a linguagem iStar 2.0 para modelagem de jogos digitais. Disponível em: http://r1.ufrrj.br/nuesgames/Sanderson.pdf. Acesso em: Acesso em: 04 de Março de 2022
+
+iStar Language Guide. Disponível em: iStar Language Guide. Acesso em: 04 de Março de 2022
