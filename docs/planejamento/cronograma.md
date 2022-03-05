@@ -13,7 +13,7 @@
 
 ## Introdução
 
-O cronograma visa organizar de maneira sistematica em sprints ao longo do periodo do projeto as atividades que serão realizadas ao longo da disciplina, o  mesmo foi baseando no cronogrma de entregas das atividades do plano de ensino da disciplina Requisitos de Software, o mesmo está sujeito a autorações e acressimos caso necessário.
+<p align="justify">&emsp;&emsp; O cronograma visa organizar de maneira sistematica em sprints ao longo do periodo do projeto as atividades que serão realizadas ao longo da disciplina, o  mesmo foi baseando no cronogrma de entregas das atividades do plano de ensino da disciplina Requisitos de Software, o mesmo está sujeito a autorações e acressimos caso necessário. </p>
 
 ## Datas e Sprints
 

@@ -8,11 +8,10 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-Trata-se de um documento em linguagem natural, no qual são
-descritos os requisitos não funcionais [1]. Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design [2].
+<p align="justify">&emsp;&emsp;Trata-se de um documento em linguagem natural, no qual são descritos os requisitos não funcionais [1]. Este documento captura os requisitos de sistema que não foram identificados imediatamente nos Casos de Uso do Modelo de Casos de Uso. Entre estes requisitos estão incluídos: o Requisitos legais e reguladores, incluindo padrões de aplicativo; Atributos de qualidade do sistema a ser criado, incluindo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade. Outros requisitos, como sistemas operacionais e ambientes, requisitos de compatibilidade e restrições de design [2].</p>
 
 ## Metodologia
-Como metologia será usada a FURPS+, que é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP): Functionality (Funcionalidade), Usability (Usabilidade), Reliability (Confiabilidade), Performance (Desempenho), Supportability (Suportabilidade). O “+” do acrônimo engloba outros requisitos não-funcionais que devem ser lembrados [3].
+<p align="justify">&emsp;&emsp;Como metologia será usada a FURPS+, que é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP): Functionality (Funcionalidade), Usability (Usabilidade), Reliability (Confiabilidade), Performance (Desempenho), Supportability (Suportabilidade). O “+” do acrônimo engloba outros requisitos não-funcionais que devem ser lembrados [3].</p>
 
 ### Funcionalidade
 Todas as funcionalidades do aplicativo Tembici podem ser encontradas na [lista de priorização](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/) e nos [casos de usos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/casos_de_uso/) do projeto.
