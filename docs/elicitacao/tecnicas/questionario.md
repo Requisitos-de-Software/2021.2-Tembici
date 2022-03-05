@@ -8,6 +8,8 @@
 | 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
 | 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
 | 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.4 | 18/02 | Revisão | Luiz Henrique |
+| 1.5 | 04/03 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

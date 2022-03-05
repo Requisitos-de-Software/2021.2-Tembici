@@ -4,6 +4,8 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 25/02 | Criação do artefato | Victor Eduardo |
+| 1.1 | 21/02 | Revisão | Livia Rodriges |
+| 1.2 | 04/03 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

@@ -8,6 +8,9 @@
 | 1.2 | 02/02 | Adição do planejamento de trabalho | Gabriel Sabanai |
 | 1.3 | 04/02 | Adição do cronograma do projeto | João Victor Batista |
 | 1.4 | 24/02 | Padronização da página | Victor Eduardo |
+| 1.5 | 05/02 | Revisão | Gabriel Sabanai |
+| 1.6 | 04/03 | Adição revisor | Luiz Henrique |
+
 
 *Tabela 1: versionamento*
 
