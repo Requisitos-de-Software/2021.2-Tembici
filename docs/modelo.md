@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| | |   |   |
+| 1.0 | |   |   |
 
 *Tabela 1: versionamento*
 
