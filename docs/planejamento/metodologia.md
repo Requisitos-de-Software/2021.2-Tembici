@@ -4,8 +4,8 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 08/02 | Adição das metodologias usadas | Luiz Henrique, Victor Eduardo |
-| 1.1 | 24/02 | Padronização da página | Victor Eduardo |
-| 1.2 | 09/02 | Revisão | Victor Eduardo |
+| 1.1 | 09/02 | Revisão | Victor Eduardo |
+| 1.2 | 24/02 | Padronização da página | Victor Eduardo |
 | 1.3 | 05/03 | Adição revisor | Luiz Henrique |
 
 
