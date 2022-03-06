@@ -16,4 +16,4 @@ Nesse documento tem como objetivo armazenar a apresentação do primeiro ponto d
 ## Apresentação
 
 [![Apresentação 1](../assets/apresentacoes/AP1.png)](https://youtu.be/8ssdPAHgU4U)
-*Apresentação 1 thumbnail*
+*Imagem 1: Apresentação 1 thumbnail*
