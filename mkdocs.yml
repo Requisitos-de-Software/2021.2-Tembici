@@ -20,6 +20,7 @@ nav:
   - Apresentações: 
     - Primeira Apresentação: ./apresentacoes/apresentacao1.md
     - Segunda Apresentação: ./apresentacoes/apresentacao2.md
+    - Terceira Apresentação: ./apresentacoes/apresentacao3.md
   - Planejamento: 
     - Metodologia: ./planejamento/metodologia.md
     - Ferramentas Utilizadas: ./planejamento/ferramentas.md
