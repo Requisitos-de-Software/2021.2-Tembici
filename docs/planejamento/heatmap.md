@@ -4,7 +4,6 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 05/03/2022 | Criação Readmap  |  Livia Rodrigues, Luiz Henrique |
-| 1.1 | 06/03/2022 | Revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -34,6 +33,7 @@ Cores
 | Quantidade | Cores | 
 |:-:|:-:|
 | Nenhum membro | Vermelho |
+| 1 membro | Rsoa |
 | 2 membros | Laranja |
 | 3 membros | Amarelo |
 | 4 membros | Azul |
@@ -45,7 +45,7 @@ Cores
 
 ## Resultados
 
-![Headmap](../assets/planejamento/)
+![Headmap](../assets/planejamento/reatmap.png)
 
 *Imagem 1: Readmap de horários*
 
