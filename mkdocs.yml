@@ -40,7 +40,9 @@ nav:
     - Casos de Uso: ./modelagem/casos_de_uso.md
     - Cenários: ./modelagem/cenarios.md
     - Especificação Suplementar: ./modelagem/especificacao_suplementar.md
-    - Léxicos: ./modelagem/lexicos.md
+    - Lexícos: ./modelagem/lexicos.md
+    - NFR Framework: ./modelagem/nfrframework.md
+    - Istar: ./modelagem/istar.md
     
 markdown_extensions:
   - attr_list
