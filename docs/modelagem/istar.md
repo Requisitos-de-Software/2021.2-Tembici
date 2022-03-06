@@ -56,6 +56,6 @@
 
 
 ## Referências 
-Sanderson. iStar4G: Estendendo a linguagem iStar 2.0 para modelagem de jogos digitais. Disponível em: http://r1.ufrrj.br/nuesgames/Sanderson.pdf. Acesso em: Acesso em: 04 de Março de 2022
+- <p> Sanderson. iStar4G: Estendendo a linguagem iStar 2.0 para modelagem de jogos digitais. Disponível em: http://r1.ufrrj.br/nuesgames/Sanderson.pdf. Acesso em: Acesso em: 04 de Março de 2022. </p>
 
-iStar Language Guide. Disponível em: iStar Language Guide. Acesso em: 04 de Março de 2022
+- <p> iStar Language Guide. Disponível em: iStar Language Guide. Acesso em: 04 de Março de 2022 </p>
