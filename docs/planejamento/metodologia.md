@@ -30,5 +30,4 @@ As principais características que utilizaremos do scrum são:
 4. No fim do sprint, o trabalho é revisto e apresentado aos membros do grupo. O próximo ciclo de sprint começa em seguida.
 
 ## Referências
-<!-- Adicionar Referências -->
-<!-- - <p></p> -->
+- <p>SOMMERVILLE, Ian. engenharia de SOFTWARE. 9ª Edição.São Paulo: Pearson Prentice Hall, Pearson Education, 2011</p>

@@ -51,4 +51,4 @@ Cores
 
 ## Referências 
 
-LUDOS. TituloDescubra quais são os tipos de roadmap e como podem te ajudar. Disponível em: https://www.ludospro.com.br/blog/road-map. Acesso em 05 Março de 2022.
+- <p>LUDOS. TituloDescubra quais são os tipos de roadmap e como podem te ajudar. Disponível em: https://www.ludospro.com.br/blog/road-map. Acesso em 05 Março de 2022.</p>
