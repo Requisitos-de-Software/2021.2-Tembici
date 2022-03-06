@@ -12,7 +12,7 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+<p align="justify">&emsp;&emsp;Abordaremos aqui as metodologias de time que vamos usar, essas metodologias são importantes para que possamod nos organizar no desenvolvimento do projeto e assim conseguir fazer todos os artefatos necessários para cada entrega, bem como no devido prazo. Além disso nos ajuda também a definir tarefas a cada integrante do grupo.</p>
 
 ## Métodos ágeis
 
