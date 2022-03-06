@@ -12,7 +12,8 @@
 
 ## Metodologia
  
-<p align="justify">&emsp;&emsp;Foram desenvolvidos para o projeto seis diagramas utilizando o software  Draw.io que detalham e analisam contextos da aplicação, sendo eles: Cadastro, Alugar Bicicleta e Devolver Bicicleta. A seguir podemos analisar cada um desses diagramas envolvendo tanto o Modelo de Dependência quanto o Modelo Rationale para cada contexto analisado.
+<p align="justify">&emsp;&emsp;Foram desenvolvidos para o projeto seis diagramas utilizando o software  Draw.io que detalham e analisam contextos da aplicação, sendo eles: Cadastro, Alugar Bicicleta e Devolver Bicicleta. A seguir podemos analisar cada um desses diagramas envolvendo tanto o Modelo de Dependência quanto o Modelo Rationale para cada contexto analisado.</p>
+
 
 ## Resultados
 
