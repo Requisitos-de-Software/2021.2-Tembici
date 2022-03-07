@@ -5,6 +5,9 @@
 | Versão | Data | Descrição | Autor |
 | -- | -- | -- | -- |
 | 1.0 | 02/03 | Criação do documento | João Victor Batista |
+| 1.1 | 04/03  | Revisão | Luiz Henrique |
+| 1.2 | 04/03 | Adição revisor | Luiz Henrique |
+
 
 *Tabela 1: Versionamento*
 

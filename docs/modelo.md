@@ -3,7 +3,7 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| | |   |   |
+| 1.0 | |   |   |
 
 *Tabela 1: versionamento*
 
@@ -14,3 +14,5 @@
 ## Resultados <!--Se houver-->
 
 ## Referências 
+
+AUTORA. Titulo. Disponível em: link. Acesso em 25 Fevereiro de 2022.

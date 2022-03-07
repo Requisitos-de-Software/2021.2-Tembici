@@ -9,7 +9,9 @@
 *Tabela 1: versionamento*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+<p> As ferramentas serão softwares utilizados pelo time do projeto para facilitar o gerenciamento, comunicação e desenvolvimento da documentação necessária para o tema utilizado na disciplina. Projeto esse que o foco será a construção dos requsitos do aplicativo tembici. </p>
+
+*Tabela 2: introdução*
 
 ## Ferramentas utilizadas
 
@@ -24,8 +26,9 @@
 | ![Vscode](../assets/planejamento/logos/vscode.png){width="80"}| Visual Studio Code | Ferramenta usada para edição dos documentos. |
 | ![Tembici](../assets/tembiciAlt.png){width="80"}| Tembici App | Aplicação tema a ser analisado. |
 
-*Tabela 2: Tabela contendo as ferramentas utilizadas no projeto*
+*Tabela 3: Tabela contendo as ferramentas utilizadas no projeto*
 
 ## Referências
-<!-- Adicionar Referências -->
-<!-- - <p></p> -->
+<p>Wiki Requisitos - Planejamento - Ferramentas. Disponível em: https://github.com/Requisitos-de-Software/2020.2-CarteiraDigitalTransito/blob/main/docs/planejamento.md. Acesso em: 06 de março de 2022.</p>
+
+*Tabela 4: Tabela de referências*

@@ -5,6 +5,8 @@
 |-|-|:-:|:-:|
 | 1.0 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
 | 1.1 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.2 | 20/02 | Revisão | João Victor, Lívia Rodrigues |
+| 1.3 | 04/03 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

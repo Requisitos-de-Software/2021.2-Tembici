@@ -9,7 +9,9 @@
 | 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
 | 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
 | 1.4 | 02/03 | Adição da tabela de estados | Luiz Henrique e Paulo Henrique |
-
+| 1.5 | 02/03 | Adição links para rastreabilidade | Luiz Henrique e Paulo Henrique |
+| 1.6 | 21/02 | Revisão | Victor Eduardo, Luiz Henrique, Gabriel Sabanai |
+| 1.7 | 04/03 | Adição revisor | Luiz Henrique |
 
 
 *Tabela 1: Versionamento da modelagem*

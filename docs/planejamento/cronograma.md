@@ -8,11 +8,15 @@
 | 1.2 | 02/02 | Adição do planejamento de trabalho | Gabriel Sabanai |
 | 1.3 | 04/02 | Adição do cronograma do projeto | João Victor Batista |
 | 1.4 | 24/02 | Padronização da página | Victor Eduardo |
+| 1.5 | 05/02 | Revisão | Gabriel Sabanai |
+| 1.6 | 04/03 | Adição revisor | Luiz Henrique |
+
 
 *Tabela 1: versionamento*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+
+<p align="justify">&emsp;&emsp; O cronograma visa organizar de maneira sistematica em sprints ao longo do periodo do projeto as atividades que serão realizadas ao longo da disciplina, o  mesmo foi baseando no cronogrma de entregas das atividades do plano de ensino da disciplina Requisitos de Software, o mesmo está sujeito a autorações e acressimos caso necessário. </p>
 
 ## Datas e Sprints
 
@@ -43,8 +47,8 @@
 | Revisar artefatos e preparar apresentação 3 | 14/02 - 21/02 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Backlog | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique |
 | Histórias do usuário | 28/02 - 07/03 | João Victor Batista, Lívia Rodrigues |
-| NFR framework | 28/02 - 07/03 | Victor Eduardo |
-| iStar | 28/02 - 07/03 | Luiz Henrique |
+| NFR framework | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
+| Istar | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
 | Revisar artefatos e preparar apresentação 4 | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Verificação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
 | Validação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
@@ -58,5 +62,5 @@
 *Tabela 2: Distribuição de atividades do projeto*
 
 ## Referências
-<!-- Adicionar Referências -->
-<!-- - <p></p> -->
+
+- <p> SALES, André. Plano de Ensino: Requisitos de Software 2021.2. Acesso em 03 de Março de 2022</p>
