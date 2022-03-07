@@ -5,13 +5,11 @@
 |-|-|:-:|:-:|
 | 1.0 | 08/02 | Adição da política de contribuição | Paulo Henrique |
 | 1.1 | 24/02 | Padronização da página | Victor Eduardo |
-| 1.2 | 09/02 | Revisão | Paulo Henrique |
-| 1.3 | 03/03 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
-<!-- Adicionar Introdução -->
+<p style="text-align: justify; text-indent: 20px">As políticas de contribuição são essenciais para a padronização e boas praticas no versionamento do projeto, para o mesmo será utilizado a plataforma github.
 
 ## Política de Branch
 
@@ -48,5 +46,5 @@ Co-authored-by: Paulo Henrique <ph@gmail.com>
 &emsp;&emsp;<b>Observação:</b> O caracter '#' representa, por padrão, um comentário na mensagem de commit. Para evitar problemas basta digitar o comando: `git config --local core.commentChar auto`
 
 ## Referências
-<!-- Adicionar Referências -->
-- <p> </p>
+
+Git Breakdown. Politicas de Commit. Disponível em: https://fga-eps-mds.github.io/2019.2-Git-Breakdown/docs/commits. Acesso em 8 Fevereiro de 2022.
