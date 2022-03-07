@@ -5,6 +5,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 08/02 | Adição da política de contribuição | Paulo Henrique |
 | 1.1 | 24/02 | Padronização da página | Victor Eduardo |
+| 1.2 | 06/03 | Revisão | Luiz Henrique  |
 
 *Tabela 1: versionamento*
 

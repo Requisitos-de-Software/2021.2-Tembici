@@ -5,6 +5,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 04/02 | Adição das ferramentas do projeto | Paulo Henrique |
 | 1.1 | 24/02 | Padronização da página | Victor Eduardo |
+| 1.2 | 06/03 | Revisão | Luiz Henrique  |
 
 *Tabela 1: versionamento*
 
