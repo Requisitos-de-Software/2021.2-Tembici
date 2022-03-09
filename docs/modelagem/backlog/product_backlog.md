@@ -36,7 +36,7 @@
 |:----------:|:----:|:----------------------| --------- |
 | Feature 01 - Cadastro | US01 | Criação do cadastro do usuário | Must |
 | Feature 02 - Login  | US02 </br></br>  US03 </br></br> US04 | Fazer login </br></br> Acesso por leitura facial ou digital </br></br> Alterar/recuperar senha esquecida | Must </br></br> Should </br></br> Must|
-| Feature 03 - Logout | US04 | Fazer logout | Must |
+| Feature 03 - Logout | US05 | Fazer logout | Must |
 
 *Tabela 3: Épico 01*
 
@@ -44,8 +44,8 @@
 
 |**Feature**|**ID**|**História de usuário**| Prioridade |
 |:----------:|:----:|:----------------------| --------- |
-| Feature 04 - Comprar Planos | US05 </br></br> US06 </br></br> US07 | Adiquirir planos </br></br> Utilizar cupom promocional </br></br> Inserir dados do cartão de crédito | Must </br></br> Should </br></br> Must |
-| Feature 05 - Multa | US08 | Pagamento de custos adicionais | Must |
+| Feature 04 - Comprar Planos | US06 </br></br> US07 </br></br> US08 | Adiquirir planos </br></br> Utilizar cupom promocional </br></br> Inserir dados do cartão de crédito | Must </br></br> Should </br></br> Must |
+| Feature 05 - Multa | US09 | Pagamento de custos adicionais | Must |
 
 *Tabela 4: Épico 02*
 
@@ -53,10 +53,10 @@
 
 |**Feature**|**ID**|**História de usuário**| Prioridade |
 |:----------:|:----:|:----------------------| --------- |
-| Feature 06 - Mapa | US09 </br></br> US10 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas | Must </br></br> Must |
-| Feature 07 - Localização | US11 </br></br> US12 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | Should </br></br> Must|
-| Feature 08 - Retirada | US13 </br></br> US14 </br></br> US15 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | Must </br></br> Should </br></br> Should |
-| Feature 09 - Devolução | US16 | Devolução da bicicleta | Must|
+| Feature 06 - Mapa | US10 </br></br> US11 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas | Must </br></br> Must |
+| Feature 07 - Localização | US12 </br></br> US13 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | Should </br></br> Must|
+| Feature 08 - Retirada | US14 </br></br> US15 </br></br> US16 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | Must </br></br> Should </br></br> Should |
+| Feature 09 - Devolução | US17 | Devolução da bicicleta | Must|
 
 *Tabela 5: Épico 03*
 
@@ -64,7 +64,7 @@
 
 |**Feature**|**ID**|**História de usuário**| Prioridade |
 |:----------:|:----:|:----------------------| --------- |
-| Feature 10 - Central de atendimento | US17 </br></br> US18 </br></br> US19 </br></br> US20 | Regras de utilização do aplicativo </br></br> Como utilizar o serviço </br></br> Dúvidas </br></br> Entrar em contato com atendente  | Must | Should | Should | Should |
+| Feature 10 - Central de atendimento | US18 </br></br> US19 </br></br> US20 </br></br> US21 | Regras de utilização do aplicativo </br></br> Como utilizar o serviço </br></br> Dúvidas </br></br> Entrar em contato com atendente  | Must | Should | Should | Should |
 
 *Tabela 6: Épico 04*
 
