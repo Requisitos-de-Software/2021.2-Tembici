@@ -10,7 +10,7 @@
 
 ## Introdução
 
-Nesse documento tem como objetivo armazenar a apresentação do terceiro ponto de controle, que tem como objetivo fundamental o entendimento e avaliação do processo em que o projeto está seguindo. Ocorrere uma apresentação por ponto de controle na disciplina de Requisitos de Software que será avaliado pelo Dr. Profº André Barros na Universidade de Brasília - FGA, o presente documento apresenta o terceiro ponto de controle que consiste na etapa de Modelagem. 
+<p align="justify">&emsp;&emsp;Nesse documento tem como objetivo armazenar a apresentação do terceiro ponto de controle, que tem como objetivo fundamental o entendimento e avaliação do processo em que o projeto está seguindo. Ocorrere uma apresentação por ponto de controle na disciplina de Requisitos de Software que será avaliado pelo Dr. Profº André Barros na Universidade de Brasília - FGA, o presente documento apresenta o terceiro ponto de controle que consiste na etapa de Modelagem.</P>
 
 ## Apresentação
 
