@@ -5,6 +5,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
 | 1.0 | 09/03 | Criação das histórias de usuário | Lívia Rodrigues e João Victor |
+| 1.1 | 09/03 | Padronização | Lívia Rodrigues |
 
 *Tabela 1: Versionamento*
 
@@ -89,26 +90,26 @@
 ### Feature 08 - Retirada
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US014 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local  | >Login <br/> >Escolha de local <br/> >Compra de plano <br/> > Redicionamento ao clicar em uma estação para as opções de retirada <br/> |
-| US015 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por ler QR Code apontando a câmera para o código no guidão da bicicleta | >Login <br/> >Escolha de local <br/> >Compra de plano <br/> > Deve conter um botão para ler o QR Code |
-| US016 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por gerar um código pelo aplicativo e inserindo/digitando na estação, ao lado esquerdo | >Login <br/> >Escolha de local <br/> >Compra de plano <br/> > Deve conter um botão para gerar código |
+| US014 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local  | > Login <br/> > Escolha de local <br/> > Compra de plano <br/> > Redicionamento ao clicar em uma estação para as opções de retirada <br/> |
+| US015 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por ler QR Code apontando a câmera para o código no guidão da bicicleta | > Login <br/> > Escolha de local <br/> >Compra de plano <br/> > Deve conter um botão para ler o QR Code |
+| US016 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por gerar um código pelo aplicativo e inserindo/digitando na estação, ao lado esquerdo | > Login <br/> > Escolha de local <br/> > Compra de plano <br/> > Deve conter um botão para gerar código |
 
 *Tabela 10: Feature 08*
 
 ### Feature 09 - Devolução
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US017 | Eu, como usuário(a), gostaria de devolver uma bicicleta em alguma estação com lotação disponível | >Deve conter uma estação com lotação disponível |
+| US017 | Eu, como usuário(a), gostaria de devolver uma bicicleta em alguma estação com lotação disponível | > Deve conter uma estação com lotação disponível |
 
 *Tabela 11: Feature 09*
 
 ### Feature 10 - Central de atendimento
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US018 | Eu, como usuário(a), gostaria de saber as regras de utilização | > Deve conter um menu <br/> >Escolha de local <br/>  >Deve conter uma central de ajuda <br/> |
-| US019 | Eu, como usuário(a), gostaria de saber como utilizar o serviço | > Deve conter um menu <br/> >Escolha de local <br/>  >Deve conter uma central de ajuda <br/> |
-| US020 | Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo | > Deve conter um menu <br/> >Escolha de local <br/>  >Deve conter uma central de ajuda <br/> |
-| US021 | Eu, como usuário(a), gostaria de retirar dúvidas com algum atendente por meio do chat | > Deve conter um menu <br/> >Escolha de local <br/>  >Deve conter um botão para acessar o chat com o atendente virtual <br/> |
+| US018 | Eu, como usuário(a), gostaria de saber as regras de utilização | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
+| US019 | Eu, como usuário(a), gostaria de saber como utilizar o serviço | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
+| US020 | Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
+| US021 | Eu, como usuário(a), gostaria de retirar dúvidas com algum atendente por meio do chat | > Deve conter um menu <br/> >Escolha de local <br/>  > Deve conter um botão para acessar o chat com o atendente virtual <br/> |
 
 *Tabela 12: Feature 010*
 
