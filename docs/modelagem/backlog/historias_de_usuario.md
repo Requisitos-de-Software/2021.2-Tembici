@@ -32,7 +32,7 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US01 | Eu, como usuário(a), gostaria de realizar cadastro no sistema, para que minha conta fique registrada no sistema | > Deve existir um botão para criar uma conta <br/> > O e-mail do paciente deve ter o formato válido de um e-mail <br/> > A senha deve ter mais de 8 dígitos <br/> > Cada campo deve ser preenchido com os dados solicitados |
+| US01 | Eu, como usuário(a), gostaria de realizar cadastro no sistema, para que minha conta fique registrada no sistema | > Deve existir um botão para criar uma conta <br/> > O e-mail do usuário deve ter o formato válido de um e-mail <br/> > A senha deve ter mais de 8 dígitos <br/> > Cada campo deve ser preenchido com os dados solicitados |
 
 *Tabela 3: Feature 01*
 
