@@ -46,6 +46,7 @@ nav:
     - Istar: ./modelagem/istar.md
     - Backlog:
       - Backlog do Produto: ./modelagem/backlog/product_backlog.md
+      - Histŕoias de Usuário: ./modelagem/backlog/historias_de_usuario.md
 
 markdown_extensions:
   - attr_list
