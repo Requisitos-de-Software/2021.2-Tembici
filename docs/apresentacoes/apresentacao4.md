@@ -14,5 +14,5 @@
 
 ## Apresentação
 
-[![Apresentação 4](../assets/apresentacoes/AP4.png)](https://www.youtube.com/)
+[![Apresentação 4](../assets/apresentacoes/AP4.png)](https://youtu.be/OCpA3jT9954/)
 *Imagem 1: Apresentação 4 thumbnail*
