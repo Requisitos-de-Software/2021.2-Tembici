@@ -1,5 +1,14 @@
 # Ata de Reunião: DD/MM/2022
 
+## Versionamento
+
+| Versão | Data | Modificação | Autor |
+|-|-|:-:|:-:|
+| 1.0 | | | |
+
+*Tabela 1: versionamento*
+
+
 ## Participantes: 
 - Nome do participante
 - Nome do participante
