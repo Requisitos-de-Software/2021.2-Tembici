@@ -8,6 +8,7 @@
 | 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.5 | 14/03 | Melhorias metodologia | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

@@ -10,7 +10,7 @@
 | 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
 | 1.4 | 18/02 | Revisão | Luiz Henrique |
 | 1.5 | 04/03 | Adição revisor | Luiz Henrique |
-| 1.6 | 14/03 |  | Luiz Henrique |
+| 1.5 | 14/03 | Melhorias metodologia | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
