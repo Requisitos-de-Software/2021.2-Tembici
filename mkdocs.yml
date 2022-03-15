@@ -48,6 +48,9 @@ nav:
     - Backlog:
       - Backlog do Produto: ./modelagem/backlog/product_backlog.md
       - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.md
+  - Análise:
+    - Verificação:
+      - Casos de Uso: ./analise/verificacao/casos_de_uso.md
 
 markdown_extensions:
   - attr_list
