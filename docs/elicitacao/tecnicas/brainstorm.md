@@ -19,7 +19,7 @@
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.</p> 
+<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm. Para o mesmo foi realizado duas reuniões com os demais entregantes do grupo onde foi coletado a visão do grupo quanto a plataforma utilizando as percepções dos membros e dados coletados em outras atvidade do projeto</p> 
 
 ## Questionamentos
 
