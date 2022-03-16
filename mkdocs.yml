@@ -47,7 +47,12 @@ nav:
     - Istar: ./modelagem/istar.md
     - Backlog:
       - Backlog do Produto: ./modelagem/backlog/product_backlog.md
-      - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.md
+      - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.
+  - Análise:
+    - Verificação: 
+    - Validação:
+  - Atas:
+    - Reunião 15/03: ./modelagem/atas/ata_1503.md
 
 markdown_extensions:
   - attr_list
