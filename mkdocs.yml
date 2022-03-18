@@ -50,6 +50,8 @@ nav:
       - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.
   - Análise:
     - Verificação: 
+      - Istar: ./analise/verificacao/istar.md
+      - NFR Framework: ./analise/verificacao/nfrframework.md
     - Validação:
   - Atas:
     - Reunião 15/03: ./modelagem/atas/ata_1503.md
