@@ -26,6 +26,7 @@ nav:
     - Metodologia: ./planejamento/metodologia.md
     - Ferramentas Utilizadas: ./planejamento/ferramentas.md
     - Cronograma: ./planejamento/cronograma.md
+    - Heatmap: ./planejamento/heatmap.md
     - Políticas: ./planejamento/politicas.md
   - Pré-Rastreabilidade: 
     - Rich Picture: ./pre-rastreabilidade/rich-picture.md
