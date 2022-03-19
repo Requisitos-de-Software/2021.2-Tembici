@@ -11,7 +11,6 @@
 | 1.5 | 05/02 | Revisão | Gabriel Sabanai |
 | 1.6 | 04/03 | Adição revisor | Luiz Henrique |
 
-
 *Tabela 1: versionamento*
 
 ## Introdução
