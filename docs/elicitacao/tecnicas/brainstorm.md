@@ -8,6 +8,7 @@
 | 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.5 | 14/03 | Melhorias metodologia | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -19,7 +20,7 @@
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.</p> 
+<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm. Para o mesmo foi realizado duas reuniões com os demais entregantes do grupo onde foi coletado a visão do grupo quanto a plataforma utilizando as percepções dos membros e dados coletados em outras atvidade do projeto</p> 
 
 ## Questionamentos
 
