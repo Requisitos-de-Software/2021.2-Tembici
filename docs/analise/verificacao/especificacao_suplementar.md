@@ -35,6 +35,7 @@
 <p style="align-text: justify">&emsp;&emsp;O artefato está adequado a seu projeto, cumprindo àquilo que se propõe a resolver, necessitando apenas de algumas alterações e adições para que haja uma maior rastreabilidade no projeto ao relacionar os requisitos citados nesse documento.</p>
 
 ![Gráfico do checklist realizado na verificação](../../assets/analise/verificacao/grafico_especificacao_suplementar.png)
+<p align="center">Imagem 1 - Gráfico do resultado do checklist realizado</p>
 
 ## Referências 
 [1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
