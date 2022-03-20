@@ -52,6 +52,7 @@ nav:
   - Análise:
     - Verificação:
       - Especificação Suplementar: ./analise/verificacao/especificacao_suplementar.md
+      - Casos de Uso: ./analise/verificacao/casos_de_uso.md
     - Validação:
   - Atas:
     - Reunião 15/03: ./modelagem/atas/ata_1503.md
