@@ -48,14 +48,13 @@ nav:
     - Istar: ./modelagem/istar.md
     - Backlog:
       - Backlog do Produto: ./modelagem/backlog/product_backlog.md
-      - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.
+      - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.md
   - Análise:
     - Verificação:
       - Especificação Suplementar: ./analise/verificacao/especificacao_suplementar.md
       - Casos de Uso: ./analise/verificacao/casos_de_uso.md
       - Istar: ./analise/verificacao/istar.md
       - NFR Framework: ./analise/verificacao/nfrframework.md
-    - Validação:
   - Atas:
     - Reunião 15/03: ./modelagem/atas/ata_1503.md
 
