@@ -22,6 +22,7 @@
 ## Resultados
 
 *Tabela 1: Tabela de verficação de critérios - Verificação NRF Framework*
+
 | Id | Questões | Usabilidade | Usabilidade Propagação | Confiabilidade | Confiabilidade Propagação | Desempenho | Desempenho Propagação | Suportabilidade | Suportabilidade Propagação |
 | :----: | ----------- | :---------: | :------------: | :--------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | 1 | O fluxo do diagrama está bem representado? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
