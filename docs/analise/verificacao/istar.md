@@ -22,8 +22,9 @@
 ## Resultados
 
 *Tabela 1: Tabela de verficação de critérios - Verificação Istar*
+
 | Id | Verificação | Cadastro | Alugar Bicicleta | Devolver Bicicleta |
-|---|---|---|---|---|
+|-|-|:-:|:-:|:-:|
 | 1 | Legendas completas e explicativas? | ✔ | ✔ | ✔ |
 | 2 | Está devidamente rastreávl? | ✔ | ✔ | ✔ |
 | 3 | Respeito às regras gerais da metodologia? | ✔ | ✔ | ✔ |
