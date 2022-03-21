@@ -56,7 +56,7 @@ nav:
       - Istar: ./analise/verificacao/istar.md
       - NFR Framework: ./analise/verificacao/nfrframework.md
   - Atas:
-    - Reunião 15/03: ./modelagem/atas/ata_1503.md
+    - Reunião 15/03: ./atas/ata_1503.md
 
 markdown_extensions:
   - attr_list
