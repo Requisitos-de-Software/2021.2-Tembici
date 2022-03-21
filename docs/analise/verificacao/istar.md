@@ -23,7 +23,7 @@
 
 *Tabela 1: Tabela de verficação de critérios - Verificação Istar*
 | Id | Verificação | Cadastro | Alugar Bicicleta | Devolver Bicicleta |
-|-|-|:-:|:-:|:-:|
+|---|---|---|---|---|
 | 1 | Legendas completas e explicativas? | ✔ | ✔ | ✔ |
 | 2 | Está devidamente rastreávl? | ✔ | ✔ | ✔ |
 | 3 | Respeito às regras gerais da metodologia? | ✔ | ✔ | ✔ |
@@ -40,7 +40,7 @@
 | 14 | Possui Modelo dependência? | ✔ | ✔ | ✔ |
 | 15 | Possui Modelo rationale | ✔ | ✔ | ✔ |
 | 16 | Diagrama autoexplicativo? | ✔ | ✔ | ✔ |
-| | Total | 100% | 100% | 100% |
+| Total | <center> -- </center>  | 100% | 100% | 100% |
 
 *Fonte: Elaboração dos autores do presente documento*
 
