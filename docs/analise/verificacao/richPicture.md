@@ -31,6 +31,10 @@ Tais justificativas foram baseadas no artigo [Complexity and rich pictures](http
 
 ## Checklist 
 
+### Legenda
+- ✅: Sim
+- ❌: Não
+
 |Questões|Versão 1.0|
 |--------|----|
 |O rich picture possui um título expressivo?|❌|
