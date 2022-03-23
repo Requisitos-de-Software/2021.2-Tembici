@@ -58,6 +58,8 @@ nav:
       - Backlog:
         - Backlog do Produto: ./analise/verificacao/product_backlog.md
         - Histórias de Usuário: ./analise/verificacao/historias_de_usuario.md
+      - Cenários: ./analise/verificacao/cenarios.md
+      - Rich Picture: ./analise/verificacao/richPicture.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
 
