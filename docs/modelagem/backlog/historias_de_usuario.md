@@ -6,6 +6,7 @@
 |-|-|-|-|
 | 1.0 | 09/03 | Criação das histórias de usuário | Lívia Rodrigues e João Victor |
 | 1.1 | 09/03 | Padronização | Lívia Rodrigues |
+| 1.2 | 21/03 | Modificações Pós-Verificação | João Victor Batista |
 
 *Tabela 1: Versionamento*
 
@@ -60,56 +61,56 @@
 |:----------:|:----:|:----------------------|
 | US06 | Eu, como usuário(a), gostaria de conhecer todos os planos oferecidos para escolher e adquirir algum e ter acesso as bicicletas   | > Deve existir um botão que direcione para a compra do plano |
 | US07 | Eu, como usuário(a), gostaria de comprar um plano utilizando cupom promocional para ter desconto | > Deve existir um botão para validar o cupom |
-| US08 | Eu, como usuário(a), gostaria de inserir os dados do cartão de crédito para conseguir comprar | > As bandeiras dos cartões disponíveis devem ser mostradas <br/> > Deve conter um botão para cadastrar cartão <br/> |
+| US08 | Eu, como usuário(a), gostaria de cadastrar meus cartões de crédito para conseguir comprar planos | > As bandeiras dos cartões disponíveis devem ser mostradas <br/> > Deve conter um botão para cadastrar cartão <br/> |
 
 *Tabela 6: Feature 04*
 
 ### Feature 05 - Multa
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US09 | Eu, como usuário(a), gostaria de pagar os custos adicionais pelo tempo de uso extrapolado e pelas viagens extras feitas | > O sistema deve enviar a cobrança de acordo com o plano escolhido pelo usuário |
+| US09 | Eu, como usuário(a), gostaria de ser cobrado pelo tempo de uso extrapolado e por viagens extras feitas para que possa pagar os custos adicionais | > O sistema deve enviar a cobrança de acordo com o plano escolhido pelo usuário |
 
 *Tabela 7: Feature 05*
 
 ### Feature 06 - Mapa
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US010 | Eu, como usuário(a), gostaria de visualizar o mapa | >  Acessar a página inicial|
-| US011 | Eu, como usuário(a), gostaria de visualizar a quantidade de bicicletas disponíveis no mapa em cada estação para a retirada | > Deve conter um mapa |
+| US010 | Eu, como usuário(a), gostaria de visualizar um mapa da região selecionada para saber a localização de estações perto de mim | >  Acessar a página inicial contendo mapa da região<br/> > Deve indicar a localização das estações no mapa |
+| US011 | Eu, como usuário(a), gostaria de visualizar a quantidade de bicicletas disponíveis em cada estação para saber onde posso retirar uma bicicleta | > Deve indicar a quantidade de bicicletas em cada estação |
 
 *Tabela 8: Feature 06*
 
 ### Feature 07 - Localização
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US012 | Eu, como usuário(a), gostaria de saber minha localização atual e em tempo real  | > Permitir que o aplicativo obtenha a localização atual |
-| US013 | Eu, como usuário(a), gostaria de buscar estações próximas a mim ou a meu destino | > Login <br/> > Opções de escolha de local |
+| US012 | Eu, como usuário(a), gostaria de visualizar minha localização atual para saber onde estou em tempo real  | > Permitir que o aplicativo obtenha a localização atual<br/> > Deve indicar no mapa a localização do usuário em tempo real |
+| US013 | Eu, como usuário(a), gostaria de buscar estações próximas a mim ou a meu destino | > Deve permitir que o usuário navegue pelo mapa |
 
 *Tabela 9: Feature 07*
 
 ### Feature 08 - Retirada
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US014 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local  | > Login <br/> > Escolha de local <br/> > Compra de plano <br/> > Redicionamento ao clicar em uma estação para as opções de retirada <br/> |
-| US015 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por ler QR Code apontando a câmera para o código no guidão da bicicleta | > Login <br/> > Escolha de local <br/> >Compra de plano <br/> > Deve conter um botão para ler o QR Code |
-| US016 | Eu, como usuário(a), gostaria de retirar uma bicicleta optando por gerar um código pelo aplicativo e inserindo/digitando na estação, ao lado esquerdo | > Login <br/> > Escolha de local <br/> > Compra de plano <br/> > Deve conter um botão para gerar código |
+| US014 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local  |  > Redirecionamento ao clicar em uma estação para as opções de retirada |
+| US015 | Eu, como usuário(a), gostaria de ler QR Code apontando a câmera para o código no guidão da bicicleta para desbloqueá-la | > Permitir acesso à câmera do dispositivo </br> > Deve conseguir desbloquear uma bicicleta ao ler seu QR Code|
+| US016 | Eu, como usuário(a), gostaria de gerar um código pelo aplicativo para inserí-lo/digitá-lo na estação e desbloquear uma bicicleta |  > Deve gerar código capaz de desbloquear uma bicicleta |
 
 *Tabela 10: Feature 08*
 
 ### Feature 09 - Devolução
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US017 | Eu, como usuário(a), gostaria de devolver uma bicicleta em alguma estação com lotação disponível | > Deve conter uma estação com lotação disponível |
+| US017 | Eu, como usuário(a), gostaria de terminar uma viagem quando devolver uma bicicleta em alguma estação para contabilizar o tempo certo de viagem | > Deve interromper viagem quando a bicicleta for devolvida </br> > Deve confirmar o término da viagem para o usuário|
 
 *Tabela 11: Feature 09*
 
 ### Feature 10 - Central de atendimento
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| 
 |:----------:|:----:|:----------------------|
-| US018 | Eu, como usuário(a), gostaria de saber as regras de utilização | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
-| US019 | Eu, como usuário(a), gostaria de saber como utilizar o serviço | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
-| US020 | Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo | > Deve conter um menu <br/> > Escolha de local <br/>  > Deve conter uma central de ajuda <br/> |
-| US021 | Eu, como usuário(a), gostaria de retirar dúvidas com algum atendente por meio do chat | > Deve conter um menu <br/> >Escolha de local <br/>  > Deve conter um botão para acessar o chat com o atendente virtual <br/> |
+| US018 | Eu, como usuário(a), gostaria de saber as regras de utilização | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> |
+| US019 | Eu, como usuário(a), gostaria de saber como utilizar o serviço | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> |
+| US020 | Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> |
+| US021 | Eu, como usuário(a), gostaria de tirar dúvidas com algum atendente por meio do chat | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> |
 
 *Tabela 12: Feature 010*
 
