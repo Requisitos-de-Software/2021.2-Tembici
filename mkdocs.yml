@@ -55,6 +55,7 @@ nav:
       - Casos de Uso: ./analise/verificacao/casos_de_uso.md
       - Istar: ./analise/verificacao/istar.md
       - NFR Framework: ./analise/verificacao/nfrframework.md
+      - Léxicos: ./analise/verificacao/lexicos.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
 
