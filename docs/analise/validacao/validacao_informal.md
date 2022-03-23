@@ -15,6 +15,7 @@
 <p align="justify">&emsp;&emsp; A tentativa de contato foi por meio de email direcionado a equipe do TemBici.</p>
  
 ![Fazer Cadastro](../assets/analise/validacao/email.png)
+
 *Imagem 1: Email enviado a equipe do TemBici*
  
 ## Resultado
