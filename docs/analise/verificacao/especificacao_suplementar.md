@@ -34,8 +34,12 @@
 ### Conclusão
 <p style="align-text: justify">&emsp;&emsp;O artefato está adequado a seu projeto, cumprindo àquilo que se propõe a resolver, necessitando apenas de algumas alterações e adições para que haja uma maior rastreabilidade no projeto ao relacionar os requisitos citados nesse documento.</p>
 
+*Imagem 1 - Gráfico do resultado do checklist realizado*
+
 ![Gráfico do checklist realizado na verificação](../../assets/analise/verificacao/grafico_especificacao_suplementar.png)
-<p align="center">Imagem 1 - Gráfico do resultado do checklist realizado</p>
+
+*Fonte: Elaboração dos autores do presente documento*
+
 
 ## Referências 
-[1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
+<p> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 18 de Março dee 2022. </p>
