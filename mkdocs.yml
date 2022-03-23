@@ -62,6 +62,7 @@ nav:
         - Rich Picture: ./analise/verificacao/richPicture.md
     - Validação:
       - Validação Informal: ./analise/validacao/validacao_informal.md
+      - Protótipo: ./analise/validacao/prototipo.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
 
