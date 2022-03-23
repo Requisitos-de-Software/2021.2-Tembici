@@ -26,6 +26,7 @@ nav:
     - Metodologia: ./planejamento/metodologia.md
     - Ferramentas Utilizadas: ./planejamento/ferramentas.md
     - Cronograma: ./planejamento/cronograma.md
+    - Heatmap: ./planejamento/heatmap.md
     - Políticas: ./planejamento/politicas.md
   - Pré-Rastreabilidade: 
     - Rich Picture: ./pre-rastreabilidade/rich-picture.md
@@ -48,6 +49,17 @@ nav:
     - Backlog:
       - Backlog do Produto: ./modelagem/backlog/product_backlog.md
       - Histórias de Usuário: ./modelagem/backlog/historias_de_usuario.md
+  - Análise:
+    - Verificação:
+      - Especificação Suplementar: ./analise/verificacao/especificacao_suplementar.md
+      - Casos de Uso: ./analise/verificacao/casos_de_uso.md
+      - Istar: ./analise/verificacao/istar.md
+      - NFR Framework: ./analise/verificacao/nfrframework.md
+      - Backlog:
+        - Backlog do Produto: ./analise/verificacao/product_backlog.md
+        - Histórias de Usuário: ./analise/verificacao/historias_de_usuario.md
+  - Atas:
+    - Reunião 15/03: ./atas/ata_1503.md
 
 markdown_extensions:
   - attr_list
