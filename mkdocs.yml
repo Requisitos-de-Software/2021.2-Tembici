@@ -56,6 +56,9 @@ nav:
       - Istar: ./analise/verificacao/istar.md
       - NFR Framework: ./analise/verificacao/nfrframework.md
       - Léxicos: ./analise/verificacao/lexicos.md
+      - Backlog:
+        - Backlog do Produto: ./analise/verificacao/product_backlog.md
+        - Histórias de Usuário: ./analise/verificacao/historias_de_usuario.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
 
