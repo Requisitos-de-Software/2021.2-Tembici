@@ -18,7 +18,7 @@
 ## Protótipo
 <p style="text-align: justify; text-indent: 20px">Foi representado as principais funcionalidades do aplicativo. As telas foram baseadas nos requisitos elaborados pelo grupo.</p>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/proto/o1WPtXuQtPPmTSLU1PSuKV/Untitled?node-id=5%3A45&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A45&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2Fo1WPtXuQtPPmTSLU1PSuKV%2FTembici%3Fnode-id%3D5%253A45%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D5%253A45%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 ## Resultado
 <p align="justify">&emsp;&emsp; De acordo com os requisitos listados pelo grupo o prótotipo está de acordo com o que o aplicativo propõe ao usuário.</p>
