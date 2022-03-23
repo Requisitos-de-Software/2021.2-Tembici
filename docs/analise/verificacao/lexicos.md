@@ -46,11 +46,12 @@
 ## 5. Conclusão
 
 <div align="center">
-    <img src="../../assets/verificacao/lexicos/grafico.png" alt="Gráfico da verificação dos léxicos" height="auto" width="600">
+    <img src="../../../assets/verificacao/lexicos/grafico.png" alt="Gráfico da verificação dos léxicos" height="auto" width="600">
 <h6 align="center">Figura 1: Imagem do sobre a conclusão</h6>
 </div>
 
 <b>Possíveis correções:</b>
+
 * Questões ortográficos de alguns léxicos
 * Tornar alguns léxicos mais concisos
 * Melhorar o entendimento do impacto e noção de alguns léxicos
