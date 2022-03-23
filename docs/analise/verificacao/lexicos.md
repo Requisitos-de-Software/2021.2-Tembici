@@ -1,4 +1,4 @@
-## 1. Versionamento
+## Versionamento
 | Versão | Data  | Descrição                                     | Autor(es) |
 | ------ | ----- | --------------------------------------------- | --------- |
 | 1.0    | 21/03 | Abertura do documento de varificação do léxicos | Paulo henrique |
@@ -10,10 +10,10 @@
 
 *Tabela 1: Tabela de versionamento*
 
-## 2. Introdução
+## Introdução
 <p style="text-align: justify; text-indent: 20px"> A verificação corresponde a uma metodologia que visa garantir que os produtos de um trabalho selecionado cumpram com seus requisitos especificados. Essa etapa, também consiste de uma técnica que não depende da intervenção humana dos usuários, sendo feita através do viés do desenvolvedor. O escopo dessa verificação se limita ao documento de modelagem <a href="../../../modelagem/lexicos/">Léxicos</a>.</p>
 
-## 3. Metodologia
+## Metodologia
 <p style="text-align: justify; text-indent: 20px"> Para a realização dessa verificação, será utilizada a técnica de inspeção pela estratégia de leitura e checklist, os critérios abordados tem o papel de contribuir para verificar se de fato os léxicos atendem a seu propósito e também apontando defeitos que permitem correções. Os critérios podem ser respondidos com "✅" (Sim) ou "❌" (Não), onde o Não provavelmente evidencia algum defeito que precisa ser melhorado.</p>
 
 * Legenda
@@ -40,7 +40,7 @@
 
 *Tabela 3: Tabela de verificação*
 
-## 4. Resultados
+## Resultados
 
 <div align="center">
     <img src="../../../assets/verificacao/lexicos/grafico.png" alt="Gráfico da verificação dos léxicos" height="auto" width="600">
@@ -54,6 +54,6 @@
 * Tornar alguns léxicos mais concisos
 * Melhorar o entendimento do impacto e noção de alguns léxicos
 
-## 5. Referências
+## Referências
 
 <p style="text-align: justify; text-indent: 20px">[1] SERRANO, Milene; SERRANO, Maurício. <b>Requisitos - Aula 10</b>. 2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 21 de Março de 2022.</p>
