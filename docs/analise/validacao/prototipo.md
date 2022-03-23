@@ -11,7 +11,7 @@
 <p align="justify">&emsp;&emsp; Pela prototipação é possível validar os requisitos com base nas expectativas do usuário. O objetivo do protótipo é apresentar uma proposta concreta do que será entregue como produto, possibilitando que a parte interessada consiga avaliar com mais interesse e atenção a solução proposta.</p>
  
 ## Metodologia
-<p align="justify">&emsp;&emsp; Para validar as funcionalidades foi criado um protótipo de média fidelidade, atendendo alguns requisitos do sistema. A comparação dos requisitos do protótipo será com o próprio aplicativo TemBici.</p>
+<p align="justify">&emsp;&emsp; Para validar as funcionalidades foi criado um protótipo de média fidelidade, atendendo alguns requisitos do sistema. A comparação dos requisitos do protótipo será com o próprio aplicativo Tembici.</p>
 
 <p style="text-align: justify; text-indent: 20px">Foi selecionado algumas funcionalidades que são essenciais para o aplicativo. Seguindo os requisitos em <a href="../../modelagem/backlog/product_backlog">Product Backlog</a> listados pelo grupo.</p>
  
