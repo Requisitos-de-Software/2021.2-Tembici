@@ -11,11 +11,11 @@ Tendo como base o projeto Ingresso.com realizado por alunos da disciplina em sem
 
 ## Metodologia
 
-Para a verificação das duas versões de rich pictures realizadas pela nossa equipe no contexto da discipliina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.
+Para a verificação do rich pictures elaborado pela nossa equipe, no contexto da disciplina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.
 
 ## Inspeção
 
-Tais justificativas foram baseadas no artigo [Complexity and rich pictures](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf)
+Tais justificativas foram baseadas no artigo [Complexity and rich pictures revised](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf)
 
 |Questão|Justificativa
 |-------|-------------|
