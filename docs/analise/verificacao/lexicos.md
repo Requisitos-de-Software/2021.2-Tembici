@@ -5,14 +5,13 @@
 | 1.1    | 21/03 | Adição da tabela com as perguntas | Paulo henrique |
 | 1.2    | 21/03 | Correção da tabela | Paulo henrique |
 | 1.3    | 21/03 | Atualização da tabela de verificação| Paulo henrique |
-| 1.4    | 22/03 |  Entrega da tabela de conclusão da verificação | Paulo henrique |
-| 1.4    | 22/03 |  Entrega da tabela de conclusão da verificação | Paulo henrique |
+| 1.4    | 22/03 | Entrega da tabela de conclusão da verificação | Paulo henrique |
+| 1.5    | 22/03 | Correções do PR | Paulo henrique |
 
 *Tabela 1: Tabela de versionamento*
 
 ## 2. Introdução
-<p style="text-align: justify; text-indent: 20px"> A verificação corresponde a uma metodologia que visa garantir que os produtos de um trabalho selecionado cumpram com seus requisitos especificados. Essa etapa, também consiste de uma técnica que não depende da intervenção humana dos usuários, sendo feita através do viés do desenvolvedor.</p>
-<p style="text-align: justify; text-indent: 20px"> O escopo dessa verificação se limita ao documento de modelagem <a href="../../../modelagem/lexicos/">Léxicos</a>.</p>
+<p style="text-align: justify; text-indent: 20px"> A verificação corresponde a uma metodologia que visa garantir que os produtos de um trabalho selecionado cumpram com seus requisitos especificados. Essa etapa, também consiste de uma técnica que não depende da intervenção humana dos usuários, sendo feita através do viés do desenvolvedor. O escopo dessa verificação se limita ao documento de modelagem <a href="../../../modelagem/lexicos/">Léxicos</a>.</p>
 
 ## 3. Metodologia
 <p style="text-align: justify; text-indent: 20px"> Para a realização dessa verificação, será utilizada a técnica de inspeção pela estratégia de leitura e checklist, os critérios abordados tem o papel de contribuir para verificar se de fato os léxicos atendem a seu propósito e também apontando defeitos que permitem correções. Os critérios podem ser respondidos com "✅" (Sim) ou "❌" (Não), onde o Não provavelmente evidencia algum defeito que precisa ser melhorado.</p>
