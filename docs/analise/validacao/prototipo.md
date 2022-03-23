@@ -11,15 +11,17 @@
 <p align="justify">&emsp;&emsp; Pela prototipação é possível validar os requisitos com base nas expectativas do usuário. O objetivo do protótipo é apresentar uma proposta concreta do que será entregue como produto, possibilitando que a parte interessada consiga avaliar com mais interesse e atenção a solução proposta.</p>
  
 ## Metodologia
-<p align="justify">&emsp;&emsp; Para validar as funcionalidades foi criado um protótipo de baixa fidelidade, atendendo alguns requisitos do sistema. A comparação dos requisitos do protótipo será com o próprio aplicativo TemBici.</p>
+<p align="justify">&emsp;&emsp; Para validar as funcionalidades foi criado um protótipo de média fidelidade, atendendo alguns requisitos do sistema. A comparação dos requisitos do protótipo será com o próprio aplicativo TemBici.</p>
 
 <p style="text-align: justify; text-indent: 20px">Foi selecionado algumas funcionalidades que são essenciais para o aplicativo. Seguindo os requisitos em <a href="../../modelagem/backlog/product_backlog">Product Backlog</a> listados pelo grupo.</p>
  
 ## Protótipo
-<p align="justify">&emsp;&emsp; O grupo ainda não obteve resposta da empresa, continuamos aguardando o feedback que será documentado logo em seguida.</p>
+<p style="text-align: justify; text-indent: 20px">Foi representado as principais funcionalidades do aplicativo. As telas foram baseadas nos requisitos elaborados pelo grupo.</p>
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="500" src="https://www.figma.com/proto/o1WPtXuQtPPmTSLU1PSuKV/Untitled?node-id=5%3A45&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=5%3A45&show-proto-sidebar=1" allowfullscreen></iframe>
 
 ## Resultado
-<p align="justify">&emsp;&emsp; O grupo ainda não obteve resposta da empresa, continuamos aguardando o feedback que será documentado logo em seguida.</p>
+<p align="justify">&emsp;&emsp; De acordo com os requisitos listados pelo grupo o prótotipo está de acordo com o que o aplicativo propõe ao usuário.</p>
  
 ## Referências
-<p> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 20. Acesso em: 23 de Março de 2022. </p>
+<p> SERRANO, Maurício; SERRANO, Milene; Requisitos Acesso em: 23 de Março de 2022. </p>
