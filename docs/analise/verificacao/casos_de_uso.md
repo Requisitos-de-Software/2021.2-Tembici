@@ -45,4 +45,4 @@
 | CdU4 | Possível erro de ortografia no nome do CdU |
 
 ## Referências 
-<p> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 18 de Março de 2022. </p>
+<p>[1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 18 de Março de 2022. </p>

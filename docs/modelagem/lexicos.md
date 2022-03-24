@@ -15,7 +15,6 @@
 | 2.0 | 11/03 | Adição novos Léxicos | Luiz Henrique |
 | 3.0 | 22/03 | Correção pós verificação | Paulo Henrique |
 
-
 *Tabela 1: Versionamento da modelagem*
 
 ## Introdução
@@ -84,7 +83,7 @@
 |LO04|**Usuário**|
 |---|------------------|
 |**Sinônimos**|Cliente|
-|**Noção**|Pessoa que irá usar o aplicativo <a href="#tembici" > tembici </a>|
+|**Noção**|Pessoa que irá usar o aplicativo tembici|
 |**Impacto**|O <a href="#usuario" > usuário </a> pederá pagar o<a href="#plano"> plano</a> que a plataforma oferece para que possa usufruir do serviço e consequentemente andar de bicicleta pela cidade| 
 
 <div id="requisito"></div>
@@ -103,9 +102,17 @@
 |**Noção**|Lugar aonde guardamos de forma online todos as nossas documentações|
 |**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o <a href="#tembici" > software </a> oferece, poderão acessar o repositório do projeto a fim de conhecer um pouco mais sobre o aplicativo |
 
+<div id="software"></div>
+
+|LO07|**Software**|
+|---|------------------|
+|**Sinônimos**|Programa, Aplicativo, App|
+|**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
+|**Impacto**| O <a href="#usuario" > usuário </a> poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
+
 <div id="sprint"></div>
 
-|LO07|**Sprint**|
+|LO08|**Sprint**|
 |---|------------------|
 |**Sinônimos**| Disparada, Corrida |
 |**Noção**| Tempo determinado pelo time do projeto para a execução e entrega de um ou mais <a href="#artefato" > artefatos </a> |
@@ -118,6 +125,7 @@
 |**Sinônimos**| Aluguel, assinatura, bilhete |
 |**Noção**| Modalidades de serviço que os <a href="#usuario" > usuários </a>s podem contratar, podendo variar o contrato dependendo da localização do usuário |
 |**Impacto**| O<a href="#plano"> plano</a> escolhido libera uma categoria de benefício para o Usuário, podendo variar o preço de acordo com o plano escolhido |
+
 
 <div id="Tembici"></div>
 
@@ -139,7 +147,6 @@
 
 *Tabela 4: Léxicos Objetos*
 
-
 #### Verbos
 
 <div id="alugar"></div>
@@ -155,7 +162,7 @@
 | LV02 | **Aplicar cupom** |
 | ------ | ---- | 
 | **Sinônimos** | Utilizar desconto, Aplicar desconto |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá, caso possua um cupom, ter descontos nas compras dentro do <a href="#tembici" > app </a>| |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá, caso possua um cupom, ter descontos nas compras dentro do app |
 | **Impacto**| O usuário terá variados descontos ao realizar o pagamento de uma compra |
 
 <div id="assinar"></div>
@@ -163,7 +170,7 @@
 | LV03 | **Assinar plano** |
 | ------ | ---- | 
 | **Sinônimos** | Contratar<a href="#plano"> plano</a>, Comprar<a href="#plano"> plano</a>, Escolher<a href="#plano"> plano</a> |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá assinar um plano no <a href="#tembici" > app </a> para receber benefícios a mais |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá assinar um plano no app para receber benefícios a mais |
 | **Impacto**| O usuário com plano tem direito a alguns beneficos a mais nas funcionalidade do aplicativo |
 
 <div id="cadastrar-cartao"></div>
@@ -219,7 +226,7 @@
 | LV10 | **Consultar bicicletas disponiveis** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no <a href="#tembici" > app </a> em que <a href="#estacao" > postos </a> possuem bicicletas disponiveis |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> possuem bicicletas disponiveis |
 | **Impacto**| O usuário consiguirá encontrar bicicletas do app para desbloquear |
 
 <div id="cadastrar-vagas"></div>
@@ -227,7 +234,7 @@
 | LV11 | **Consultar vagas disponiveis** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no <a href="#tembici" > app </a> em que <a href="#estacao" > postos </a> há vagas disponiveis para a <a href="#devolver-bicicleta" >devolução </a> de uma bicicleta |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> há vagas disponiveis para a <a href="#devolver-bicicleta" >devolução </a> de uma bicicleta |
 | **Impacto**| O usuário consiguirá encontrar vagas para <a href="#devolver-bicicleta" >devolver a bicicleta </a> após a viagem |
 
 <div id="devolver-bicicleta"></div>
@@ -251,7 +258,7 @@
 | LV14 | **Gerar código** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá, para realizar o desbloqueio de uma bicleta, utilizar um código gereado em seu <a href="#tembici" > app </a> que será digitado no <a href="#estacao" > posto </a> de retirada |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá, para realizar o desbloqueio de uma bicleta, utilizar um código gereado em seu app que será digitado no <a href="#estacao" > posto </a> de retirada |
 | **Impacto**| O usuário consiguirá, utilizando código, desbloquear uma bicicleta para realizar uma viagem |
 
 <div id="qr-code"></div>
