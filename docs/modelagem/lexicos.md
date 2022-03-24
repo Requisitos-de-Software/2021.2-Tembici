@@ -13,6 +13,7 @@
 | 1.6 | 21/02 | Revisão | Victor Eduardo, Luiz Henrique, Gabriel Sabanai |
 | 1.7 | 04/03 | Adição revisor | Luiz Henrique |
 | 2.0 | 11/03 | Adição novos Léxicos | Luiz Henrique |
+| 3.0 | 22/03 | Correção pós verificação | Paulo Henrique |
 
 
 *Tabela 1: Versionamento da modelagem*
@@ -52,14 +53,14 @@
 |---|------------------|
 |**Sinônimos**|Atividade, "Task", Artifício|
 |**Noção**| Atividade que será entregue para incremento da documentação ao final da <a href="#sprint" > sprint </a> |
-|**Impacto**| O <a href="#artefato" > artefato </a> irá acrescentar no desenvolvimento da documentação a fim enterdemos melhor sobre o aplicativo |
+|**Impacto**| O <a href="#artefato" > artefato </a> irá acrescentar no desenvolvimento da documentação a fim de enterdemos melhor sobre o aplicativo |
 
 <div id="back-end"></div>
 
 |LO02|**Back-end**|
 |---|------------------|
 |**Sinônimos**| "Por-trás", "Parte de trás" |
-|**Noção**| Programa que roda por trás do software, fica entre o <a href="#usuario" > usuário </a> e o que possível ser visto por ele |
+|**Noção**| Programa que roda por trás do software, fica entre o que é possível ser visto pelo<a href="#usuario" > usuário </a> e aonde armazena os dados da plataforma |
 |**Impacto**| Ele conectará o usuário com o banco de dados, isso fará com que usuário possa consumir os seus própios dados e os dados sobre as bicicletas |
 
 <div id="clone"></div>
@@ -100,7 +101,7 @@
 |---|------------------|
 |**Sinônimos**|Depósito, Armazenamento|
 |**Noção**|Lugar aonde guardamos de forma online todos as nossas documentações|
-|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o <a href="#tembici" > software </a> oferece, poderão acessar o repositório do projeto a fim de conhcer um pouco mais sobre o aplicativo |
+|**Impacto**| Pessoas que precisarem da documentação para entender melhor o que o <a href="#tembici" > software </a> oferece, poderão acessar o repositório do projeto a fim de conhecer um pouco mais sobre o aplicativo |
 
 <div id="sprint"></div>
 
@@ -115,16 +116,16 @@
 |LO08|**Plano**|
 |---|------------------|
 |**Sinônimos**| Aluguel, assinatura, bilhete |
-|**Noção**| Modalidades de serviço que o <a href="#usuario" > usuários </a>s pode contratar, o mesmo varia pela localização do usuário |
-|**Impacto**| O<a href="#plano"> plano</a> escolhido libera uma categoria de benefício diferente para o Usuário, o mesmo pode variar de acordo com o plano escolhido |
+|**Noção**| Modalidades de serviço que os <a href="#usuario" > usuários </a>s podem contratar, podendo variar o contrato dependendo da localização do usuário |
+|**Impacto**| O<a href="#plano"> plano</a> escolhido libera uma categoria de benefício para o Usuário, podendo variar o preço de acordo com o plano escolhido |
 
 <div id="Tembici"></div>
 
 |LO09|**Tembici**|
 |---|------------------|
 |**Sinônimos**| App, Aplicativo, Software |
-|**Noção**| Aplicativo de aluguel de biciletas sobre o qual a documentação do proejeto trata |
-|**Impacto**| A aplicação é o serne do serviço ofertado pela empresa, por meio do aplicativo é realizado, dentre outras coisas, o aluguel e devolução da bicicleta |
+|**Noção**| Aplicativo de aluguel de bicicletas sobre o qual a documentação do projeto se trata |
+|**Impacto**| A aplicação é o serne do serviço ofertado pela empresa. Por meio do aplicativo é realizado, dentre outras coisas, o aluguel e devolução da bicicleta |
 
 *Tabela 4: Léxicos Objetos*
 
@@ -146,8 +147,8 @@
 | LV01 | **Alugar bicicleta** |
 | ------ | ---- | 
 | **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta |
-| **Noção** | O <a href="#usuario" > usuário </a> irá, através do aluguel da bicicleta, poder utiliza a bicicleta escolhida para se locomover |
-| **Impacto**| O desbloqueará para uso uma bicileta |
+| **Noção** | O <a href="#usuario" > usuário </a> irá, através do aluguel da bicicleta, poder utilizar a bicicleta escolhida para se locomover |
+| **Impacto**| Após um cliente alugar uma bicicleta ele desbloqueará para uso |
 
 <div id="aplicar"></div>
 
@@ -179,7 +180,7 @@
 | ------ | ---- | 
 | **Sinônimos** | Realizar Cadastro, Registrar, Criar Conta |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá se cadastrar no aplicativo e receber alguns benefícios |
-| **Impacto**| 	O usuário cadastrado tem direito a algumas funcionalidades a mais |
+| **Impacto**| 	O usuário cadastrado tem direito a algumas funcionalidades que entregues a qualquer cliente |
 
 <div id="cancelar"></div>
 
@@ -211,7 +212,7 @@
 | ------ | ---- | 
 | **Sinônimos** | Acessar Histórico de viagens, ver minhas viagens  |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá consultar seu historico de viagens contendo detalhes das viagens realizadas pelo usuário |
-| **Impacto**| O usuário poderá obter metricas quanto a suas viagens |
+| **Impacto**| O usuário poderá obter métricas sobre as suas viagens |
 
 <div id="consultar-bicicleta"></div>
 
@@ -235,7 +236,7 @@
 | ------ | ---- | 
 | **Sinônimos** | Devolução, Devolver a bicicleta |
 | **Noção** | O <a href="#usuario" > usuário </a> irá, após uma viagem, devolver um bicicleta que alugou |
-| **Impacto**| Após usuário devolver a bicicleta a mesma ficará disponivel para mais pessoas utilizarem |
+| **Impacto**| Após o usuário devolver a bicicleta o mesma ficará disponível para mais pessoas utilizarem |
 
 <div id="iniciar-rota"></div>
 
@@ -258,7 +259,7 @@
 | LV15 | **Ler QR Code** |
 | ------ | ---- | 
 | **Sinônimos** | <center> --- </center> |
-| **Noção** | O <a href="#usuario" > usuário </a> poderá, para realizar o desbloqueio de uma bicleta, realizar a leitura um código QR Code locaçlizado no <a href="#estacao" > posto </a> de retirada |
+| **Noção** | O <a href="#usuario" > usuário </a> poderá, realizar o desbloqueio de uma bicleta e realizar a leitura de um código no QR Code localizado no <a href="#estacao" > posto </a> de retirada |
 | **Impacto**| O <a href="#usuario" > usuário </a> consiguirá, lendo o QR Code, desbloquear uma bicicleta para realizar uma viagem |
 
 <div id="logar"></div>
@@ -274,8 +275,8 @@
 | LV17 | **Realizar pagamento** |
 | ------ | ---- | 
 | **Sinônimos** | Efetuar pagamento |
-| **Noção** | O <a href="#usuario" > usuário </a> irá, efetivar o processo de compra de um item, realizando o pagamento do valor correspondente ao mesmo  |
-| **Impacto**| O pagará e poderá disfrutar do item comprado |
+| **Noção** | O <a href="#usuario" > usuário </a> irá, efetivar o processo de compra de plano ou diária, realizando o pagamento do valor correspondente ao mesmo  |
+| **Impacto**| O usuário pagará a diária ou plano e poderá disfrutar dos beneficíos proposto por aquela diária ou plano |
 
 *Tabela 5: Léxicos Verbos*
 
