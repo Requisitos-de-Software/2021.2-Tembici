@@ -68,6 +68,7 @@ nav:
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
     - Reunião 23/03: ./atas/ata_2303.md
+    - Reunião 29/03: ./atas/ata_2903.md
 
 markdown_extensions:
   - attr_list
