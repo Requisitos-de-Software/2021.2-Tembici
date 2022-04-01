@@ -53,7 +53,8 @@
 | RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 
-## Matriz Requisitos Não Funcionais 
+## Matriz Requisitos Não Funcionais
+
 | Identificação | Requisito | Técnica |
 |---|---|---|
 | RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
