@@ -5,18 +5,28 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 30/03/2022 | Criação Documento | Luiz Henrique |
+| 1.1 | 31/03/2022 | Explicaçõ da modelagem | Paulo Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A Backward-From consiste em especificar as ligações existentes entre os requisitos e suas fontes. O principal objetivo é realizar a ligação de todos os requisitos elicitados durante o projeto no contexto da matéria aos respectivos métodos de elicitação e modelagem. Com este objetivo, foi desenvolvido uma matriz de rastreabilidade, onde pode-se indetificae de qual artefato um requisito espefico foi elicitado.</p>
+<p align="justify">&emsp;&emsp;A Backward-From consiste em especificar as ligações existentes entre os requisitos e suas fontes. O principal objetivo é realizar a ligação de todos os requisitos elicitados durante o projeto no contexto da matéria aos respectivos métodos de elicitação e modelagem. Sendo assim, foi desenvolvido uma matriz de rastreabilidade, onde pode-se identificar de qual artefato o respectivo requisito foi elicitado.</p>
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From.  </p>
+<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From, que se consiste em uma técnica de matriz de rastreabilidade.</p>
 
-## Resultados 
+| Indentificação | Requisito | Técnica |
+|:-------------:|:--------------------:|:--------------------:|
+|**RFXX**| Requisito baseado no backlog | Modelo de elicitação |
+|**RNFXX**| Requisito baseado no backlog | Modelo de elicitação |
+
+|Legenda||
+|:----:|:--------------------:|
+|**RF**| Requisito Funcional |
+|**RNF**| Requisito Não Funcional |
+|**XX**| Id de identificação do requisito |
 
 ## Matriz Requisitos Funcionais 
 
@@ -32,9 +42,6 @@
 | RF09 | O aplicativo deve cobrar o usuário caso ele passe do tempo limite de uso da bicicleta para que tenha controle do uso e do plano do usuário | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RF10 | O aplicativo deve avisar o usuário caso o seu tempo esteja acabando para que ele tenha noção do tempo de uso  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RF11 | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
-| RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
-| RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
-| RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 | RF15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) |
 | RF16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RF17 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel| [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) |
@@ -47,8 +54,11 @@
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 
 ## Matriz Requisitos Não Funcionais 
-
-
+| Identificação | Requisito | Técnica |
+|---|---|---|
+| RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
+| RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
+| RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 
 ## Referências 
 
