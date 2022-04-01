@@ -6,18 +6,28 @@
 |-|-|:-:|:-:|
 | 1.0 | 30/03/2022 | Criação Documento | Luiz Henrique |
 | 1.1 | 30/03/2022 | Criação Matrizes | Luiz Henrique, Paulo Henrique |
+| 1.2 | 31/03/2022 | Explicaçõ da modelagem | Paulo Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;A Backward-From consiste em especificar as ligações existentes entre os requisitos e suas fontes. O principal objetivo é realizar a ligação de todos os requisitos elicitados durante o projeto no contexto da matéria aos respectivos métodos de elicitação e modelagem. Com este objetivo, foi desenvolvido uma matriz de rastreabilidade, onde pode-se indetificae de qual artefato um requisito espefico foi elicitado.</p>
+<p align="justify">&emsp;&emsp;A Backward-From consiste em especificar as ligações existentes entre os requisitos e suas fontes. O principal objetivo é realizar a ligação de todos os requisitos elicitados durante o projeto no contexto da matéria aos respectivos métodos de elicitação e modelagem. Sendo assim, foi desenvolvido uma matriz de rastreabilidade, onde pode-se identificar de qual artefato o respectivo requisito foi elicitado.</p>
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From.  </p>
+<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From, que se consiste em uma técnica de matriz de rastreabilidade.</p>
 
-## Resultados 
+| Indentificação | Requisito | Técnica |
+|:-------------:|:--------------------:|:--------------------:|
+|**RFXX**| Requisito baseado no backlog | Modelo de elicitação |
+|**RNFXX**| Requisito baseado no backlog | Modelo de elicitação |
+
+|Legenda||
+|:----:|:--------------------:|
+|**RF**| Requisito Funcional |
+|**RNF**| Requisito Não Funcional |
+|**XX**| Id de identificação do requisito |
 
 ## Matriz Requisitos Funcionais 
 
@@ -44,17 +54,13 @@
 | RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 
-*Tabela 2: Matriz Requisitos Não Funcionais*
+## Matriz Requisitos Não Funcionais
 
-## Matriz Requisitos Não Funcionais 
-
-| Identificação | Requisito Não Funiconal | Técnica |
+| Identificação | Requisito | Técnica |
 |---|---|---|
 | RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
-
-*Tabela 3: Matriz Requisitos Não Funcionais*
 
 ## Referências 
 
