@@ -65,6 +65,8 @@ nav:
     - Validação:
       - Validação Informal: ./analise/validacao/validacao_informal.md
       - Protótipo: ./analise/validacao/prototipo.md
+  - Pós-Rastreabilidade:
+    - EAP: ./pos-rastreabilidade/eap.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
     - Reunião 23/03: ./atas/ata_2303.md
