@@ -5,7 +5,8 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 30/03/2022 | Criação Documento | Luiz Henrique |
-| 1.1 | 31/03/2022 | Explicaçõ da modelagem | Paulo Henrique |
+| 1.1 | 30/03/2022 | Criação Matrizes | Luiz Henrique, Paulo Henrique |
+| 1.2 | 31/03/2022 | Explicaçõ da modelagem | Paulo Henrique |
 
 *Tabela 1: versionamento*
 
@@ -30,7 +31,7 @@
 
 ## Matriz Requisitos Funcionais 
 
-| Identificação | Requisito | Técnica |
+| Identificação | Requisito Funiconal | Técnica |
 |---|---|---|
 | RF01 | O aplicativo deve permitir o cadastro/login do usuario | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
 | RF02 | O aplicativo deve aceitar utilizar a localização geográfica do usuario para que posso utilizar o aplicativo  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) |
