@@ -10,18 +10,15 @@
 | 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
 | 1.4 | 18/02 | Revisão | Luiz Henrique |
 | 1.5 | 04/03 | Adição revisor | Luiz Henrique |
-| 1.5 | 14/03 | Melhorias metodologia | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;O questionário é uma ótima maneira de elicitar requisitos, pois com ele é fácil saber qual as principais características e necessidades do público alvo, além, claro, de delinear este público, coletando por meio de perguntas os dados do publico.</p>
+<p align="justify">&emsp;&emsp;O questionário é uma ótima maneira de elicitar requisitos, pois com ele é fácil saber qual as principais características e necessidades do público alvo, além, claro, de delinear este público.</p>
 
 ## Metodologia
-
-<p align="justify">&emsp;&emsp;Foi utilizado a ferramenta Google Forms para realizar a confecção do questionário, o mesmo foi diciminado por meio das plataformas Telegram e WhatsApp em grupo de ambito estadual e nacional, visando um bom alcance e abrengência realizamos a captação de resposta durante 1 semana(7 dias).</p>
-
+<!-- Adicionar Metodologia -->
 
 ## Questões
 ### Questão 1

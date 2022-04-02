@@ -21,7 +21,7 @@
 | 3 | Existe relacionamento do ator para o caso de uso e vice-versa? |
 | 4 | O caso de uso possui uma descrição clara do que ele representa? |
 | 5 | Existe diferenciação do fluxo normal, alternativo e de exceção? |
-| 6 | O caso de uso possui rastreabilidade?? |
+| 6 | O caso de uso possui rastreabilidade? |
 
 ## Resultados
 ### Legenda
@@ -45,4 +45,4 @@
 | CdU4 | Possível erro de ortografia no nome do CdU |
 
 ## Referências 
-[1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23.
+<p>[1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 18 de Março de 2022. </p>
