@@ -62,7 +62,6 @@
 *Tabela 5: Épico 03*
 
 ### Épico 04 - Ajuda
-<div id="epico1">/</div>
 
 |**Feature**|**ID**|**História de usuário**| Prioridade |
 |:----------:|:----:|:----------------------| --------- |
