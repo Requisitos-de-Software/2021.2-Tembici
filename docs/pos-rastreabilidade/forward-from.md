@@ -6,6 +6,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 02/04 | Criação do documento | João Victor Batista |
+| 1.1 | 03/04 | Criação de artefatos | Lívia Rodrigues Reis |
 
 *Tabela 1: versionamento*
 
