@@ -429,4 +429,4 @@
 
 ## Referências
 
-<p> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 21 de Março de 2022</p>
+> [1] - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 52 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 21 de Março de 2022

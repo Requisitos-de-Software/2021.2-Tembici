@@ -67,6 +67,7 @@ nav:
       - Protótipo: ./analise/validacao/prototipo.md
   - Pós-Rastreabilidade: 
     - Backward-From: ./pos-rastreabilidade/backward-from.md
+    - Forward-From: ./pos-rastreabilidade/forward-from.md
     - EAP: ./pos-rastreabilidade/eap.md
   - Atas:
     - Reunião 15/03: ./atas/ata_1503.md
