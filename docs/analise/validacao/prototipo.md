@@ -4,6 +4,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 23/03/2022 | Criação do Documento | Lívia Rodrigues |
+| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
  
 *Tabela 1: versionamento*
  

@@ -4,16 +4,16 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 24/02 | Abertura do documento Lexico | Paulo Henrique e Luiz Henrique |
-| 1.1 | 27/02 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
-| 1.2 | 27/02 | Adição do léxicos Objetos | Paulo Henrique |
-| 1.3 | 28/02 | Adição introdução e referências | Luiz Henrique Fernandes |
-| 1.4 | 02/03 | Adição da tabela de estados | Luiz Henrique e Paulo Henrique |
-| 1.5 | 02/03 | Adição links para rastreabilidade | Luiz Henrique e Paulo Henrique |
-| 1.6 | 21/02 | Revisão | Victor Eduardo, Luiz Henrique, Gabriel Sabanai |
-| 1.7 | 04/03 | Adição revisor | Luiz Henrique |
-| 2.0 | 11/03 | Adição novos Léxicos | Luiz Henrique |
-| 3.0 | 22/03 | Correção pós verificação | Paulo Henrique |
+| 1.0 | 24/02/2022 | Abertura do documento Lexico | Paulo Henrique e Luiz Henrique |
+| 1.1 | 27/02/2022 | Criação e Adição Lexicos Verbos | Luiz Henrique Fernandes |
+| 1.2 | 27/02/2022 | Adição do léxicos Objetos | Paulo Henrique |
+| 1.3 | 28/02/2022 | Adição introdução e referências | Luiz Henrique Fernandes |
+| 1.4 | 02/03/2022 | Adição da tabela de estados | Luiz Henrique e Paulo Henrique |
+| 1.5 | 02/03/2022 | Adição links para rastreabilidade | Luiz Henrique e Paulo Henrique |
+| 1.6 | 21/02/2022 | Revisão | Victor Eduardo, Luiz Henrique, Gabriel Sabanai, Paulo Henrique |
+| 1.7 | 04/03/2022 | Adição revisor | Luiz Henrique |
+| 2.0 | 11/03/2022 | Adição novos Léxicos | Luiz Henrique |
+| 3.0 | 22/03/2022 | Correção pós verificação | Paulo Henrique |
 
 *Tabela 1: Versionamento da modelagem*
 

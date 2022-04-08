@@ -3,11 +3,11 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/02 | Criação da introdução da técnica de Priorização | Gabriel Sabanai e Paulo Henrique |
-| 1.1 | 20/02 | Adição dos requisitos coletados | Gabriel Sabanai e Paulo Henrique |
-| 1.2 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo|
-| 1.3 | 21/02 | Revisão | Luiz Henrique |
-| 1.4 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 19/02/2022 | Criação da introdução da técnica de Priorização | Gabriel Sabanai e Paulo Henrique |
+| 1.1 | 20/02/2022 | Adição dos requisitos coletados | Gabriel Sabanai e Paulo Henrique |
+| 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo|
+| 1.3 | 21/02/2022 | Revisão | Luiz Henrique |
+| 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
 
 
 *Tabela 1: versionamento*

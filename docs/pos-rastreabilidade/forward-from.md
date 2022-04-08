@@ -1,12 +1,11 @@
-# <center> Forward-From
-
-
+# Forward-From
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 02/04 | Criação do documento | João Victor Batista |
-| 1.1 | 03/04 | Criação de artefatos | Lívia Rodrigues Reis |
+| 1.0 | 02/04/2022 | Criação do documento | João Victor Batista |
+| 1.1 | 03/04/2022 | Criação de artefatos | Lívia Rodrigues Reis |
+| 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 
 *Tabela 1: versionamento*
 

@@ -3,11 +3,11 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 15/02 | Abertura do documento de brainstorm | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.1 | 15/02 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.2 | 17/02 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.3 | 19/02 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.0 | 15/02/2022 | Abertura do documento de brainstorm | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.1 | 15/02/2022 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.2 | 17/02/2022 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.3 | 19/02/2022 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.4 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
 
 *Tabela 1: versionamento*
 

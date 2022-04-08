@@ -3,10 +3,10 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 08/02 | Adição das metodologias usadas | Luiz Henrique, Victor Eduardo |
-| 1.1 | 09/02 | Revisão | Victor Eduardo |
-| 1.2 | 24/02 | Padronização da página | Victor Eduardo |
-| 1.3 | 05/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 08/02/2022 | Adição das metodologias usadas | Luiz Henrique, Victor Eduardo |
+| 1.1 | 09/02/2022 | Revisão | Victor Eduardo |
+| 1.2 | 24/02/2022 | Padronização da página | Victor Eduardo |
+| 1.3 | 05/03/2022 | Adição revisor | Luiz Henrique |
 
 
 *Tabela 1: versionamento*

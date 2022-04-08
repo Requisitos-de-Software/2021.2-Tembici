@@ -3,13 +3,13 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 02/02 | Criação do cronograma | Victor Eduardo, Lívia Rodrigues |
-| 1.1 | 02/02 | Criação do planejamento de trabalho | Gabriel Sabanai, João Victor, Lívia Rodrigues, Luiz Henrique, Paulo Henrique, Victor Eduardo |
-| 1.2 | 02/02 | Adição do planejamento de trabalho | Gabriel Sabanai |
-| 1.3 | 04/02 | Adição do cronograma do projeto | João Victor Batista |
-| 1.4 | 24/02 | Padronização da página | Victor Eduardo |
-| 1.5 | 05/02 | Revisão | Gabriel Sabanai |
-| 1.6 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 02/02/2022 | Criação do cronograma | Victor Eduardo, Lívia Rodrigues |
+| 1.1 | 02/02/2022 | Criação do planejamento de trabalho | Gabriel Sabanai, João Victor, Lívia Rodrigues, Luiz Henrique, Paulo Henrique, Victor Eduardo |
+| 1.2 | 02/02/2022 | Adição do planejamento de trabalho | Gabriel Sabanai |
+| 1.3 | 04/02/2022 | Adição do cronograma do projeto | João Victor Batista |
+| 1.4 | 24/02/2022 | Padronização da página | Victor Eduardo |
+| 1.5 | 05/02/2022 | Revisão | Gabriel Sabanai |
+| 1.6 | 04/03/2022 | Adição revisor | Luiz Henrique |
 
 
 *Tabela 1: versionamento*

@@ -6,6 +6,7 @@
 | 1.0 | 28/02/2022 | Criação do artefato | Victor Eduardo, Luiz Henrique |
 | 1.1 | 03/03/2022 | Padronização | Luiz Henrique |
 | 1.2 | 06/03/2022 | Revisão | João Victor, Luiz Henrique |
+| 1.3 | 06/03/2022 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

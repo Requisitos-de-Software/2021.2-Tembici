@@ -3,9 +3,9 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 18/02 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
-| 1.1 | 19/02 | Adição Introspecção Requisitos | Luiz Henrique |
-| 1.2 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.0 | 18/02/2022 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
+| 1.1 | 19/02/2022 | Adição Introspecção Requisitos | Luiz Henrique |
+| 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
 
 *Tabela 1: versionamento*
 

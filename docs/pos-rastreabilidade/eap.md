@@ -4,6 +4,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 30/03/2022 | Criação do Artefato | Victor Eduardo |
+| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 
 *Tabela 1: versionamento*
 

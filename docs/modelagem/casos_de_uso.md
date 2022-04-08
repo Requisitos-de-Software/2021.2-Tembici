@@ -4,11 +4,11 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 12/02 | Criação da seção Casos de Uso e template | Victor Eduardo |
-| 1.1 | 25/02 | Adição dos casos de Uso 1 a 4 | Victor Eduardo |
-| 1.2 | 26/02 | Adição dos casos de Uso 5 a 8 | Lívia Rodrigues |
-| 1.3 | 27/02 | Revisão | Luiz Henrique |
-| 1.4 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 12/02/2022 | Criação da seção Casos de Uso e template | Victor Eduardo |
+| 1.1 | 25/02/2022 | Adição dos casos de Uso 1 a 4 | Victor Eduardo |
+| 1.2 | 26/02/2022 | Adição dos casos de Uso 5 a 8 | Lívia Rodrigues |
+| 1.3 | 27/02/2022 | Revisão | Luiz Henrique, Victor Eduardo |
+| 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: Versionamento*
 

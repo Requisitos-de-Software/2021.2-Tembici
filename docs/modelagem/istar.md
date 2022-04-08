@@ -5,6 +5,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 03/03/2022 | Criação Istar | Luiz Henrique, victor Eduardo|
 | 1.1 | 06/03/2022 | Revisão | João Victor, Luiz Henrique |
+| 1.2 | 06/03/2022 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

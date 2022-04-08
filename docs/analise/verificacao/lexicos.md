@@ -1,12 +1,13 @@
 ## Versionamento
 | Versão | Data  | Descrição                                     | Autor(es) |
 | ------ | ----- | --------------------------------------------- | --------- |
-| 1.0    | 21/03 | Abertura do documento de varificação do léxicos | Paulo henrique |
-| 1.1    | 21/03 | Adição da tabela com as perguntas | Paulo henrique |
-| 1.2    | 21/03 | Correção da tabela | Paulo henrique |
-| 1.3    | 21/03 | Atualização da tabela de verificação| Paulo henrique |
-| 1.4    | 22/03 | Entrega da tabela de conclusão da verificação | Paulo henrique |
-| 1.5    | 22/03 | Correções do PR | Paulo henrique |
+| 1.0 | 21/03/2022 | Abertura do documento de varificação do léxicos | Paulo henrique |
+| 1.1 | 21/03/2022 | Adição da tabela com as perguntas | Paulo henrique |
+| 1.2 | 21/03/2022 | Correção da tabela | Paulo henrique |
+| 1.3 | 21/03/2022 | Atualização da tabela de verificação| Paulo henrique |
+| 1.4 | 22/03/2022 | Entrega da tabela de conclusão da verificação | Paulo henrique |
+| 1.5 | 22/03/2022 | Correções do PR | Paulo henrique |
+| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 
 *Tabela 1: Tabela de versionamento*
 

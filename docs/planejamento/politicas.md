@@ -3,9 +3,9 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 08/02 | Adição da política de contribuição | Paulo Henrique |
-| 1.1 | 24/02 | Padronização da página | Victor Eduardo |
-| 1.2 | 06/03 | Revisão | Luiz Henrique  |
+| 1.0 | 08/02/2022 | Adição da política de contribuição | Paulo Henrique |
+| 1.1 | 24/02/2022 | Padronização da página | Victor Eduardo |
+| 1.2 | 06/03/2022 | Revisão e adição revisor | Luiz Henrique  |
 
 *Tabela 1: versionamento*
 
