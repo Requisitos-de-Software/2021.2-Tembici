@@ -2,8 +2,9 @@
 
 | Versão | Data  | Descrição                         | Autor(es)    |
 | ------ | ----- | --------------------------------- | ------------ |
-| 1.0    | 23/03 | Abertura do documento             | Gabriel Sabanai |
-| 1.1    | 23/03 | Adição da Verificação | Gabriel Sabanai |
+| 1.0    | 23/03/2022 | Abertura do documento  | Gabriel Sabanai |
+| 1.1    | 23/03/2022 | Adição da Verificação | Gabriel Sabanai |
+| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 
 ## Introdução
 

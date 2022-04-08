@@ -4,8 +4,9 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 08/03 | Criação do backlog do produto | Paulo Henrique e Gabriel Sabanai |
-| 1.1 | 21/03 | Modificações Pós-Verificação | João Victor Batista |
+| 1.0 | 08/03/2022 | Criação do backlog do produto | Paulo Henrique, Gabriel Sabanai |
+| 1.1 | 21/03/2022 | Modificações Pós-Verificação | João Victor |
+| 1.2 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor |
 
 *Tabela 1: Versionamento*
 

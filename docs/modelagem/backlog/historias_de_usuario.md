@@ -4,9 +4,10 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 09/03 | Criação das histórias de usuário | Lívia Rodrigues e João Victor |
-| 1.1 | 09/03 | Padronização | Lívia Rodrigues |
-| 1.2 | 21/03 | Modificações Pós-Verificação | João Victor Batista |
+| 1.0 | 09/03/2022 | Criação das histórias de usuário | Lívia Rodrigues, João Victor |
+| 1.1 | 09/03/2022 | Padronização | Lívia Rodrigues |
+| 1.2 | 21/03/2022 | Modificações Pós-Verificação | João Victor |
+| 1.3 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor |
 
 *Tabela 1: Versionamento*
 

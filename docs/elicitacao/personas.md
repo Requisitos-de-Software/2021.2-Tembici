@@ -3,10 +3,10 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/02 | Adição de personas | Lívia Rodrigues, João Victor |
-| 1.1 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
-| 1.2 | 20/02 | Revisão | João Victor, Lívia Rodrigues |
-| 1.3 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 19/02/2022 | Adição de personas | Lívia Rodrigues, João Victor |
+| 1.1 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.2 | 20/02/2022 | Revisão | João Victor, Lívia Rodrigues, Luiz Henrique |
+| 1.3 | 04/03/2022 | Adição revisor e adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -20,7 +20,9 @@
 
 ## Resultados
 
-* Persona 1
+### Persona 1
+
+![Foto persona 1 - Letícia](../../docs/assets/modelagem/persona/p1.png) 
 
   Nome: Letícia.
   
@@ -36,7 +38,9 @@
   
   Nível de conhecimento sobre o app: Utiliza o aplicativo esporadicamente.
 
-* Persona 2
+### Persona 2
+
+![Foto persona 2 - Ricardo](../../docs/assets/modelagem/persona/p2.png) 
 
   Nome: Ricardo.
 
@@ -52,7 +56,9 @@
 
   Nível de conhecimento sobre o app: Utiliza constantemente o aplicativo.
 
-* Persona 3
+### Persona 3
+
+![Foto persona 3 - Fransisco](../../docs/assets/modelagem/persona/p3.png) 
 
   Nome: Francisco.
 
@@ -68,8 +74,10 @@
 
   Nível de conhecimento sobre o app: Primeira vez utilizando um app desse tipo.
 
-* Persona 4
+### Persona 4
 
+![Foto persona 4 - Thaís](../../docs/assets/modelagem/persona/p4.png) 
+  
   Nome: Thaís.
 
   Idade: 22 anos.
@@ -84,7 +92,27 @@
   
   Nível de conhecimento sobre o app: Utiliza o aplicativo diariamente para a otimização de seu tempo.
 
-* Antipersona
+### Persona Secundá4ria
+
+![Foto Persona Secundária - Lucas](../../docs/assets/modelagem/persona/p5.png) 
+
+  Nome: Lucas.
+  
+  Idade: 33 anos.
+  
+  Escolaridade: Ensino Superior.
+  
+  Profissão: Professor Universitario
+
+  Desafios: Mora em uma região que não possui postos do aplicativo
+  
+  Expectativas: Deseja poder voltar para sua casa utilizando a bicicleta do aplicativo.
+
+  Nível de conhecimento sobre o app: Já utilizou a aplicativo varias vezes.
+
+### Antipersona
+
+![Foto Antipersona - Meteus](../../docs/assets/modelagem/persona/at.png) 
 
   Nome: Mateus.
   

@@ -3,13 +3,13 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 12/02 | Criação e prospecção do questionario | Victor Eduardo |
-| 1.1 | 12/02 | Criação da seção Técnicas e Questionário | Victor Eduardo |
-| 1.2 | 18/02 | Adição das respostas do questionário | Victor Eduardo |
-| 1.3 | 18/02 | Avaliação das respostas e requisitos | Victor Eduardo |
-| 1.4 | 24/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
-| 1.4 | 18/02 | Revisão | Luiz Henrique |
-| 1.5 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 12/02/2022 | Criação e prospecção do questionario | Victor Eduardo |
+| 1.1 | 12/02/2022 | Criação da seção Técnicas e Questionário | Victor Eduardo |
+| 1.2 | 18/02/2022 | Adição das respostas do questionário | Victor Eduardo |
+| 1.3 | 18/02/2022 | Avaliação das respostas e requisitos | Victor Eduardo |
+| 1.4 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.4 | 18/02/2022 | Revisão | Luiz Henrique |
+| 1.5 | 04/03/2022 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

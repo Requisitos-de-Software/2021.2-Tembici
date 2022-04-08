@@ -3,11 +3,11 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 04/02 | Criação da Rich Picture 1.0 | João Victor Batista |
-| 1.1 | 23/02 | Adição Rich Picture de Planos | Luiz Henrique Fernandes Zamprogno |
-| 2.0 | 23/02 | Padronização da página | Luiz Henrique, Victor Eduardo |
-| 2.1 | 21/02 | Revisão | Victor Eduardo, Luiz Henrique |
-| 2.2 | 04/03 | Adição revisor | Luiz Henrique |
+| 1.0 | 04/02/2022 | Criação da Rich Picture 1.0 | João Victor |
+| 1.1 | 23/02/2022 | Adição Rich Picture de Planos | Luiz Henrique  |
+| 2.0 | 23/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 2.1 | 21/02/2022 | Revisão | Victor Eduardo, Luiz Henrique, Gabriel Sabanai |
+| 2.2 | 04/03/2022 | Adição revisor | Luiz Henrique |
 
 *Tabela 1: versionamento*
 

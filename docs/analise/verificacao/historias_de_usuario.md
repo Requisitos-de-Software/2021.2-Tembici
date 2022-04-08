@@ -5,6 +5,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 21/03/2022 | Criação do artefato | João Victor Batista |
+| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 
 <br>
 

@@ -3,8 +3,10 @@
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/03 | Criação documento | Luiz Henrique |
-| 1.1 | 19/03 | Adição dados de verifiação | Luiz Henrique |
+| 1.0 | 19/03/2022 | Criação documento | Luiz Henrique |
+| 1.1 | 19/03/2022 | Adição dados de verifiação | Luiz Henrique |
+| 1.2 | 08/04/2022 | Revisão | Victor Eduardo |
+| 1.3 | 08/04/2022 | Adição revisor | Luiz Henrique |
 
 
 ## Introdução
