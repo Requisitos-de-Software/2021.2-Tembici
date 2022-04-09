@@ -4,8 +4,7 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 05/03/2022 | Criação Readmap  |  Livia Rodrigues, Luiz Henrique |
-| 1.1 | 06/04/2022 | Revisão | Luiz Henrique, Victor Eduardo  |
-| 1.2 | 08/04/2022 | Adição revisor | Luiz Henrique |
+| 1.1 | 09/04/2022 | Revisão | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -44,6 +43,7 @@ Cores
 
 *Tabela 2: Significado de cada cor*
 
+<p align="justify">&emsp;&emsp;Todos os integrantes do grupo participaram de forma assíncrona colocando os horários que estavam disponíveis, e o artefato foi criado para que o grupo pusse saber o melhor dia e hora para se reunir semanalmente.</p>
 
 ## Resultados
 
