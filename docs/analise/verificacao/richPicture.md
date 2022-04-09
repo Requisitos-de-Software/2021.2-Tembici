@@ -1,22 +1,23 @@
+# Verificação do Rich Picture
 ## Versionamento
 
 | Versão | Data  | Descrição             | Autor(es)       |
 | ------ | ----- | --------------------- | --------------- |
 | 1.0    | 23/03/2022 | Abertura do documento | Gabriel Sabanai |
 | 1.1    | 23/03/2022 | Adição da Verificação | Gabriel Sabanai |
-| 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
+| 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
+| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+
+*Tabela 1: versionamento*
 
 ## Introdução 
-
-Tendo como base o projeto Ingresso.com realizado por alunos da disciplina em semestres passados, e com o material [1], disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de Rich Picture deste projeto e apontar análises e possíveis pontos de melhora. A verificação é realizada para que se tenha a certeza de que os requisitos listados foram atendidos, ela serve para que seja garantido que o sistema atenda as necessidades.
+<p align="justify">&emsp;&emsp;Tendo como base o projeto Ingresso.com realizado por alunos da disciplina em semestres passados, e com o material [1], disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de Rich Picture deste projeto e apontar análises e possíveis pontos de melhora. A verificação é realizada para que se tenha a certeza de que os requisitos listados foram atendidos, ela serve para que seja garantido que o sistema atenda as necessidades.</p>
 
 ## Metodologia
-
-Para a verificação do rich pictures elaborado pela nossa equipe, no contexto da disciplina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.
+<p align="justify">&emsp;&emsp;Para a verificação do rich pictures elaborado pela nossa equipe, no contexto da disciplina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.</p>
 
 ## Inspeção
-
-Tais justificativas foram baseadas no artigo [Complexity and rich pictures revised](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf)
+&emsp;&emsp;Tais justificativas foram baseadas no artigo [Complexity and rich pictures revised](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf)
 
 |Questão|Justificativa
 |-------|-------------|
@@ -30,8 +31,9 @@ Tais justificativas foram baseadas no artigo [Complexity and rich pictures revis
 |Os rótulos são posicionados corretamente?|O posicionamento dos rótulos deve ser diretamente abaixo dos símbolos, para facilitar sua assimilação|
 |O Rich Picture possui termos simples para que usuários não-técnicos possam compreender seu conteúdo?|O emprego de termos ou jargões técnicos pode dificultar o compreensão de um cliente sobre o diagrama|
 
-## Checklist 
+*Tabela 2: Estrutura do checklist*
 
+## Checklist 
 ### Legenda
 - ✅: Sim
 - ❌: Não
@@ -48,14 +50,15 @@ Tais justificativas foram baseadas no artigo [Complexity and rich pictures revis
 |Os rótulos são posicionados corretamente?|✔|
 |O Rich Picture possui termos simples para que usuários não-técnicos possam compreender seu conteúdo?|✔|
 
+*Tabela 3: Resultado do checklist realizado*
+
 ## Observações
 
 |Rich Picture|Observações|
 |------------|-----------|
 |Versão 1.0|<ul><li>Não possui um título posicionado na imagem, além de que os títulos no documento estão muito genericos.</li><li>Certas ideias estão muito vagas e seria interessante possuir uma legenda as explicando.</li></ul>|
 
+*Tabela 4: Observações do artefato*
 
 ## Conclusão
-
-A partir da verificação feita, podemos concluir que de modo geral, o Rich Picture foi bem trabalhado. Gerando um valor grande para o projeto, principalmente por ser
-simples, com um desenho limpo e auto explicativo. Entretano, falha em pequenos pontos como um título mais especifico e uma legenda para certas ideias.
+<p align="justify">&emsp;&emsp;A partir da verificação feita, podemos concluir que de modo geral, o Rich Picture foi bem trabalhado. Gerando um valor grande para o projeto, principalmente por ser simples, com um desenho limpo e auto explicativo. Entretano, falha em pequenos pontos como um título mais especifico e uma legenda para certas ideias.</p>

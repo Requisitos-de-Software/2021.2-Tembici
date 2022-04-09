@@ -5,7 +5,8 @@
 |-|-|:-:|:-:|
 | 1.0 | 23/03/2022 | Criação do Documento | Lívia Rodrigues |
 | 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
- 
+| 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+
 *Tabela 1: versionamento*
  
 ## Introdução
@@ -13,7 +14,7 @@
 <p align="justify">&emsp;&emsp; A validação informal é uma tarefa de leitura de descrições em linguagem natural e do uso dos usuários para identificar problemas na expressão dos requisitos. As estratégias para a validação têm em comum a falta de um apoio automatizado, e a excessiva dependência das habilidades analíticas dos leitores. O objetivo é buscar um feedback dos documentos elicitados pelo grupo por um funcionário do aplicativo em questão.</p>
  
 ## Metodologia
-<p align="justify">&emsp;&emsp; A tentativa de contato foi por meio de email direcionado a equipe do Tembici.</p>
+<p align="justify">&emsp;&emsp; A tentativa de contato foi por meio de email direcionado a equipe do Tembici pela integrante Lívia Rodrigues.</p>
  
 ![Email](../../assets/analise/validacao/email.png)
 

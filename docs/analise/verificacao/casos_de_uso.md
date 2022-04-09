@@ -5,6 +5,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 18/03/2022 | Criação do Documento | Victor Eduardo |
 | 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
+| 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -12,7 +13,7 @@
 <p style="text-align: justify">&emsp;&emsp;Tendo como base o projeto <a href="https://requisitos-de-software.github.io/2021.1-Ingresso.com/verificacao/casos_de_uso/">Ingresso.com</a> realizado por alunos da disciplina em semestres passados, e com o material [1], disponibilizados pelo professor para estudo, foi possível fazer a verificação do documento buscando a máxima assertividade na realização desta atividade, que tem como finalidade revisar o documento de <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/casos_de_uso/">Casos de Uso</a> deste projeto e apontar análises e possíveis pontos de melhora.</p>
 
 ## Metodologia
-<p style="text-align: justify">&emsp;&emsp;Usando como método a Inspeção, onde o objetivo é encontrar problemas no documento para avaliar se está de acordo com o modelo e com o que se espera [1], um checklist foi criado para os Casos de Uso.</p>
+<p style="text-align: justify">&emsp;&emsp;Usando como método a Inspeção, onde o objetivo é encontrar problemas no documento para avaliar se está de acordo com o modelo e com o que se espera [1], um checklist foi criado para os Casos de Uso. O artefato a seguir foi feito pelo integrante do grupo Victor Eduardo.</p>
 
 ### Checklist
 | Numero | Questão |
@@ -23,6 +24,8 @@
 | 4 | O caso de uso possui uma descrição clara do que ele representa? |
 | 5 | Existe diferenciação do fluxo normal, alternativo e de exceção? |
 | 6 | O caso de uso possui rastreabilidade? |
+
+*Tabela 2: Estrutura do checklist dos Casos de Uso*
 
 ## Resultados
 ### Legenda
@@ -38,6 +41,8 @@
 | 4 |✅|✅|✅|❌|✅|✅|❌|
 | 5 |✅|✅|✅|✅|✅|✅|✅|
 | 6 |❌|❌|❌|❌|❌|❌|❌|
+
+*Tabela 3: Resultado do checklist dos Casos de Uso*
 
 ### Observações
 | Caso de Uso | Observações |

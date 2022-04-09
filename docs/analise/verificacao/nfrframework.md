@@ -1,11 +1,13 @@
 # Verificação NFR Framework
-
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 19/03/2022 | Criação documento | Luiz Henrique |
 | 1.1 | 19/03/2022 | Adição dados de verifiação | Luiz Henrique |
 | 1.4 | 09/04/2022 | Revisão do documento | Victor Eduardo |
+| 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+
+*Tabela 1: Tabela de versionamento*
 
 ## Introdução
 <p align="justify">&emsp;&emsp; A verificação é uma metodologia que visa garantir que os entregaveis de um projeto, garantindo que os pontos analisados cumpram com seus requisitos especificados. Essa etapa consiste de uma técnica que não depende da interação com os usuários finais do produto, sendo realizada atrvés da visão tecnica do desenvolvedor. O presente documento tem como objetivo apresentar a verificação realizada no documento de modelagem <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/nfrframework/">NFR Framework</a>.</p>
@@ -16,7 +18,6 @@
 <p align="justify">&emsp;&emsp;O presente processo foi realizado pelo membro Luiz Henrique e revisado com outros membros do grupo no dia 17 de Março de 2022.</p>
 
 ## Resultados
-
 | Id | Questões | Usabilidade | Usabilidade Propagação | Confiabilidade | Confiabilidade Propagação | Desempenho | Desempenho Propagação | Suportabilidade | Suportabilidade Propagação |
 | :----: | ----------- | :---------: | :------------: | :--------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: |
 | 1 | O fluxo do diagrama está bem representado? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
@@ -35,13 +36,14 @@
 | 14 | As contribuições negativas estão corretamente representadas e aplicadas? | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ | ✔ |
 |  -  | Total | 92.9% | 92.9% | 100% | 100% | 92.9% | 92.9% | 92.9% |  |
 
-*Tabela 1: Tabela de verficação de critérios - Verificação NRF Framework*  
+*Tabela 2: Tabela de verficação de critérios - Verificação NRF Framework*  
 *Fonte: Elaboração dos autores do presente documento*
 
 <p align="justify">&emsp;&emsp; A verificação do documento NFR Framework se encontra de acordo com os padrões esperados. Porém alguns diagramas confecção dde Interdependência de Softgoal priorizou as contribuições positivas em detrimento das negativa. Porém vale resaltar que as contribuições negativas apesar de não se encaixarem em todos os contextos são importantes para o projeto, uma vez que permitirá que o desenvolvedor entenda o que não se deve fazer para atingir um determinado objetivo. Assim, essa verificação contribuirá bastante com a elaboração e aprimoramento da modelagem feita pela a equipe. Pode-se visualizar os resultados a partir do gráfico abaixo:
 </p>
 
-![Grafico - Verificação - NRF Framework](../../assets/verificacao/istar/graficoNFR.png)
+![Grafico - Verificação - NRF Framework](../../assets/verificacao/istar/graficoNFR.png)  
+*Imagem 1: Gráfico dos resultados do checklist*
 
 ## 6. Bibliografia
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Acesso em: 16 de Março de 2022
