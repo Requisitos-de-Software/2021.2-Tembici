@@ -15,7 +15,7 @@
 <p align="justify">&emsp;&emsp;Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado. </p> 
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. O artefato foi feito pelos membros João Victor e Lívia Rodrigues.</p> 
+<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. O mesmo foi feito pelos membros João Victor e Lívia Rodrigues e tem como objetivo objetivo a indentificação de requisitos.</p> 
 
 ## Resultados
 ### Persona 1
