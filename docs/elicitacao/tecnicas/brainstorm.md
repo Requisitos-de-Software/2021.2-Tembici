@@ -7,19 +7,17 @@
 | 1.1 | 15/02/2022 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.2 | 17/02/2022 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
 | 1.3 | 19/02/2022 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.4 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ## Introdução 
+<p align="justify">&emsp;&emsp;O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Dessa forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.</p> 
 
-<p align="justify">&emsp;&emsp;O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Desas forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.</p> 
-
-<p align="justify">&emsp;&emsp;O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.</p> 
 
 ## Metodologia
-
-<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm.</p> 
+<p align="justify">&emsp;&emsp;O Brainstorm pode ser utilizado nos mais variados setores. Dentro da Engenharia de Software, é comumente utilizada na etapa de elicitação de requisitos junto ao cliente ou usuário. Assim, a equipe consegue acompanhar junto ao cliente as melhores soluções e ideias para o sistema. Caso necessário, a tecnica pode ser utilizada durante depois para revisão ou adição de alguma funcionalidade.</p> 
+<p align="justify">&emsp;&emsp;Dentro do projeto do Tembici, os estudantes Gabriel Sabanai e Luiz Henrique elaboraram perguntas e coordenaram o grupo para que complementassem ou debatessem a respeito das questões criadas. Dessa forma, foi possível levantar mais vertentes a respeito da aplicação por meio dessa dinâmica em grupo, o qual é a proposta do Brainstorm. O artefato foi feito com a presença de todos os integrantes do grupo numa reunião via Goolge Meet, e guiada pelos integrantes Luiz e Gabriel.</p> 
 
 ## Questionamentos
 
@@ -128,6 +126,8 @@ Requisitos levantandos:
 | BS14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | Requisito Não Funcional |
 | BS15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
 | BS16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
+
+*Tabela 1: Tabela de requisitos levantados com o brainstorm*
 
 ## Referências
 

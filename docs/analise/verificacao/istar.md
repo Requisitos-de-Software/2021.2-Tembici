@@ -1,11 +1,12 @@
 # Verificação Istar
-
 ## Versionamento
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 17/03/2022 | Criação documento | Luiz Henrique |
 | 1.1 | 19/03/2022 | Adição dados de verifiação | Luiz Henrique |
+| 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
+*Tabela 1: Versionamento* 
 
 ## Introdução
 <p align="justify">&emsp;&emsp; A verificação é uma metodologia que visa garantir que os entregáveis de um projeto, garantindo que os pontos analisados cumpram com seus requisitos especificados.</p>
@@ -18,11 +19,7 @@
 <p align="justify">&emsp;&emsp;Os critérios do checklist foram desenvolvidos considerando os apectos tecnicos da metodologia Istar como a execução correta da analise dos autores, agentes, tarefas, recursos e afins, os memsmos foram analisados e respondidos quanto aos seus aspectos utilizando "✔" (Sim) ou "✖" (Não), onde o Não pode evidenciar um  defeito, algo que precisa ser melhorado ou algo que derive de uma decisão do projeto.</p>
 <p align="justify">&emsp;&emsp;O presente processo foi realizado pelo membro Luiz Henrique e revalidado com os demais membros do grupo no dia 17 de Março de 2022.</p>
 
-
 ## Resultados
-
-*Tabela 1: Tabela de verficação de critérios - Verificação Istar*
-
 | Id | Verificação | Cadastro | Alugar Bicicleta | Devolver Bicicleta |
 |-|-|:-:|:-:|:-:|
 | 1 | Legendas completas e explicativas? | ✔ | ✔ | ✔ |
@@ -43,15 +40,14 @@
 | 16 | Diagrama autoexplicativo? | ✔ | ✔ | ✔ |
 | Total | <center> -- </center>  | 100% | 100% | 100% |
 
+*Tabela 2: Tabela de verficação de critérios - Verificação Istar*  
 *Fonte: Elaboração dos autores do presente documento*
 
 <p align="justify">&emsp;&emsp;De acordo com a verificação, o documento iStar se encontra de acordo com os padrões esperados, os errod idêntificados foram devidamente corrigidos. Os resultados podem ser vizualidos de maneira grafica abaixo:</p>
 
-*Imagem 1: Grafico de resultados - Verificação Istar*
-
-![Grafico - Verificação - Istar](../../assets/verificacao/istar/graficoIstar.png)
-
+![Grafico - Verificação - Istar](../../assets/verificacao/istar/graficoIstar.png)  
+*Imagem 1: Grafico de resultados - Verificação Istar*  
 *Fonte: Elaboração dos autores do presente documento*
 
-## Bibliografia
-<p> Serrano, M.; Serrano, M. Requisitos - Aula 23. Acesso em: 16 de Março de 2022</p>
+## Referências
+- <p>Serrano, M.; Serrano, M. Requisitos - Aula 23. Acesso em: 16 de Março de 2022</p>

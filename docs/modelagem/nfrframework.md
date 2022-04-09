@@ -7,6 +7,7 @@
 | 1.1 | 03/03/2022 | Padronização | Luiz Henrique |
 | 1.2 | 06/03/2022 | Revisão | João Victor, Luiz Henrique |
 | 1.3 | 06/03/2022 | Adição revisor | Luiz Henrique |
+| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -25,8 +26,6 @@ Os tipos de contribuição utilizados nos diagramas foram:
 
 Os rótulos utilizados foram:
 
-*Tabela 2: Rótulos - NFR Framework*
-
 | Rótulo | Descrição |
 |   -    |     -     |
 | ![Satisfeito](../assets/modelagem/nfr-framework/rotulos/Untitled.png){width="100"} | <br>Satisfeito | {justify-self="center"}
@@ -34,76 +33,51 @@ Os rótulos utilizados foram:
 | ![Parcialmente Satisfeito](../assets/modelagem/nfr-framework/rotulos/parcialmentesatisfeito.png) | <br>Parcialmente Satisfeito |
 | ![Parcialmente Negado](../assets/modelagem/nfr-framework/rotulos/parcialmentenegado.png) | <br>Parcialmente Negado |
 
+*Tabela 2: Rótulos - NFR Framework*  
 *Fonte: Reinaldo Antônio da Silva*
 
-Os diagrmas do mesmo foram desenvolvidos pelos integrantes Luiz Henrique e Victor Eduardo sendo validado com o demais membros da equipe por meio de uma reunião virtual no dia 1 de Março de 2022.
+<p align="justify">&emsp;&emsp;Os diagrmas do mesmo foram desenvolvidos pelos integrantes Luiz Henrique e Victor Eduardo sendo validado com o demais membros da equipe por meio de uma reunião virtual no dia 1 de Março de 2022.</p>
 
 ## Resultados
-
 ### Gráfico de Interdependência de Softgoal (SIG)
-
 #### Usabilidade 
-
-*Imagem 1: NFR Usabilidade*
-
 ![NFR Usabilidade](../assets/modelagem/nfr-framework/usabilidade/usabilidade.jpg)<br>
-
+*Imagem 1: NFR Usabilidade*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Usabilidade Propagação
-
-*Imagem 2: NFR Usabilidade Propagação*
-
 ![NFR Usabilidade Propagação](../assets/modelagem/nfr-framework/usabilidade/usabilidadeprop.jpg)<br>
-
+*Imagem 2: NFR Usabilidade Propagação*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Confiabilidade
-
-*Imagem 3: NFR Confiabilidade*
-
 ![NFR Confiabilidade](../assets/modelagem/nfr-framework/confiabilidade/confiabilidade.jpg)<br>
-
+*Imagem 3: NFR Confiabilidade*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Confiabilidade Propagação
-
-*Imagem 4: NFR Confiabilidade Propagação*
-
 ![NFR Confiabilidade Propagação](../assets/modelagem/nfr-framework/confiabilidade/confiabilidadeprop.jpg)<br>
-
+*Imagem 4: NFR Confiabilidade Propagação*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Desempenho
-
-*Imagem 5: NFR Desempenho*
-
 ![NFR Desempenho](../assets/modelagem/nfr-framework/desempenho/desempenho.jpg)<br>
-
+*Imagem 5: NFR Desempenho*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Desempenho Propagação
-
-*Imagem 6: NFR Desempenho Propagação*
-
 ![NFR Desempenho Propagação](../assets/modelagem/nfr-framework/desempenho/desempenhoprop.jpg)<br>
-
+*Imagem 6: NFR Desempenho Propagação*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Suportabilidade
-
-*Imagem 7: NFR Suportabilidade*
-
 ![NFR Suportabilidade](../assets/modelagem/nfr-framework/suportabilidade/suportabilidade.jpg)<br>
-
+*Imagem 7: NFR Suportabilidade*  
 *Fonte: Elaboração dos autores do presente documento*
 
 #### Suportabilidade Propagação
-
-*Imagem 8: NFR Suportabilidade Propagação* 
-
 ![NFR Suportabilidade Propagação](../assets/modelagem/nfr-framework/suportabilidade/suportabilidadeprop.jpg)<br>
-
+*Imagem 8: NFR Suportabilidade Propagação* 
 *Fonte: Elaboração dos autores do presente documento*
 
 ## Referências 

@@ -6,16 +6,15 @@
 | 1.0 | 18/02/2022 | Introspecção Requisitos | Luiz Henrique, Victor Eduardo, Livia Rodriges, João Victor |
 | 1.1 | 19/02/2022 | Adição Introspecção Requisitos | Luiz Henrique |
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
+| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ## Introdução
-
 <p align="justify">&emsp;&emsp;Introspecção é uma técnica de Elicitação de Requisitos que consiste na compreensão das funcionalidades e propriedades necessárias para o sucesso do produto.</p> 
 
 ## Metodologia
-
-<p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção o grupo se reuniu em uma reunião onde foi realizado o exercicio de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo os requisitos.</p> 
+<p align="justify">&emsp;&emsp;Em suma, na técnica Introspecção o grupo se reuniu em uma reunião onde foi realizado o exercício de se colocar no lugar do usuário e analisar quais as necessidades e desejos do mesmo ao utilizar o sistema proposto ou a ser analisado, assim obtendo a partir do mesmo requisitos para o projeto. O artefato foi feito com a presença de todos os integrantes do grupo em uma reunião via Google meet.</p> 
 
 ## Resultados
 
@@ -40,7 +39,7 @@ Requisitos levantados:
 | IT15 | O usuário poderá utilizar um cupom de desconto caso possua para diminuir o valor de seu plano | RF |
 | IT16 | O usuário deverá realizar o pagamento do plano escolhido utilizando um cartão de crédito | RF |
 
-*Tabela 2: Requisitos Introspecção*
+*Tabela 2: Tabela de requisitos levantados com a instrospecção*
 
 ## Referências
 

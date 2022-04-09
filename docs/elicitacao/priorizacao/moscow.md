@@ -8,18 +8,20 @@
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo|
 | 1.3 | 21/02/2022 | Revisão | Luiz Henrique |
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
-
+| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ## Introdução
+<p align="justify">&emsp;&emsp;MoSCoW é uma técnica que ajuda na construção de priorização de atividades de um sistema, esta técnica é muito utilizada na engenharia de requisitos a fim de definir a importância/prioridade entre as partes interessadas dos requisitos levantados por um sistema/projeto.</p>
 
-MoSCoW é uma técnica que ajuda na construção de priorização de atividades de um sistema, esta técnica é muito utilizada na engenharia de requisitos a fim de definir a importância/prioridade entre as partes interessadas dos requisitos levantados por um sistema/projeto.<br>
-A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de uma técnica de priorização e faz o acrônimo de de 4 letras que representam 4 verbos, utilizamos esses verbos para a classificação e identificação das prioridades de cada atividade/requisito, sendo elas:
+## Metodologia
+<p align="justify">&emsp;&emsp;A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de uma técnica de priorização e faz o acrônimo de de 4 letras que representam 4 verbos, utilizamos esses verbos para a classificação e identificação das prioridades de cada atividade/requisito, sendo elas:</p>
 - Must: Este verbo representa uma atividade que irá agregar muito favolr ao projeto finale que indispensável para a sua construção.
 - Should: Este verbo representa as tarefas que são importantes porém não são fundamentais para a construção do software.
-- Could: Este verbo representa as tarefas que não são tão muito importantes, não são fundamentais para o sistema e são desejáveis para o software, um exemplo seria, colocar a atividade na entrega final, após o MVP como plus na agregação de valor.
+- Could: Este verbo representa as tarefas que não são tão muito importantes, não são fundamentais para o sistema e são desejáveis para o software, um exemplo seria, colocar a atividade na entrega final, após o MVP como plus na agregação de valor.</p>
 - Would/Want/Won't: Estes verbos são para os requisitos menos críticos e que possuem um valor/retorno menor do que os outros para o software.
+<p align="justify">&emsp;&emsp;Este artefato foi feito pelos integrantes Luiz e Gabriel através de uma reunião via Google Meet.</p>
 
 ## Resultados
 ### Proporção de Must, Should, Could e Would
@@ -62,7 +64,7 @@ A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de 
 | RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
 
-*Tabela 3: Priorização de Requisitos*
+*Tabela 3: Tabela de requisitos priorizados*
 
 ## Referências
 <p> Aprenda a usar a técnica MoSCoW nos projetos da sua agência!. Disponível em: https://rockcontent.com/br/blog/metodo-moscow/. Acesso em: 19 de feereiro de 2022.</p>

@@ -5,6 +5,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 30/03/2022 | Criação do Artefato | Victor Eduardo |
 | 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
+| 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -12,7 +13,7 @@
 <p align="justify">&emsp;&emsp;EAP é uma ferramenta que organiza o trabalho que será realizado no projeto, consiste em um diagrama que organiza o escopo do projeto de forma visual, hierárquica e em partes menores.[1]</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Foram feitas 2 EAP's, a primeira para representar como foi feito o projeto por entregas, ou seja, a divisão de tarefas por etapa do projeto. Já a segunda foi feita tendo como base o escopo do aplicativo, para que seja possível (funcionalidades disponíveis no app).</p>
+<p align="justify">&emsp;&emsp;Foram feitas 2 EAP's, a primeira para representar como foi feito o projeto por entregas, ou seja, a divisão de tarefas por etapa do projeto. Já a segunda foi feita tendo como base o escopo do aplicativo, para que seja possível (funcionalidades disponíveis no app). O presente artefato foi feito pelo integrante do grupo Victor Eduardo.</p>
 
 ## Resultados 
 ### EAP do projeto

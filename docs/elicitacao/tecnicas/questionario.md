@@ -10,6 +10,7 @@
 | 1.4 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
 | 1.4 | 18/02/2022 | Revisão | Luiz Henrique |
 | 1.5 | 04/03/2022 | Adição revisor | Luiz Henrique |
+| 1.6 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -18,7 +19,7 @@
 <p align="justify">&emsp;&emsp;O questionário é uma ótima maneira de elicitar requisitos, pois com ele é fácil saber qual as principais características e necessidades do público alvo, além, claro, de delinear este público.</p>
 
 ## Metodologia
-<!-- Adicionar Metodologia -->
+<p align="justify">&emsp;&emsp;O questionário recebeu respotas entre os dias 15/02/2022 e 17/02/2022, e ao todo foram obtidas 116 respostas. Foram feitas 7 perguntas de múltipla escolha e 5 perguntas de livre resposta (discursiva). O questionário foi criado pelo integrante do grupo Victor Eduardo, e foi feito para que se pudesse levantar requisitos não levantados antes pelos integrantes do grupo. O artefato foi feito observando quais questões poderiam levantar requisitos ainda não levantados por outras técnicas.</p>
 
 ## Questões
 ### Questão 1
@@ -71,7 +72,6 @@
 * Incluir gamificação para a prática de exercícios físicos e pontos a serem trocados para usuários que sempre devolverem a bicicleta inteira e no prazo
 
 ## Resultados
-
 Requisitos levantados:
 
 | Código | Requisito | Tipo de requisito |
@@ -82,7 +82,7 @@ Requisitos levantados:
 | Q04 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação| RF |
 | Q05 | O app deve disponibilizar o histórico de viagens do usuário, contendo o trajeto percorrido, calorias e quanto CO2 deixou de emitir | RF |
 
-*Tabela 2: Requisitos Questionario*
+*Tabela 2: Tabela de requisitos levantados com o questionário*
 
 ## Referências
 

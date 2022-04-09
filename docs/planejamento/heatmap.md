@@ -1,11 +1,10 @@
-# Nome do Artefato 
+# Heatmap 
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 05/03/2022 | Criação Readmap  |  Livia Rodrigues, Luiz Henrique |
-| 1.1 | 06/04/2022 | Revisão | Luiz Henrique, Victor Eduardo  |
-| 1.2 | 08/04/2022 | Adição revisor | Luiz Henrique |
+| 1.1 | 09/04/2022 | Revisão | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -15,7 +14,7 @@ Para um melhor conhecimento da disponibilidade dos membros da equipe foi feito, 
 
 ## Metodologia
 
-O Readmap foi realizado utilizando o uma planilha no software web Google Planilhas, foi associado um numéro a cada membro da equipe para o preenchimento do readmap:
+O Heatmap foi realizado utilizando o uma planilha no software web Google Planilhas, foi associado um numéro a cada membro da equipe para o preenchimento do readmap:
 
 | Id | Nome | 
 |:-:|:-:|
@@ -26,7 +25,7 @@ O Readmap foi realizado utilizando o uma planilha no software web Google Planilh
 | 5 | João |
 | 6 | Victor |
 
-*Tabela 1: Id membro*
+*Tabela 1: Id de cada membro*
 
 As cores do readmap estão relacionados a quantidade de membros disponiveis no horário:
 
@@ -42,14 +41,15 @@ Cores
 | 5 membros | Marrom |
 | Todos os membros | Verde |
 
-*Tabela 2: Significado cores*
+*Tabela 2: Significado de cada cor*
 
+<p align="justify">&emsp;&emsp;Todos os integrantes do grupo participaram de forma assíncrona colocando os horários que estavam disponíveis, e o artefato foi criado para que o grupo pusse saber o melhor dia e hora para se reunir semanalmente.</p>
 
 ## Resultados
 
-![Headmap](../assets/planejamento/reatmap.png)
+![Heatmap](../assets/planejamento/heatmap.png)
 
-*Imagem 1: Readmap de horários*
+*Imagem 1: Heatmap de horários*
 
 ## Referências 
 

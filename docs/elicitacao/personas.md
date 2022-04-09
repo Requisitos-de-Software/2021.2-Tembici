@@ -7,22 +7,20 @@
 | 1.1 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
 | 1.2 | 20/02/2022 | Revisão | João Victor, Lívia Rodrigues, Luiz Henrique |
 | 1.3 | 04/03/2022 | Adição revisor e adição revisor | Luiz Henrique |
+| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ## Introdução
-
 <p align="justify">&emsp;&emsp;Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado. </p> 
 
 ## Metodologia
-
-<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitção de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. </p> 
+<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. O artefato foi feito pelos membros João Victor e Lívia Rodrigues.</p> 
 
 ## Resultados
-
 ### Persona 1
 
-![Foto persona 1 - Letícia](../../docs/assets/modelagem/persona/p1.png) 
+![Foto persona 1 - Letícia](../assets/modelagem/persona/p1.png) 
 
   Nome: Letícia.
   
@@ -40,7 +38,7 @@
 
 ### Persona 2
 
-![Foto persona 2 - Ricardo](../../docs/assets/modelagem/persona/p2.png) 
+![Foto persona 2 - Ricardo](../assets/modelagem/persona/p2.png) 
 
   Nome: Ricardo.
 
@@ -58,7 +56,7 @@
 
 ### Persona 3
 
-![Foto persona 3 - Fransisco](../../docs/assets/modelagem/persona/p3.png) 
+![Foto persona 3 - Fransisco](../assets/modelagem/persona/p3.png) 
 
   Nome: Francisco.
 
@@ -76,7 +74,7 @@
 
 ### Persona 4
 
-![Foto persona 4 - Thaís](../../docs/assets/modelagem/persona/p4.png) 
+![Foto persona 4 - Thaís](../assets/modelagem/persona/p4.png) 
   
   Nome: Thaís.
 
@@ -92,9 +90,9 @@
   
   Nível de conhecimento sobre o app: Utiliza o aplicativo diariamente para a otimização de seu tempo.
 
-### Persona Secundá4ria
+### Persona Secundária
 
-![Foto Persona Secundária - Lucas](../../docs/assets/modelagem/persona/p5.png) 
+![Foto Persona Secundária - Lucas](../assets/modelagem/persona/p5.png) 
 
   Nome: Lucas.
   
@@ -112,7 +110,7 @@
 
 ### Antipersona
 
-![Foto Antipersona - Meteus](../../docs/assets/modelagem/persona/at.png) 
+![Foto Antipersona - Meteus](../assets/modelagem/persona/at.png) 
 
   Nome: Mateus.
   

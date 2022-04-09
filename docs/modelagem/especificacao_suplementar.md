@@ -7,6 +7,7 @@
 | 1.1 | 21/02/2022 | Atualização do artefato | Victor Eduardo |
 | 1.2 | 28/02/2022 | Revisão | Livia Rodriges, Victor Eduardo |
 | 1.3 | 04/03/2022 | Adição revisor | Luiz Henrique |
+| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -15,6 +16,7 @@
 
 ## Metodologia
 <p align="justify">&emsp;&emsp;Como metologia será usada a FURPS+, que é um sistema para a classificação de requisitos, o acrônimo representa categorias que podem ser usadas na definição de requisitos, assim como representa atributos de Qualidade de Software, sendo ele parte do Rational Unified Process (RUP): Functionality (Funcionalidade), Usability (Usabilidade), Reliability (Confiabilidade), Performance (Desempenho), Supportability (Suportabilidade). O “+” do acrônimo engloba outros requisitos não-funcionais que devem ser lembrados [3].</p>
+<p align="justify">&emsp;&emsp;O presente aretefato foi feito pelo integrante do grupo Victor Eduardo, para que se levantasse os requisitos não-funcionais do aplicativo.</p>
 
 ### Funcionalidade
 &emsp;&emsp;Todas as funcionalidades do aplicativo Tembici podem ser encontradas na [lista de priorização](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/) e nos [casos de usos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/casos_de_uso/) do projeto.</p>
