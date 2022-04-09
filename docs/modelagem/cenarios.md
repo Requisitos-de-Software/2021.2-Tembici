@@ -1,17 +1,14 @@
 # Cenários
-
-### Versionamento<br>
+## Versionamento
 
 | Versão | Data | Descrição | Autor |
 | -- | -- | -- | -- |
 | 1.0 | 02/03/2022 | Criação do documento | João Victor Batista |
 | 1.1 | 04/03/2022 | Revisão | Luiz Henrique, Gabriel Sabanai |
 | 1.2 | 04/03/2022 | Adição revisor | Luiz Henrique |
-
+| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: Versionamento*
-
-<br><br>
 
 ## Introdução
 <div align="justify">&emsp;&emsp; Um cenário se trata de uma descrição curta de como um evento (ou eventos futuros) pode impactar as operações de um sistema. Eles constituem exemplos da vida real de como o sistema é ou será utilizado.
@@ -20,13 +17,9 @@
 </div>
 <div align="justify">&emsp;&emsp; Diferentes cenários são desenvolvidos e oferecem diversos tipos de informação em diferentes níveis de detalhamento sobre o sistema. Neste artefato estão registrados todos os cenários criados.
 </div>
-<br><br>
-
-
 
 ## Metodologia
-<div align="justify">&emsp;&emsp; Cada cenário descreve uma situação de uso do sistema e é representado por uma tabela conforme o seguinte formato:
-</div><br>
+<div align="justify">&emsp;&emsp; Cada cenário descreve uma situação de uso do sistema e é representado por uma tabela conforme o seguinte formato:</div>
 
 | Título | Título do Cenário |
 | -- | -- |
@@ -37,11 +30,10 @@
 | Episódios | Detalhes do cenários |
 | Restrições | Descrição da retrição | 
 | Exceção | Descrição da exceção |
-<br><br>
+
+<p align="justify">&emsp;&emsp;Os casos de uso abaixo foram feitos pelo integrante do grupo João Victor, após levantar os cenários possíveis no app. Para cada cenário é feita uma tabela igual a citada acima com preenchida de acordo com o cenário.</p>
 
 ## Resultados
-<br>
-
 ### C01 - Cadastrar usuário por email
 | Título | Cadastrar usuário por email |
 | -- | -- |
@@ -52,7 +44,8 @@
 | Episódios | 1. O usuário não cadastrado acessa o aplicativo Tembici<br>2. O usuário não cadastrado seleciona a opção de criar conta<br>3. O usuário não cadastrado insere email e senha e seleciona o botão "Continuar"<br> |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 2: Descrição do Cenário Cadastrar usuário por email*
 
 ### C02 - Acessar a conta
 | Título | Acessar a conta |
@@ -64,7 +57,8 @@
 | Episódios | 1. O usuário acessa o aplicativo Tembici<br>2. O usuário seleciona a opção de "Fazer seu login"<br>3. O usuário insere email e senha e seleciona o botão "Continuar"<br> |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 3: Descrição do Cenário Acessar a conta*
 
 ### C03 - Sair da Conta
 | Título | Sair da Conta |
@@ -76,7 +70,8 @@
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Sair" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 4: Descrição do Cenário Sair da Conta*
 
 ### C04 - Escolher Ajuda
 | Título | Escolher Ajuda |
@@ -88,7 +83,8 @@
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Ajuda"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o tópico que quer consultar |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 5: Descrição do Cenário Escolher Ajuda*
 
 ### C05 - Escolher Planos e Pagamento
 | Título | Escolher Planos e Pagamento |
@@ -100,7 +96,8 @@
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Planos e pagamento"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos Tembici" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 6: Descrição do Cenário Escolher Planos e Pagamento*
 
 ### C06 - Assinar Plano
 | Título | Assinar Plano |
@@ -112,8 +109,8 @@
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Comprar Plano"<br>3. O usuário seleciona sua cidade<br>4. O usuário seleciona o botão de "Conheça os planos Tembici"<br>5. O usuário seleciona o plano de sua escolha<br>6. O usuário cadastra um cartão ou seleciona um cartão cadastrado<br>7. O usuário seleciona o botão de "Comprar Plano" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Cartão inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
 
+*Tabela 7: Descrição do Cenário Assinar Plano*
 
 ### C07 -  Vizualizar Bicicletas Disponíveis
 | Título |  Vizualizar Bicicletas Disponíveis |
@@ -125,7 +122,8 @@
 | Episódios | 1. O usuário acessa o Tembici<br>2. O usuário navega pelo mapa da tela inicial |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 8: Descrição do Cenário Vizualizar Bicicletas Disponíveis*
 
 ### C08 -  Vizualizar Vagas Disponíveis
 | Título |  Vizualizar Vagas Disponíveis |
@@ -137,7 +135,8 @@
 | Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 9: Descrição do Cenário Vizualizar Vagas Disponíveis*
 
 ### C09 -  Vizualizar Informações de uma Estação
 | Título |  Vizualizar Informações de uma Estação |
@@ -149,7 +148,8 @@
 | Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 10: Descrição do Cenário Vizualizar Informações de uma Estação*
 
 ### C10 -  Vizualizar Histórico de Viagens
 | Título |  Vizualizar Histórico de Viagens |
@@ -161,7 +161,8 @@
 | Episódios | 1. O usuário acessa a tela de opções<br>2. O usuário seleciona o botão de "Viagens" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 11: Descrição do Cenário Vizualizar Histórico de Viagens*
 
 ### C11 - Desbloquear Bicicleta por QR Code
 | Título | Desbloquear Bicicleta por QR Code |
@@ -173,7 +174,8 @@
 | Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Ler QR Code" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 12: Descrição do Cenário Desbloquear Bicicleta por QR Code*
 
 ### C12 - Desbloquear Bicicleta por código de acesso
 | Título | Desbloquear Bicicleta por código de acesso |
@@ -185,8 +187,8 @@
 | Episódios | 1. O usuário acessa o Tembici<br>2. O usuário seleciona uma estação<br>2. O usuário seleciona o botão de "Gerar código" |
 | Restrições | Fluxo intuitivo | 
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
-<br><br>
+
+*Tabela 13: Descrição do Cenário Desbloquear Bicicleta por código de acesso*
 
 ## Referências
-
-> <a href="https://requisitos-de-software.github.io/2021.1-TesouroDireto/modelagem/cenarios/">Documento de Cenário do grupo Tesouro Direto</a>
+<a href="https://requisitos-de-software.github.io/2021.1-TesouroDireto/modelagem/cenarios/">Documento de Cenário do grupo Tesouro Direto</a>

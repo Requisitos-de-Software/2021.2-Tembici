@@ -14,17 +14,16 @@
 | 1.7 | 04/03/2022 | Adição revisor | Luiz Henrique |
 | 2.0 | 11/03/2022 | Adição novos Léxicos | Luiz Henrique |
 | 3.0 | 22/03/2022 | Correção pós verificação | Paulo Henrique |
+| 3.1 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: Versionamento da modelagem*
 
 ## Introdução
 
-<p style="text-align: justify;"> O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. [1]</p> 
-
-*Tabela 2: Introdução sobre o que é o Léxicos*
+<p style="text-align: justify;">&emsp;&emsp;O Léxico é uma técnica de modelagem que permite a descrição de símbolos de uma determinada linguagem, o mesmo se assemelha a um dicionário e auxiliará na identificação de palavras ou frases peculiares relativas ao meio social do projeto. Estes símbolos são descritos considerando dois principais aspectos, noção e impacto, onde noção representa o significado do símbolo e impacto descreve o efeito do símbolo na aplicação ou o efeito de algo na aplicação sobre o símbolo. [1]</p> 
 
 ## Metodologia
-<p style="text-align: justify;">Para representar os léxicos, foram definidas tabelas contendo o seguinte formato:</p>
+<p style="text-align: justify;">&emsp;&emsp;Este artefato foi feito em reuniões virtuais pelos integrantes do grupo Paulo Henrique e Luiz Henrique, e utilizando uma tabela como mostrada a baixo para que todos os léxicos usados no projeto pudessem ser catalogados afim de ser um projeto que pessoas de diferentes áreas pudessem entender.</p>
 
 |LCXX|**Nome do léxico**|
 |:----:|:--------------------:|
@@ -38,12 +37,10 @@
 |**C**|Classificação (Estado(E),Verbo(V) ou Ofbjeto(O))|
 |**XX**|Numeração|
 
-*Tabela 3: Metodologia do léxicos*
+*Tabela 2: Tabela dos léxicos*
 
 ## Resultados
-
 ### Léxicos
-
 #### Objetos 
 
 <div id="artefato"></div>
@@ -135,17 +132,15 @@
 |**Noção**| Aplicativo de aluguel de bicicletas sobre o qual a documentação do projeto se trata |
 |**Impacto**| A aplicação é o serne do serviço ofertado pela empresa. Por meio do aplicativo é realizado, dentre outras coisas, o aluguel e devolução da bicicleta |
 
-*Tabela 4: Léxicos Objetos*
-
 <div id="thumbnail"></div>
 
 |LO10|**Thumbnail**|
 |---|------------------|
 |**Sinônimos**| Miniatura |
 |**Noção**| Imagem que represente algo que será assistido |
-|**Impacto**| A thumbnail será útil para pré-visualização as apresentações da dusciplina |
+|**Impacto**| A thumbnail será útil para pré-visualização as apresentações da disciplina |
 
-*Tabela 4: Léxicos Objetos*
+*Tabela 3: Tabela de Léxicos classficados como Objetos*
 
 #### Verbos
 
@@ -285,7 +280,7 @@
 | **Noção** | O <a href="#usuario" > usuário </a> irá, efetivar o processo de compra de plano ou diária, realizando o pagamento do valor correspondente ao mesmo  |
 | **Impacto**| O usuário pagará a diária ou plano e poderá disfrutar dos beneficíos proposto por aquela diária ou plano |
 
-*Tabela 5: Léxicos Verbos*
+*Tabela 4: Tabela de Léxicos classficados como Verbos*
 
 #### Estados
 
@@ -353,8 +348,7 @@
 | **Noção** | Estado em que o <a href="#usuario" > usuário </a> não contratou um<a href="#plano">  plano</a> |
 | **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não possuir os beneficios realacionados a um<a href="#plano">  plano</a> |
 
-
-*Tabela 6: Léxicos Estados*
+*Tabela 5: Tabela de Léxicos classficados como Estados*
 
 ## Referências
 

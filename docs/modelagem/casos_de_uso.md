@@ -1,5 +1,4 @@
 # Casos de Uso
-
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -9,6 +8,7 @@
 | 1.2 | 26/02/2022 | Adição dos casos de Uso 5 a 8 | Lívia Rodrigues |
 | 1.3 | 27/02/2022 | Revisão | Luiz Henrique, Victor Eduardo |
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
+| 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: Versionamento*
 
@@ -16,7 +16,7 @@
 <p align="justify">&emsp;&emsp;Também chamados de diagramas comportamentais, na notação da UML, os casos de uso são usados para descrever um conjunto de ações (uses cases - casos de uso) que um sistema ou um conjunto de sistemas (subject - sujeito) deve desempenhar em colaboração com um ou mais indivíduos externos ao sistema (actors - atores). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Para cada caso de uso é colocado um diagrama feito no site Lucidchart, e uma tabela descrevendo o diagrama, sendo composta de:</p>
+<p align="justify">&emsp;&emsp;Os casos de uso abaixo foram feitos pelos integrantes do grupo Lívia Rodrigues e Victor Eduardo, após separa quais seriam os casos de uso que seriam usados para fazer os diagramas. Para cada caso de uso é colocado um diagrama feito no site Lucidchart, e uma tabela descrevendo o diagrama, sendo composta de:</p>
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------- |
@@ -31,10 +31,12 @@
 | 9   | Cenários de exceção   | Descrição dos cenários, ou fluxos, de exceção do caso de uso                                       |
 | 10  | Rastreabilidade       | Requisito o qual o caso de uso representa                                                          |
 
+<p align="justify">&emsp;&emsp;Nos diagramas abaixo uma seta include representa que a ação de origem sempre tem como consequência a ação destino. Já a seta extends representa que a ação origem ás vezes desencadeia a ação destino.</p>
+
 ## Casos de Uso e Especificações
 ### 1 - Caso de Uso: Fazer cadastro
 ![Fazer Cadastro](../assets/modelagem/casos-de-uso/cadastro.png)
-*Imagem 1: Diagrama 1*
+*Imagem 1: Diagrama Fazer Cadastro*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :----------------------------------------------------------------------------------------- |
@@ -49,11 +51,11 @@
 | 9   | Cenários de exceção   | Usuário preencher algum dos campos de forma inválida ou não preencher um campo obrigatório | 
 | 10  | Rastreabilidade       | RF01                                                                                       |
 
-*Tabela 2: Caso de Uso 1*
+*Tabela 2: Descrição do Diagrama Fazer Cadastro*
 
 ### 2 - Caso de Uso: Fazer login 
 ![Fazer Login](../assets/modelagem/casos-de-uso/login.png)
-*Imagem 2: Diagrama 2*
+*Imagem 2: Diagrama Fazer Login*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -68,11 +70,11 @@
 | 9   | Cenários de exceção   | Usuário digitar a senha ou e-mail errados                                                                      |
 | 10  | Rastreabilidade       | RF01                                                                                                           |
 
-*Tabela 3: Caso de Uso 2*
+*Tabela 3: Descrição do Diagrama Fazer Login*
 
 ### 3 - Caso de Uso: Assinar plano
 ![Assinar Plano](../assets/modelagem/casos-de-uso/planos_pagamento.png)
-*Imagem 3: Diagrama 3*
+*Imagem 3: Diagrama Assinar Plano*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -87,11 +89,11 @@
 | 9   | Cenários de exceção   | Pagamento ser recusado                                                                                                                            |
 | 10  | Rastreabilidade       | RF06, RF07, RF22                                                                                                                                  |
 
-*Tabela 4: Caso de Uso 3*
+*Tabela 4: Descrição do Diagrama Assinar Plano*
 
-### 4 - Caso de Uso: Ver mapa a localização atual do usuário e com as estações
+### 4 - Caso de Uso: Ver mapa e localização atual do usuário e com as estações
 ![Ver Mapa](../assets/modelagem/casos-de-uso/ver_mapa.png)
-*Imagem 4: Diagrama 4*
+*Imagem 4: Diagrama Ver Mapa*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -106,11 +108,11 @@
 | 9   | Cenários de exceção   | Mapa estar indisponível                                                                                        |
 | 10  | Rastreabilidade       | RF02, RF03, RF04, RF05, RF20                                                                                   |
 
-*Tabela 5: Caso de uso 4*
+*Tabela 5: Descrição do Diagrama Ver Mapa*
 
 ### 5 - Caso de Uso: Realizar viagem e devolução
 ![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
-*Imagem 5: Diagrama 5*
+*Imagem 5: Diagrama Realizar Viagem*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -125,11 +127,11 @@
 | 9   | Cenários de exceção   | A compra não ter sido aprovada                                                                                                                 |
 | 10  | Rastreabilidade       | RF23, RF19                                                                                                                                     |
 
-*Tabela 6: Caso de uso 5*
+*Tabela 6: Descrição do Diagrama Realizar Viagem*
 
 ### 6 - Caso de Uso: Aba ajuda
 ![Aba Ajuda](../assets/modelagem/casos-de-uso/aba_ajuda.png)
-*Imagem 6: Diagrama 6*
+*Imagem 6: Diagrama Aba ajuda*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -144,11 +146,11 @@
 | 9   | Cenários de exceção   | Usuário não ter feito login                                                                                                          |
 | 10  | Rastreabilidade       |                                                                                                                                      |
 
-*Tabela 7: Caso de uso 6*
+*Tabela 7: Descrição do Diagrama Aba ajuda*
 
 ### 7 - Caso de Uso: Visualizar histórico de viagem
 ![Aba Viagem](../assets/modelagem/casos-de-uso/aba_viagem.png)
-*Imagem 7: Diagrama 7*
+*Imagem 7: Diagrama Histórico de viagem*
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
@@ -163,6 +165,7 @@
 | 9   | Cenários de exceção   | Usuário não ter feito nenhuma viagem ainda                                                                                        |
 | 10  | Rastreabilidade       | RF08                                                                                                                              |
 
+*Tabela 8: Descrição do Diagrama Histórico de Ajuda*
 
 ## Referências Bibliográficas
 <p> POHL, Klaus; RUPP, Chris. Fundamentos da Engenharia de Requisitos. Massachusetts: Rockynoock, 2012. (Páginas 92 - 98). Acesso em 25 Fevereiro de 2022.</p>
