@@ -1,4 +1,4 @@
-# Nome do Artefato 
+# Heatmap 
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -15,7 +15,7 @@ Para um melhor conhecimento da disponibilidade dos membros da equipe foi feito, 
 
 ## Metodologia
 
-O Readmap foi realizado utilizando o uma planilha no software web Google Planilhas, foi associado um numéro a cada membro da equipe para o preenchimento do readmap:
+O Heatmap foi realizado utilizando o uma planilha no software web Google Planilhas, foi associado um numéro a cada membro da equipe para o preenchimento do readmap:
 
 | Id | Nome | 
 |:-:|:-:|
@@ -26,7 +26,7 @@ O Readmap foi realizado utilizando o uma planilha no software web Google Planilh
 | 5 | João |
 | 6 | Victor |
 
-*Tabela 1: Id membro*
+*Tabela 1: Id de cada membro*
 
 As cores do readmap estão relacionados a quantidade de membros disponiveis no horário:
 
@@ -42,14 +42,14 @@ Cores
 | 5 membros | Marrom |
 | Todos os membros | Verde |
 
-*Tabela 2: Significado cores*
+*Tabela 2: Significado de cada cor*
 
 
 ## Resultados
 
-![Headmap](../assets/planejamento/reatmap.png)
+![Heatmap](../assets/planejamento/heatmap.png)
 
-*Imagem 1: Readmap de horários*
+*Imagem 1: Heatmap de horários*
 
 ## Referências 
 
