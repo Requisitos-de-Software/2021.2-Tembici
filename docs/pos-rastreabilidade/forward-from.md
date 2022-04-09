@@ -5,25 +5,22 @@
 |-|-|:-:|:-:|
 | 1.0 | 02/04/2022 | Criação do documento | João Victor Batista |
 | 1.1 | 03/04/2022 | Criação de artefatos | Lívia Rodrigues Reis |
-| 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
+| 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Henrique |
+| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ### Metodologia
-<div align="justify">&emsp;&emsp; Os requisitos são vinculados a artefatos criados durante o ciclo de vida de desenvolvimento de sistema, no momento da pós-rastreabilidade. A fim de verificar a pós-rastreabilidade entre os requisitos, elementos de impementação, arquitetura e desenho utilizamos o Forward-From. A implementação dessa rastreabilidade ocorre com a utilização de links entre os requisitos e as fontes que implementam estes.</div>
+<div align="justify">&emsp;&emsp; Os requisitos são vinculados a artefatos criados durante o ciclo de vida de desenvolvimento de sistema, no momento da pós-rastreabilidade. A fim de verificar a pós-rastreabilidade entre os requisitos, elementos de impementação, arquitetura e desenho utilizamos o Forward-From. A implementação dessa rastreabilidade ocorre com a utilização de links entre os requisitos e as fontes que implementam estes. O artefato foi feito através de reunião virtual pelos integrantes do grupo João Victor e Lívia Rodrigues.</div>
 
-<div align="justify">&emsp;&emsp;
-Na tabela abaixo, mostraremos os requisitos e seus relacionamentos com as telas e seus critérios de aceitação. Além disso, classificaremos de acordo com seis tipos de elos (satisfação, recurso, responsabilidade, representação, alocação e agregação) apresentaremos as seguintes categorias, cujas descrições se encontram abaixo:</br>
-
+<div align="justify">&emsp;&emsp;Na tabela abaixo, mostraremos os requisitos e seus relacionamentos com as telas e seus critérios de aceitação. Além disso, classificaremos de acordo com seis tipos de elos (satisfação, recurso, responsabilidade, representação, alocação e agregação) apresentaremos as seguintes categorias, cujas descrições se encontram abaixo:</br>
+</div>
 * Ambiental:  vem do contexto da organização</br>
 * Organizacional: se refere à estratégia, missão, entre outras.</br>
 * Gerencial: facilitam no gerenciamento do projeto</br>
 * Desenvolvimento: informações associadas aos artefatos desenvolvidos</br>
 
-</div><br>
-
 ### Forward-From
-
 <table>
     <thead>
         <tr>
@@ -397,12 +394,11 @@ Na tabela abaixo, mostraremos os requisitos e seus relacionamentos com as telas 
     </tbody>
 </table>
 
-
+*Tabela 2: Matriz de requisitos funcionais e não-funcionais*
 
 ## Referências
-
 > - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26.<br>
 > - TORANZO, M.; CASTRO, J.; MELLO, E. Uma proposta para melhorar o
 rastreamento de requisitos. In: WORKSHOP DE ENGENHARIA DE
-REQUISITOS, 2002, Valˆencia, Espanha. Anais... [S.l.]: [S.n.], 2002. p. 194–209.
+REQUISITOS, 2002, Valência, Espanha. Anais... [S.l.]: [S.n.], 2002. p. 194–209.
 ISBN 84–96023–01–X. 19, 29, 44, 45, 47, 51, 55, 61<br>

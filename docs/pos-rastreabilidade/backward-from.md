@@ -7,16 +7,15 @@
 | 1.0 | 30/03/2022 | Criação Documento | Luiz Henrique |
 | 1.1 | 30/03/2022 | Criação Matrizes | Luiz Henrique, Paulo Henrique |
 | 1.2 | 31/03/2022 | Explicação da modelagem | Paulo Henrique |
+| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
 ## Introdução
-
 <p align="justify">&emsp;&emsp;A Backward-From consiste em especificar as ligações existentes entre os requisitos e suas fontes. O principal objetivo é realizar a ligação de todos os requisitos elicitados durante o projeto no contexto da matéria aos respectivos métodos de elicitação e modelagem. Sendo assim, foi desenvolvido uma matriz de rastreabilidade, onde pode-se identificar de qual artefato o respectivo requisito foi elicitado.</p>
 
 ## Metodologia
-
-<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From, que se consiste em uma técnica de matriz de rastreabilidade.</p>
+<p align="justify">&emsp;&emsp;Com o objetivo de melhorar a rastreabilidade quanto aos requistos levantados no projeto foi desenvolvido na etapa de Pós-rastriabilidade o artefato de Backward-From, que se consiste em uma técnica de matriz de rastreabilidade. O artefato foi feito pelos integrantes do grupo Luiz Henrique e Paulo Henrique.</p>
 
 | Indentificação | Requisito | Técnica |
 |:-------------:|:--------------------:|:--------------------:|
@@ -29,8 +28,9 @@
 |**RNF**| Requisito Não Funcional |
 |**XX**| Id de identificação do requisito |
 
-## Matriz Requisitos Funcionais
+*Tabela 2: Estrutura da Matriz*
 
+## Matriz Requisitos Funcionais
 | Identificação | Requisito Funcional | Pré-Rastriabilidade | Elicitação | Modelagem |
 |---|---|---|----|----| 
 | RF01 | O aplicativo deve permitir o cadastro/login do usuario | Não consta | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | [Caso de uso](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/casos_de_uso/), [Cenário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/cenarios/), [Istar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/istar/), [Léxicos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/), [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/) |
@@ -54,16 +54,17 @@
 | RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Rich Picture](https://requisitos-de-software.github.io/2021.2-Tembici/pre-rastreabilidade/rich-picture/), [5W2H](https://requisitos-de-software.github.io/2021.2-Tembici/pre-rastreabilidade/5w2h/) |[Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | [Cenário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/cenarios/), [Istar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/istar/), [Léxicos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/), [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/)  |
 | RF24 | O app deve permitir que usuário assinante consiga devolver uma bicicleta em uma estação | [Rich Picture](https://requisitos-de-software.github.io/2021.2-Tembici/pre-rastreabilidade/rich-picture/), [5W2H](https://requisitos-de-software.github.io/2021.2-Tembici/pre-rastreabilidade/5w2h/)|[Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | [Istar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/istar/), [Léxicos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/), [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/) |
 
-## Matriz Requisitos Não Funcionais
+*Tabela 3: Matriz dos Requisitos Funcionais*
 
+## Matriz Requisitos Não Funcionais
 | Identificação | Requisito |Pré-Rastriabilidade | Elicitação | Modelagem |
 |---|---|---|---|---|
 | RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes | Não consta | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/)| [NFR Framework](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/nfrframework/), [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/) |
 | RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática | Não consta  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/)| [NFR Framework](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/nfrframework/), [Istar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/istar/), [Especificação Suplementar](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/especificacao_suplementar/) |
 | RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas | Não consta | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/)| [NFR Framework](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/nfrframework/) |
 
+*Tabela 4: Matriz dos Requisitos Não-Funcionais*
+
 ## Referências 
-
 <p>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. Acesso em 30 Março de 2022.</p>
-
 <p>REINEHR, Sheila. "Engenharia de Requisitos". sagah, Porto Alegre, 2020. Acesso em 30 Março de 2022.</p>
