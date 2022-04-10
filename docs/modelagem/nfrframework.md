@@ -33,8 +33,9 @@ Os rótulos utilizados foram:
 | ![Parcialmente Satisfeito](../assets/modelagem/nfr-framework/rotulos/parcialmentesatisfeito.png) | <br>Parcialmente Satisfeito |
 | ![Parcialmente Negado](../assets/modelagem/nfr-framework/rotulos/parcialmentenegado.png) | <br>Parcialmente Negado |
 
-*Tabela 2: Rótulos - NFR Framework*  
-*Fonte: Reinaldo Antônio da Silva*
+*Tabela 2: Rótulos - NFR Framework* 
+
+*Autor: Reinaldo Antônio da Silva*
 
 <p align="justify">&emsp;&emsp;Os diagrmas do mesmo foram desenvolvidos pelos integrantes Luiz Henrique e Victor Eduardo sendo validado com o demais membros da equipe por meio de uma reunião virtual no dia 1 de Março de 2022.</p>
 
@@ -42,43 +43,51 @@ Os rótulos utilizados foram:
 ### Gráfico de Interdependência de Softgoal (SIG)
 #### Usabilidade 
 ![NFR Usabilidade](../assets/modelagem/nfr-framework/usabilidade/usabilidade.jpg)<br>
-*Imagem 1: NFR Usabilidade*  
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 1: NFR Usabilidade* 
+
+*Autor: Elaboração dos autores do presente documento*
 
 #### Usabilidade Propagação
 ![NFR Usabilidade Propagação](../assets/modelagem/nfr-framework/usabilidade/usabilidadeprop.jpg)<br>
-*Imagem 2: NFR Usabilidade Propagação*  
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 2: NFR Usabilidade Propagação* 
+
+*Autor: Elaboração dos autores do presente documento*
 
 #### Confiabilidade
 ![NFR Confiabilidade](../assets/modelagem/nfr-framework/confiabilidade/confiabilidade.jpg)<br>
-*Imagem 3: NFR Confiabilidade*  
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 3: NFR Confiabilidade* 
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Confiabilidade Propagação
 ![NFR Confiabilidade Propagação](../assets/modelagem/nfr-framework/confiabilidade/confiabilidadeprop.jpg)<br>
-*Imagem 4: NFR Confiabilidade Propagação*  
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 4: NFR Confiabilidade Propagação* 
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Desempenho
 ![NFR Desempenho](../assets/modelagem/nfr-framework/desempenho/desempenho.jpg)<br>
 *Imagem 5: NFR Desempenho*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Desempenho Propagação
 ![NFR Desempenho Propagação](../assets/modelagem/nfr-framework/desempenho/desempenhoprop.jpg)<br>
 *Imagem 6: NFR Desempenho Propagação*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Suportabilidade
 ![NFR Suportabilidade](../assets/modelagem/nfr-framework/suportabilidade/suportabilidade.jpg)<br>
 *Imagem 7: NFR Suportabilidade*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Suportabilidade Propagação
 ![NFR Suportabilidade Propagação](../assets/modelagem/nfr-framework/suportabilidade/suportabilidadeprop.jpg)<br>
 *Imagem 8: NFR Suportabilidade Propagação* 
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 ## Referências 
 - <p>SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework. Acesso em 01 de Março de 2022.</p>

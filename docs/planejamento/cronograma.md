@@ -10,6 +10,7 @@
 | 1.4 | 24/02/2022 | Padronização da página | Victor Eduardo |
 | 1.5 | 05/02/2022 | Revisão | Gabriel Sabanai |
 | 1.6 | 04/03/2022 | Adição revisor | Luiz Henrique |
+| 1.7 | 09/04/2022 | Atualização cronograma | Luiz Henrique |
 
 
 *Tabela 1: versionamento*
@@ -20,8 +21,17 @@
 
 ## Datas e Sprints
 
-![Cronograma](../assets/planejamento/cronograma.jpg)
-*Imagem 1: Cronograma das atividades*
+### V1 - Versão inicial do projeto
+
+![Cronograma Inicial](../assets/planejamento/cronograma.jpg)
+*Imagem 1: Cronograma das atividades Versão Inicial*
+
+*Autor: Luiz Henrique, Victor Eduardo, João Victor, Livia Rodrigues, Gabriel Sabanai* 
+
+![Cronograma Final](../assets/planejamento/cronograma2.jpg)
+*Imagem 2: Cronograma das atividades Versão Final*
+
+*Autor: Luiz Henrique* 
 
 ## Divisão de Tarefas
 
@@ -50,14 +60,21 @@
 | NFR framework | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
 | Istar | 28/02 - 07/03 | Victor Eduardo, Luiz Henrique |
 | Revisar artefatos e preparar apresentação 4 | 28/02 - 07/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Verificação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Validação | 07/03 - 14/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Revisar artefatos e preparar apresentação 5 | 14/03 - 21/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Pós-rastreabilidade | 14/03 - 21/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Gerência II | 21/03 - 28/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Revisar artefatos e preparar apresentação 6 | 21/03 - 28/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Revisar artefatos e preparar apresentação final | 28/03 - 04/04 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
-| Apresentação final | 04/04 - 11/04 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Verificação Hístoria de usuário e Backlog do Produto| 14/03 - 19/03 | João Victor Batista |
+| Verificação Rich Picture e Cénarios | 14/03 - 19/03 | Gabriel Sabanai |
+| Verificação Léxicos | 14/03 - 19/03 | Gabriel Sabanai, Paulo Henrique |
+| Verificação iStar e NFR Framework | 14/03 - 19/03 | Luiz Henrique |
+| Validação - Protótipo e Validação Informal | 14/03 - 19/03 | Lívia Rodrigues |
+| Revisar artefatos e preparar apresentação 5 | 19/03 - 21/03 | Gabriel Sabanai, Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Backward-From | 21/03 - 29/03 |  Paulo Henrique, Luiz Henrique |
+| Forward-From | 21/03 - 29/03 |  João Victor Batista, Lívia Rodrigues |
+| EAP | 21/03 - 29/03 |  Victor Eduardo |
+| Gerência II | 21/03 - 28/03 |  Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Preparar apresentação 6 | 21/03 - 28/03 |  Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Correções primeira, segunda e terceira entrega | 28/03 - 10/04 |  Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Correções quarta, quinta e sexta entrega | 10/04 - 19/04 |  Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+| Preparar apresentação final | 19/04 - 24/04 | Paulo Henrique, João Victor Batista, Victor Eduardo, Luiz Henrique, Lívia Rodrigues |
+
 
 *Tabela 2: Distribuição de atividades do projeto*
 

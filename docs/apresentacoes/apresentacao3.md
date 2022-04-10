@@ -16,8 +16,8 @@
 
 ## Apresentação
 
-*Imagem 1: Apresentação 3 thumbnail*
-
 [![Apresentação 3](../assets/apresentacoes/AP3.png)](https://www.youtube.com/watch?v=pvnyCSAoeus)
 
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 1: Apresentação 3 thumbnail*
+
+*Autor: Luiz Henrique*

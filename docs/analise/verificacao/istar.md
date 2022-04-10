@@ -41,13 +41,15 @@
 | Total | <center> -- </center>  | 100% | 100% | 100% |
 
 *Tabela 2: Tabela de verficação de critérios - Verificação Istar*  
+
 *Fonte: Elaboração dos autores do presente documento*
 
 <p align="justify">&emsp;&emsp;De acordo com a verificação, o documento iStar se encontra de acordo com os padrões esperados, os errod idêntificados foram devidamente corrigidos. Os resultados podem ser vizualidos de maneira grafica abaixo:</p>
 
 ![Grafico - Verificação - Istar](../../assets/verificacao/istar/graficoIstar.png)  
-*Imagem 1: Grafico de resultados - Verificação Istar*  
-*Fonte: Elaboração dos autores do presente documento*
+*Imagem 1: Grafico de resultados - Verificação Istar* 
+
+*Autor: Luiz Henrique*
 
 ## Referências
 - <p>Serrano, M.; Serrano, M. Requisitos - Aula 23. Acesso em: 16 de Março de 2022</p>

@@ -19,6 +19,8 @@
 ![Email](../../assets/analise/validacao/email.png)
 
 *Imagem 1: Email enviado a equipe do Tembici*
+
+*Autor: Livia Rodrigues*
  
 ## Resultado
 <p align="justify">&emsp;&emsp; O grupo ainda não obteve resposta da empresa, continuamos aguardando o feedback que será documentado logo em seguida.</p>

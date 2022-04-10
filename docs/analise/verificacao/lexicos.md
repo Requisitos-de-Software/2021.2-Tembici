@@ -50,6 +50,8 @@
 
 *Imagem 1: Gráfico de resultados - Verificação léxicos*
 
+*Autor: Paulo Henrique*
+
 
 ### Possíveis correções:
 * Questões ortográficos de alguns léxicos

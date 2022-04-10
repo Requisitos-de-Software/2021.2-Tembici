@@ -25,12 +25,14 @@
 #### Modelo Dependência
 ![Cadastro - Modelo Dependência](../assets/modelagem/istar/DiagramaCadastro1.png)  
 *Imagem 1: Cadastro - Modelo Dependência*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Modelo Rationale
 ![Cadastro - Modelo Rationale](../assets/modelagem/istar/DiagramaCadastro2.png)  
 *Imagem 2: Cadastro - Modelo Rationale*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 ### Alugar bicicleta
 
@@ -40,12 +42,14 @@
 #### Modelo Dependência
 ![Alugar bicicleta - Modelo Depêndencia](../assets/modelagem/istar/DragramaAlugarPlano1.png)  
 *Imagem 3: Alugar bicicleta - Modelo Dependência*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Modelo Rationale
 ![Alugar bicicleta - Modelo Rationale](../assets/modelagem/istar/DragramaAlugarPlano2.png)  
 *Imagem 4: Alugar bicicleta - Modelo Rationale*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 ### Devolver bicicleta
 
@@ -54,12 +58,14 @@
 #### Modelo Dependência
 ![Devolver bicicleta - Modelo Dependência](../assets/modelagem/istar/DiagramaDevolver1.png)  
 *Imagem 5: Devolver bicicleta - Modelo Dependência*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 #### Modelo Rationale
 ![Devolver bicicleta - Modelo Rationale](../assets/modelagem/istar/DiagramaDevolver2.png)  
 *Imagem 6: Devolver bicicleta - Modelo Rationale*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique e Victor Eduardo* 
 
 ## Referências 
 - <p> Sanderson. iStar4G: Estendendo a linguagem iStar 2.0 para modelagem de jogos digitais. Disponível em: <a href="http://r1.ufrrj.br/nuesgames/Sanderson.pdf">http://r1.ufrrj.br/nuesgames/Sanderson.pdf</a>. Acesso em: Acesso em: 04 de Março de 2022. </p>

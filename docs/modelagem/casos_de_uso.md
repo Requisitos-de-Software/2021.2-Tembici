@@ -38,6 +38,8 @@
 ![Fazer Cadastro](../assets/modelagem/casos-de-uso/cadastro.png)
 *Imagem 1: Diagrama Fazer Cadastro*
 
+*Autor: Livia Rodrigues e Victor Eduardo* 
+
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :----------------------------------------------------------------------------------------- |
 | 1   | Versão                | 1.0                                                                                        |
@@ -55,7 +57,10 @@
 
 ### 2 - Caso de Uso: Fazer login 
 ![Fazer Login](../assets/modelagem/casos-de-uso/login.png)
+
 *Imagem 2: Diagrama Fazer Login*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -74,7 +79,10 @@
 
 ### 3 - Caso de Uso: Assinar plano
 ![Assinar Plano](../assets/modelagem/casos-de-uso/planos_pagamento.png)
+
 *Imagem 3: Diagrama Assinar Plano*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -93,7 +101,10 @@
 
 ### 4 - Caso de Uso: Ver mapa e localização atual do usuário e com as estações
 ![Ver Mapa](../assets/modelagem/casos-de-uso/ver_mapa.png)
+
 *Imagem 4: Diagrama Ver Mapa*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :------------------------------------------------------------------------------------------------------------- |
@@ -112,7 +123,10 @@
 
 ### 5 - Caso de Uso: Realizar viagem e devolução
 ![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
+
 *Imagem 5: Diagrama Realizar Viagem*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -131,7 +145,10 @@
 
 ### 6 - Caso de Uso: Aba ajuda
 ![Aba Ajuda](../assets/modelagem/casos-de-uso/aba_ajuda.png)
+
 *Imagem 6: Diagrama Aba ajuda*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
@@ -150,7 +167,10 @@
 
 ### 7 - Caso de Uso: Visualizar histórico de viagem
 ![Aba Viagem](../assets/modelagem/casos-de-uso/aba_viagem.png)
+
 *Imagem 7: Diagrama Histórico de viagem*
+
+*Autor: Livia Rodrigues e Victor Eduardo* 
 
 | Item | Sigla | Definição |
 | :-- | :-------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |

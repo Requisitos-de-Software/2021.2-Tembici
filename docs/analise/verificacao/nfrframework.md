@@ -43,7 +43,10 @@
 </p>
 
 ![Grafico - Verificação - NRF Framework](../../assets/verificacao/istar/graficoNFR.png)  
+
 *Imagem 1: Gráfico dos resultados do checklist*
+
+*Autor: Luiz Henrique*
 
 ## 6. Bibliografia
 - SERRANO, Milene; SERRANO, Maurício. Requisitos - Aula 10. Acesso em: 16 de Março de 2022
