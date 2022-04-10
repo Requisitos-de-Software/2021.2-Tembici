@@ -23,10 +23,15 @@
 
 ### V1 - Versão inicial do projeto
 
-![Cronograma](../assets/planejamento/cronograma.jpg)
-*Imagem 1: Cronograma das atividades*
+![Cronograma Inicial](../assets/planejamento/cronograma.jpg)
+*Imagem 1: Cronograma das atividades Versão Inicial*
 
 *Autor: Luiz Henrique, Victor Eduardo, João Victor, Livia Rodrigues, Gabriel Sabanai* 
+
+![Cronograma Final](../assets/planejamento/cronograma2.jpg)
+*Imagem 2: Cronograma das atividades Versão Final*
+
+*Autor: Luiz Henrique* 
 
 ## Divisão de Tarefas
 
