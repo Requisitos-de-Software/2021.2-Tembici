@@ -21,8 +21,12 @@
 
 ## Datas e Sprints
 
+### V1 - Versão inicial do projeto
+
 ![Cronograma](../assets/planejamento/cronograma.jpg)
 *Imagem 1: Cronograma das atividades*
+
+*Autor: Luiz Henrique, Victor Eduardo, João Victor, Livia Rodrigues, Gabriel Sabanai* 
 
 ## Divisão de Tarefas
 

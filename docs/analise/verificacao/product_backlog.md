@@ -39,7 +39,8 @@
 
 ![Gráfico do checklist realizado na verificação](../../assets/analise/verificacao/graficoBacklog.png)  
 *Imagem 1 - Gráfico do resultado do checklist realizado*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: João Victor*
 
 ## Referências 
 <p> SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 21 de Março de 2022</p>

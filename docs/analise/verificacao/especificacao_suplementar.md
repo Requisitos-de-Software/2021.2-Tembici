@@ -40,7 +40,8 @@
 
 ![Gráfico do checklist realizado na verificação](../../assets/analise/verificacao/grafico_especificacao_suplementar.png)  
 *Imagem 1 - Gráfico do resultado do checklist realizado*  
-*Fonte: Elaboração dos autores do presente documento*
+
+*Autor: Luiz Henrique*
 
 ## Referências 
 <p>[1] - SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 18 de Março dee 2022. </p>

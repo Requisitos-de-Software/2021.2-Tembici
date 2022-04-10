@@ -15,12 +15,16 @@
 <p align="justify">&emsp;&emsp;Persona é um personagem fictício que reflete um grupo de usuários, definidas por seus objetivos. Um conjunto de elementos são usados para denifir uma persona, são eles: identidade, status, objetivos, habilidades, tarefas, relacionamentos, requisitos e expectativas. Antipersonas são personagens fictícios que servem para exemplificar para quem o produto não é direcionado. </p> 
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis. O mesmo foi feito pelos membros João Victor e Lívia Rodrigues e tem como objetivo objetivo a indentificação de requisitos.</p> 
+<p align="justify">&emsp;&emsp;Visando desenvolver as personas do projeto foi realizado a analise dos artefatos na etapa de elicitação de requisitos, assim são derivadas através de um processo de investigação que lista características dos usuários e descreve seus perfis, as imagens utilizadas são de cunho ilustrativo e ficticios, não foram utilizadas imagnes de pessoas reais. O mesmo foi feito pelos membros João Victor e Lívia Rodrigues e tem como objetivo objetivo a indentificação de requisitos.</p> 
 
 ## Resultados
 ### Persona 1
 
 ![Foto persona 1 - Letícia](../assets/modelagem/persona/p1.png) 
+
+*Imagem 1: Foto ilustrativa - persona 1*
+
+*Fonte: https://thispersondoesnotexist.com* 
 
   Nome: Letícia.
   
@@ -40,6 +44,10 @@
 
 ![Foto persona 2 - Ricardo](../assets/modelagem/persona/p2.png) 
 
+*Imagem 2: Foto ilustrativa - persona 2*
+
+*Fonte: https://thispersondoesnotexist.com* 
+
   Nome: Ricardo.
 
   Idade: 34 anos.
@@ -58,6 +66,10 @@
 
 ![Foto persona 3 - Fransisco](../assets/modelagem/persona/p3.png) 
 
+*Imagem 3: Foto ilustrativa - persona 3*
+
+*Fonte: https://thispersondoesnotexist.com* 
+
   Nome: Francisco.
 
   Idade: 41 anos.
@@ -75,6 +87,10 @@
 ### Persona 4
 
 ![Foto persona 4 - Thaís](../assets/modelagem/persona/p4.png) 
+
+*Imagem 4: Foto ilustrativa - persona 4*
+
+*Fonte: https://thispersondoesnotexist.com* 
   
   Nome: Thaís.
 
@@ -90,9 +106,13 @@
   
   Nível de conhecimento sobre o app: Utiliza o aplicativo diariamente para a otimização de seu tempo.
 
-### Persona Secundária
+### Persona Secundária 1
 
-![Foto Persona Secundária - Lucas](../assets/modelagem/persona/p5.png) 
+![Foto Persona Secundária 1 - Lucas](../assets/modelagem/persona/p5.png) 
+
+*Imagem 5: Foto ilustrativa - persona secundária 5*
+
+*Fonte: https://thispersondoesnotexist.com* 
 
   Nome: Lucas.
   
@@ -110,7 +130,11 @@
 
 ### Antipersona
 
-![Foto Antipersona - Meteus](../assets/modelagem/persona/at.png) 
+![Foto Antipersona 1 - Meteus](../assets/modelagem/persona/at.png) 
+
+*Imagem 6: Foto ilustrativa - antpersona 1*
+
+*Fonte: https://thispersondoesnotexist.com* 
 
   Nome: Mateus.
   
@@ -127,3 +151,6 @@
 
 <p>Aplicativo Tembici. Disponível em: https://www.tembici.com.br. Acesso em: 16 de fevereiro de 2022.</p>
 <p>Wiki Requisitos - Tesouro Direto. Disponível em: https://requisitos-de-software.github.io/2021.1-TesouroDireto/. Acesso em: 15 de fevereiro de 2022.</p>
+
+<p>Gerador de rostos. Disponível em: https://thispersondoesnotexist.com.1-TesouroDireto/. Acesso em: 04 de Abril de 2022.</p>
+
