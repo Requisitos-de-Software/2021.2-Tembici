@@ -6,7 +6,7 @@
 | 1.0 | 09/03/2022 | Criação das histórias de usuário | Lívia Rodrigues, João Victor |
 | 1.1 | 09/03/2022 | Padronização | Lívia Rodrigues |
 | 1.2 | 21/03/2022 | Modificações Pós-Verificação | João Victor |
-| 1.3 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor |
+| 1.3 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor, Paulo Henrique |
 | 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: Versionamento*
