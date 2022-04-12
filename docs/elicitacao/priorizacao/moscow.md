@@ -8,7 +8,8 @@
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo|
 | 1.3 | 21/02/2022 | Revisão | Luiz Henrique |
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
-| 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.6 | 11/04/2022 | Adição de novos requisitos | João Victor Batista |
 
 *Tabela 1: versionamento*
 
@@ -63,6 +64,8 @@
 | RF22 | O usuário poderá utilizar um cupom de desconto caso possua, para diminuir o valor de seu plano | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | COULD |
 | RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
+| RF25 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização |[Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
+| RF26 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
 
 *Tabela 3: Tabela de requisitos priorizados*
 
