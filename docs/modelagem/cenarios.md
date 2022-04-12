@@ -7,6 +7,7 @@
 | 1.1 | 04/03/2022 | Revisão | Luiz Henrique, Gabriel Sabanai |
 | 1.2 | 04/03/2022 | Adição revisor | Luiz Henrique |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 2.0 | 10/04/2022 | Melhorias de rastreabilidade | Paulo Henrique |
 
 *Tabela 1: Versionamento*
 
@@ -34,7 +35,7 @@
 <p align="justify">&emsp;&emsp;Os casos de uso abaixo foram feitos pelo integrante do grupo João Victor, após levantar os cenários possíveis no app. Para cada cenário é feita uma tabela igual a citada acima com preenchida de acordo com o cenário.</p>
 
 ## Resultados
-### C01 - Cadastrar usuário por email
+### C01 - [Cadastrar usuário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-usuario) por email
 | Título | Cadastrar usuário por email |
 | -- | -- |
 | Objetivo | Criar perfil para o usuário no Tembici utilizando email |
@@ -47,7 +48,7 @@
 
 *Tabela 2: Descrição do Cenário Cadastrar usuário por email*
 
-### C02 - Acessar a conta
+### C02 - <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#logar">Acessar a conta</a>
 | Título | Acessar a conta |
 | -- | -- |
 | Objetivo | Acessar a conta usuário no Tembici |

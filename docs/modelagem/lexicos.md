@@ -268,7 +268,7 @@
 
 | LV16 | **Logar no sistema** |
 | ------ | ---- | 
-| **Sinônimos** | Acessar sistema, logado |
+| **Sinônimos** | Acessar sistema, logado, Acessar conta |
 | **Noção** | O <a href="#usuario" > usuário </a> já cadastrado, utilizando suas credenciais, poderá<a href="#logar"> logar</a> no sistema |
 | **Impacto**| Ao<a href="#logar"> logar</a>, o usuário poderá ter acesso às informações sobre sua conta, bem como os benefícios de um usuário cadastrado |
 
