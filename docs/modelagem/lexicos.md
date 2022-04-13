@@ -220,7 +220,7 @@
 
 | LV10 | **Consultar bicicletas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** | <center> --- </center> |
+| **Sinônimos** | Bicicleta disponível |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> possuem bicicletas disponiveis |
 | **Impacto**| O usuário consiguirá encontrar bicicletas do app para desbloquear |
 
@@ -228,7 +228,7 @@
 
 | LV11 | **Consultar vagas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** | <center> --- </center> |
+| **Sinônimos** | Posto com vagas disponível |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> há vagas disponiveis para a <a href="#devolver-bicicleta" >devolução </a> de uma bicicleta |
 | **Impacto**| O usuário consiguirá encontrar vagas para <a href="#devolver-bicicleta" >devolver a bicicleta </a> após a viagem |
 
@@ -312,7 +312,7 @@
 
 | LE04 | **Não logado** |
 | ------ | ---- | 
-| **Sinônimos** | Usuário deslogado |
+| **Sinônimos** | Usuário deslogado, Logout da conta |
 | **Noção** | Estado em que o <a href="#usuario" > usuário </a> ainda não realizou o login no sistema |
 | **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não estar com os beficios realacionados a um usuário<a href="#logar"> logado</a> |
 
