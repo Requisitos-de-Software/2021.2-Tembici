@@ -122,7 +122,7 @@
 
 *Tabela 5: Descrição do Diagrama Ver Mapa*
 
-### 5 - Caso de Uso: Realizar viagem e devolução
+### 5 - Caso de Uso: [Realizar viagem](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#começar) e devolução
 ![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
 
 *Imagem 5: Diagrama Realizar Viagem*
@@ -183,7 +183,7 @@
 | 6   | Pós-condições         | Usuário acessar a aba viagem e conferir seus trajetos                                                                             |
 | 7   | Cenários Principais   | Usuário     conseguir visualizar todos os seus trajetos pelo aplicativo                                                           |
 | 8   | Cenários alternativos |  -                                                                                                                                |
-| 9   | Cenários de exceção   | Usuário não ter feito nenhuma viagem ainda                                                                                        |
+| 9   | Cenários de exceção   | Usuário não ter feito nenhuma [viagem](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#começar) ainda                                                                                        |
 | 10  | Rastreabilidade       | RF08                                                                                                                              |
 
 *Tabela 8: Descrição do Diagrama Histórico de Ajuda*
