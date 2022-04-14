@@ -103,7 +103,7 @@
 
 |LO07|**Software**|
 |---|------------------|
-|**Sinônimos**|Programa, Aplicativo, App|
+|**Sinônimos**|Programa, Aplicativo, App, Sistema|
 |**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
 |**Impacto**| O <a href="#usuario" > usuário </a> poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
 
@@ -148,7 +148,7 @@
 
 | LV01 | **Alugar bicicleta** |
 | ------ | ---- | 
-| **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta |
+| **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta, Aluguel de bicicletas |
 | **Noção** | O <a href="#usuario" > usuário </a> irá, através do aluguel da bicicleta, poder utilizar a bicicleta escolhida para se locomover |
 | **Impacto**| Após um cliente alugar uma bicicleta ele desbloqueará para uso |
 
@@ -312,7 +312,7 @@
 
 | LE04 | **Não logado** |
 | ------ | ---- | 
-| **Sinônimos** | Usuário deslogado, Logout da conta |
+| **Sinônimos** | Usuário deslogado, Logout da conta, Sem login |
 | **Noção** | Estado em que o <a href="#usuario" > usuário </a> ainda não realizou o login no sistema |
 | **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não estar com os beficios realacionados a um usuário<a href="#logar"> logado</a> |
 
