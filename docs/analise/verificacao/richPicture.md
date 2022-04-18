@@ -18,7 +18,7 @@
 <p align="justify">&emsp;&emsp;Para a verificação do rich pictures elaborado pela nossa equipe, no contexto da disciplina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.</p>
 
 ## Inspeção
-&emsp;&emsp;Abaixo tem-se as questões levantadas por nós para o checklist e o porque de cada uma. 
+&emsp;&emsp;Abaixo tem-se as questões levantadas por nós para o checklist e o porque de cada uma, pegando como base um artigo sobre o tema[2]. 
 
 |Questão|Justificativa|
 |-------|-------------|
@@ -70,4 +70,8 @@
 <p align="justify">&emsp;&emsp;A partir da verificação feita, podemos concluir que de modo geral, o Rich Picture foi bem trabalhado. Gerando um valor grande para o projeto, principalmente por ser simples, com um desenho limpo e auto explicativo. Entretano, falha em pequenos pontos como um título mais especifico e uma legenda para certas ideias.</p>
 
 ## Referências
-- Office for Public Management. Complexity and rich pictures. Disponível em: <a>http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf</a>. Acesso em: 30 de Março de 2022.
+<ul>
+<li><p>[1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 21 de Março de 2022</p></li>
+<li><p>[2] Office for Public Management. Complexity and rich pictures. Disponível em: <a>http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf</a>
+Acesso em: 30 de Março de 2022.</p></li>
+</ul>
