@@ -8,6 +8,7 @@
 | 1.1 | 30/03/2022 | Criação Matrizes | Luiz Henrique, Paulo Henrique |
 | 1.2 | 31/03/2022 | Explicação da modelagem | Paulo Henrique |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4 | 18/04/2022 | Revisão | João Victor |
 
 *Tabela 1: versionamento*
 
