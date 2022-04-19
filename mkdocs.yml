@@ -66,6 +66,7 @@ nav:
     - Validação:
       - Validação Informal: ./analise/validacao/validacao_informal.md
       - Protótipo: ./analise/validacao/prototipo.md
+      - Viewpoint: ./analise/validacao/viewpoint.md
   - Pós-Rastreabilidade: 
     - Backward-From: ./pos-rastreabilidade/backward-from.md
     - Forward-From: ./pos-rastreabilidade/forward-from.md
@@ -74,6 +75,7 @@ nav:
     - Reunião 15/03: ./atas/ata_1503.md
     - Reunião 23/03: ./atas/ata_2303.md
     - Reunião 29/03: ./atas/ata_2903.md
+    - Reunião 08/04: ./atas/ata_0804.md
 
 markdown_extensions:
   - attr_list

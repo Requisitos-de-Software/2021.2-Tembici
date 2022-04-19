@@ -5,8 +5,9 @@
 | ------ | ----- | --------------------- | --------------- |
 | 1.0    | 23/03/2022 | Abertura do documento | Gabriel Sabanai |
 | 1.1    | 23/03/2022 | Adição da Verificação | Gabriel Sabanai |
-| 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
-| 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.2    | 08/04/2022 | Revisão e Adição de revisor | Luiz Henrique |
+| 1.3    | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4    | 18/04/2022 | Adição de mais pontos para o checklist | Victor Eduardo |
 
 *Tabela 1: versionamento*
 
@@ -17,9 +18,9 @@
 <p align="justify">&emsp;&emsp;Para a verificação do rich pictures elaborado pela nossa equipe, no contexto da disciplina foi utilizada a técnica de inspeção. Por meio de um checklist foi realizada uma avaliação de tópicos e detectados os problemas a serem corrigidos e o que já está correto no artefato.</p>
 
 ## Inspeção
-&emsp;&emsp;Tais justificativas foram baseadas no artigo [Complexity and rich pictures revised](http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf)
+&emsp;&emsp;Abaixo tem-se as questões levantadas por nós para o checklist e o porque de cada uma, pegando como base um artigo sobre o tema[2]. 
 
-|Questão|Justificativa
+|Questão|Justificativa|
 |-------|-------------|
 |O rich picture possui um título expressivo?|O título deve ser significativo para identificação mais eficiente|
 |Os atores estão bem definidos?|Os atores são usuários do sistema e é necessário ter seus papéis distinguidos|
@@ -30,6 +31,7 @@
 |Os rótulos são descritos corretamente?|Os rótulos devem ter bons nomes para que não seja necessário o uso de textos explicativos. Além disso, o uso de rótulos auxilia em um melhor entendimento do rich picture|
 |Os rótulos são posicionados corretamente?|O posicionamento dos rótulos deve ser diretamente abaixo dos símbolos, para facilitar sua assimilação|
 |O Rich Picture possui termos simples para que usuários não-técnicos possam compreender seu conteúdo?|O emprego de termos ou jargões técnicos pode dificultar o compreensão de um cliente sobre o diagrama|
+|O rich picture possui atores, delimitação de sistema, representação de operações, direções de setas?|Estes são os elementos básicos para a criação de um Rich Picture Adequado|
 
 *Tabela 2: Estrutura do checklist*
 
@@ -38,7 +40,7 @@
 - ✅: Sim
 - ❌: Não
 
-|Questões|Versão 1.0|
+|Questões|Possui?|
 |--------|----|
 |O rich picture possui um título expressivo?|❌|
 |Os atores estão bem definidos?|✔|
@@ -49,6 +51,10 @@
 |Os rótulos são descritos corretamente?|✔|
 |Os rótulos são posicionados corretamente?|✔|
 |O Rich Picture possui termos simples para que usuários não-técnicos possam compreender seu conteúdo?|✔|
+|Atores|✔|
+|Delimitação de sistema|✔|
+|Representação de operações|✔|
+|Direções de setas|✔|
 
 *Tabela 3: Resultado do checklist realizado*
 
@@ -62,3 +68,10 @@
 
 ## Conclusão
 <p align="justify">&emsp;&emsp;A partir da verificação feita, podemos concluir que de modo geral, o Rich Picture foi bem trabalhado. Gerando um valor grande para o projeto, principalmente por ser simples, com um desenho limpo e auto explicativo. Entretano, falha em pequenos pontos como um título mais especifico e uma legenda para certas ideias.</p>
+
+## Referências
+<ul>
+<li><p>[1] SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 23. Acesso em: 21 de Março de 2022</p></li>
+<li><p>[2] Office for Public Management. Complexity and rich pictures. Disponível em: <a>http://leadershipforchange.org.uk/wp-content/uploads/Complexity-and-rich-pictures.pdf</a>
+Acesso em: 30 de Março de 2022.</p></li>
+</ul>
