@@ -1,4 +1,5 @@
 # Forward-From
+
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -11,7 +12,10 @@
 
 *Tabela 1: versionamento*
 
-### Metodologia
+## Introdução
+<div align="justify">&emsp;&emsp; O Forward-From é um framework que visa vincular os requisitos levantados e os meios que foram levantados no proejeto assim melhorando sistematicamente sua rastreabilidade. </div>
+
+## Metodologia
 <div align="justify">&emsp;&emsp; Os requisitos são vinculados a artefatos criados durante o ciclo de vida de desenvolvimento de sistema, no momento da pós-rastreabilidade. A fim de verificar a pós-rastreabilidade entre os requisitos, elementos de impementação, arquitetura e desenho utilizamos o Forward-From. A implementação dessa rastreabilidade ocorre com a utilização de links entre os requisitos e as fontes que implementam estes. O artefato foi feito através de reunião virtual pelos integrantes do grupo João Victor e Lívia Rodrigues.</div>
 
 <div align="justify">&emsp;&emsp;Na tabela abaixo, mostraremos os requisitos e seus relacionamentos com as telas e seus critérios de aceitação. Além disso, classificaremos de acordo com seis tipos de elos (satisfação, recurso, responsabilidade, representação, alocação e agregação) apresentaremos as seguintes categorias, cujas descrições se encontram abaixo:</br>
@@ -20,6 +24,8 @@
 * Organizacional: se refere à estratégia, missão, entre outras.</br>
 * Gerencial: facilitam no gerenciamento do projeto</br>
 * Desenvolvimento: informações associadas aos artefatos desenvolvidos</br>
+
+## Resultados
 
 ### Forward-From
 <table>

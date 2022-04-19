@@ -1,4 +1,5 @@
 # Viewpoint 
+
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
@@ -102,6 +103,6 @@ Hierarquia:
 <p align="justify">&emsp;&emsp;Ao conciliar as duas é possível obter um resultado que deixe claro o fluxo de elementos mas que não seja repetitivo, sendo a melhor opção.</p>
 
 ## Referências 
-> LEITE, Julio Cesar Sampaio do Prado;FREEMAN, Peter A. "Requirements validation through viewpoint resolution." IEEE Trans. Software Eng. 17.12 (1991): 1253-1269.
+LEITE, Julio Cesar Sampaio do Prado; SFREEMAN, Peter A. "Requirements validation through viewpoint resolution." IEEE Trans. Software Eng. 17.12 (1991): 1253-1269. Acesso em: 18/04/2022.
 
-> Thiago, Grupo Ingresso.com. Disponível em:<https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/>. Acesso em: 18/04/2022.
+Thiago, Grupo Ingresso.com. Disponível em: <https://requisitos-de-software.github.io/2021.1-Ingresso.com/validacao/viewpoint/>. Acesso em: 18/04/2022.
