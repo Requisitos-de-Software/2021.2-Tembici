@@ -8,6 +8,7 @@
 | 1.1 | 21/03/2022 | Modificações Pós-Verificação | João Victor |
 | 1.2 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor, Livia Rodrigues |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4 | 14/04/2022 | Revisão e Refatoração | João Victor |
 
 *Tabela 1: Versionamento*
 
@@ -18,9 +19,10 @@
 
 
 ## Metodologia
+<br><br>
 
 ### Épico ZZ - Nome do épico
-|**Feature**|**ID**|**História de usuário**| Prioridade |
+|**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
 |  Feature XX - Nome da feature  | USYY | Ojetivo da US | Priorização |
 
@@ -37,45 +39,53 @@
 ## Épicos
 
 ### Épico 01 - Autenticação
+<div id="epico1"></div>
 
-|**Feature**|**ID**|**História de usuário**| Prioridade |
+|**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| [Feature 01 - Cadastro](./historias_de_usuario.md#feature-01---cadastro) | US01 | Criação do cadastro do usuário | Must |
-| [Feature 02 - Login](./historias_de_usuario.md#feature-02---login)  | US02 </br></br>  US03 </br></br> US04 | Fazer login </br></br> Acesso por leitura facial ou digital </br></br> Alterar/recuperar senha esquecida | Must </br></br> Should </br></br> Must|
-| [Feature 03 - Logout](./historias_de_usuario.md#feature-03---logout) | US05 | Fazer logout | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature1">Feature 01 - Cadastro</a> | US01 | Criação do cadastro do usuário | MUST |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature2">Feature 02 - Login </a> | US02 </br></br>  US03 </br></br> US04 | Fazer login </br></br> Acesso por leitura facial ou digital </br></br> Alterar/recuperar senha esquecida | MUST </br></br> SHOULD </br></br> MUST|
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature3">Feature 03 - Logout</a> | US05 | Fazer logout | MUST |
 
 *Tabela 3: Épico 01*
+<br><br>
 
 ### Épico 02 - Planos e pagamentos
+<div id="epico2"></div>
 
-|**Feature**|**ID**|**História de usuário**| Prioridade |
+|**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| [Feature 04 - Comprar Planos](./historias_de_usuario.md#feature-04---comprar-planos) | US06 </br></br> US07 </br></br> US08 | Adquirir planos </br></br> Utilizar cupom promocional </br></br> Inserir dados do cartão de crédito | Must </br></br> Should </br></br> Must |
-| [Feature 05 - Multa](./historias_de_usuario.md#feature-05---multa) | US09 | Pagamento de custos adicionais | Must |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature4">Feature 04 - Comprar Planos</a> | US06 </br></br> US07 </br></br> US08 | Adquirir planos </br></br> Utilizar cupom promocional </br></br> Inserir dados do cartão de crédito | MUST </br></br> SHOULD </br></br> MUST |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature5">Feature 05 - Multa</a> | US09 | Pagamento de custos adicionais | MUST |
 
 *Tabela 4: Épico 02*
+<br><br>
 
 ### Épico 03 - Viagens
+<div id="epico3"></div>
 
-|**Feature**|**ID**|**História de usuário**| Prioridade |
+|**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| [Feature 06 - Mapa](./historias_de_usuario.md#feature-06---mapa) | US10 </br></br> US11 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas | Must </br></br> Must |
-| [Feature 07 - Localização](./historias_de_usuario.md#feature-07---Localização) | US12 </br></br> US13 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | Should </br></br> Must|
-| [Feature 08 - Retirada](./historias_de_usuario.md#feature-08---Retirada) | US14 </br></br> US15 </br></br> US16 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | Must </br></br> Should </br></br> Should |
-| [Feature 09 - Devolução](./historias_de_usuario.md#feature-09---Devolução) | US17 | Devolução da bicicleta | Must|
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature6">Feature 06 - Mapa</a> | US10 </br></br> US11 | Visualizar o mapa </br></br> Visualizar a quantidade de bicicletas | MUST </br></br> MUST |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature7">Feature 07 - Localização</a> | US12 </br></br> US13 | Localização em tempo real </br></br> Estações próximas ao usuário ou ao seu destino | SHOULD </br></br> MUST|
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature8">Feature 08 - Retirada</a> | US14 </br></br> US15 </br></br> US16 | Retirar bicicleta em determinado local </br></br> Retirar bicicleta pelo QR code </br></br> Retirar bicicleta pelo código no aplicativo | MUST </br></br> SHOULD </br></br> SHOULD |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature9">Feature 09 - Devolução</a> | US17 | Devolução da bicicleta | MUST|
 
 *Tabela 5: Épico 03*
+<br><br>
 
 ### Épico 04 - Ajuda
+<div id="epico4"></div>
 
-|**Feature**|**ID**|**História de usuário**| Prioridade |
+|**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| [Feature 10 - Central de atendimento](./historias_de_usuario.md#feature-10---central-de-atendimento) | US18 </br></br> US19 </br></br> US20 </br></br> US21 | Regras de utilização do aplicativo </br></br> Como utilizar o serviço </br></br> Dúvidas </br></br> Entrar em contato com atendente  | Must </br></br> Should </br></br> Should </br></br> Should |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Feature 10 - Central de atendimento</a> | US18 </br></br> US19 </br></br> US20 </br></br> US21 | Regras de utilização do aplicativo </br></br> Como utilizar o serviço </br></br> Dúvidas </br></br> Entrar em contato com atendente  | MUST </br></br> SHOULD </br></br> SHOULD </br></br> SHOULD |
 
 *Tabela 6: Épico 04*
+<br><br>
 
 ## Referências
 
-<p>[1] SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 08 de março de 2022.</p>
+<p>1 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 08 de março de 2022.</p>
 
 *Tabela 7: Referências para a construção do documento*
