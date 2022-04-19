@@ -7,6 +7,7 @@
 | 1.1 | 03/04/2022 | Criação de artefatos | Lívia Rodrigues Reis |
 | 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Henrique |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4 | 11/04/2022 | Associação de novos requisitos com artefatos | João Victor Batista |
 
 *Tabela 1: versionamento*
 
@@ -364,28 +365,28 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="32"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/product_backlog/#epico4">Épico 04 - Ajuda</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Central de atendimento</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">-</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US18</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber as regras de utilização</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>  
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">-</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US19</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber como utilizar o serviço</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade, agregação</td>  
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">-</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25 RF26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>   
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">-</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF26</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar dúvidas com algum atendente por meio do chat</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Gerencial</td>

@@ -7,6 +7,7 @@
 | 1.1 | 19/02/2022 | Adição Introspecção Requisitos | Luiz Henrique |
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4 | 11/04/2022 | Adição de novos requisitos | João Victor Batista |
 
 *Tabela 1: versionamento*
 
@@ -38,6 +39,8 @@ Requisitos levantados:
 | IT14 | O usuário poderá escolher um plano adequado para sua utilização | RF |
 | IT15 | O usuário poderá utilizar um cupom de desconto caso possua para diminuir o valor de seu plano | RF |
 | IT16 | O usuário deverá realizar o pagamento do plano escolhido utilizando um cartão de crédito | RF |
+| IT17 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização | RF |
+| IT18 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema | RF |
 
 *Tabela 2: Tabela de requisitos levantados com a instrospecção*
 
