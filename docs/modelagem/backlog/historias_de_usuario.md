@@ -71,8 +71,9 @@
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
 | US06 | Eu, como usuário(a), gostaria de conhecer todos os planos oferecidos para escolher e adquirir algum e ter acesso as bicicletas   | > Deve existir um botão que direcione para a compra do plano | MUST |
-| US07 | Eu, como usuário(a), gostaria de comprar um plano utilizando cupom promocional para ter desconto | > Deve existir um botão para validar o cupom | SHOULD |
+| US07 | Eu, como usuário(a), gostaria de comprar um plano para poder utilizar os serviços do aplicativo | > Deve existir um botão para validar o cupom | MUST |
 | US08 | Eu, como usuário(a), gostaria de cadastrar meus cartões de crédito para conseguir comprar planos | > As bandeiras dos cartões disponíveis devem ser mostradas <br/> > Deve conter um botão para cadastrar cartão <br/> | MUST |
+| US09 | Eu, como usuário(a), gostaria de utilizar cupom promocional ao comprar um plano para ter desconto | > Deve existir um botão para validar o cupom | SHOULD |
 
 *Tabela 6: História de usuário para Comprar Planos*
 <br><br>
@@ -82,7 +83,7 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US09 | Eu, como usuário(a), gostaria de ser cobrado pelo tempo de uso extrapolado e por viagens extras feitas para que possa pagar os custos adicionais | > O sistema deve enviar a cobrança de acordo com o plano escolhido pelo usuário | MUST |
+| US10 | Eu, como usuário(a), gostaria de ser cobrado pelo tempo de uso extrapolado e por viagens extras feitas para que possa pagar os custos adicionais | > O sistema deve enviar a cobrança de acordo com o plano escolhido pelo usuário | MUST |
 
 *Tabela 7: História de usuário para Multa*
 <br><br>
@@ -92,8 +93,9 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US10 | Eu, como usuário(a), gostaria de visualizar um mapa da região selecionada para saber a localização de estações perto de mim | >  Acessar a página inicial contendo mapa da região<br/> > Deve indicar a localização das estações no mapa | MUST |
-| US11 | Eu, como usuário(a), gostaria de visualizar a quantidade de bicicletas disponíveis em cada estação para saber onde posso retirar uma bicicleta | > Deve indicar a quantidade de bicicletas em cada estação | MUST |
+| US11 | Eu, como usuário(a), gostaria de visualizar um mapa da região selecionada para saber a localização de estações perto de mim | >  Acessar a página inicial contendo mapa da região<br/> > Deve indicar a localização das estações no mapa | MUST |
+| US12 | Eu, como usuário(a), gostaria de visualizar a quantidade de bicicletas disponíveis em cada estação para saber onde posso retirar uma bicicleta | > Deve indicar a quantidade de bicicletas em cada estação | MUST |
+| US13 | Eu, como usuário(a), gostaria de visualizar a quantidade de vagas disponíveis em cada estação para saber onde posso devolver uma bicicleta que esteja usando | > Deve indicar a quantidade de vagas em cada estação | MUST |
 
 *Tabela 8: História de usuário para Mapa*
 <br><br>
@@ -103,8 +105,8 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US12 | Eu, como usuário(a), gostaria de visualizar minha localização atual para saber onde estou em tempo real  | > Permitir que o aplicativo obtenha a localização atual<br/> > Deve indicar no mapa a localização do usuário em tempo real | SHOULD |
-| US13 | Eu, como usuário(a), gostaria de buscar estações próximas a mim ou a meu destino | > Deve permitir que o usuário navegue pelo mapa | MUST |
+| US14 | Eu, como usuário(a), gostaria de visualizar minha localização atual para saber onde estou em tempo real  | > Permitir que o aplicativo obtenha a localização atual<br/> > Deve indicar no mapa a localização do usuário em tempo real | SHOULD |
+| US15 | Eu, como usuário(a), gostaria de buscar estações próximas a mim ou a meu destino | > Deve permitir que o usuário navegue pelo mapa | MUST |
 
 *Tabela 9: História de usuário para Localização*
 <br><br>
@@ -114,9 +116,9 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US14 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local  |  > Redirecionamento ao clicar em uma estação para as opções de retirada | MUST |
-| US15 | Eu, como usuário(a), gostaria de ler QR Code apontando a câmera para o código no guidão da bicicleta para desbloqueá-la | > Permitir acesso à câmera do dispositivo </br> > Deve conseguir desbloquear uma bicicleta ao ler seu QR Code| SHOULD |
-| US16 | Eu, como usuário(a), gostaria de gerar um código pelo aplicativo para inserí-lo/digitá-lo na estação e desbloquear uma bicicleta |  > Deve gerar código capaz de desbloquear uma bicicleta | SHOULD |
+| US16 | Eu, como usuário(a), gostaria de retirar uma bicicleta em determinada estação para utilizá-la  |  > Redirecionamento ao clicar em uma estação para as opções de retirada | MUST |
+| US17 | Eu, como usuário(a), gostaria de ler QR Code apontando a câmera para o código no guidão da bicicleta para desbloqueá-la | > Permitir acesso à câmera do dispositivo </br> > Deve conseguir desbloquear uma bicicleta ao ler seu QR Code| SHOULD |
+| US18 | Eu, como usuário(a), gostaria de gerar um código pelo aplicativo para inserí-lo/digitá-lo na estação e desbloquear uma bicicleta |  > Deve gerar código capaz de desbloquear uma bicicleta | SHOULD |
 
 *Tabela 10: História de usuário para Retirada*
 <br><br>
@@ -126,7 +128,7 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** |
 |:----------:|:----:|:----------------------|-------------|
-| US17 | Eu, como usuário(a), gostaria de terminar uma viagem quando devolver uma bicicleta em alguma estação para contabilizar o tempo certo de viagem | > Deve interromper viagem quando a bicicleta for devolvida </br> > Deve confirmar o término da viagem para o usuário| MUST |
+| US19 | Eu, como usuário(a), gostaria de encerrar uma viagem ao devolver uma bicicleta em alguma estação para contabilizar corretamente o tempo de viagem | > Deve interromper viagem quando a bicicleta for devolvida </br> > Deve confirmar o término da viagem para o usuário| MUST |
 
 *Tabela 11: História de usuário para Devolução*
 <br><br>
@@ -136,10 +138,9 @@
 
 |**ID**|**História de Usuário**|**Critérios de Aceitação**| **Prioridade** | 
 |:----------:|:----:|:----------------------|-------------|
-| US18 | Eu, como usuário(a), gostaria de saber as regras de utilização | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | MUST |
-| US19 | Eu, como usuário(a), gostaria de saber como utilizar o serviço | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
-| US20 | Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
-| US21 | Eu, como usuário(a), gostaria de tirar dúvidas com algum atendente por meio do chat | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
+| US20 | Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | MUST |
+| US21 | Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
+| US22 | Eu, como usuário(a), gostaria de contatar algum atendente por meio de chat para retirar dúvidas mais específicas | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
 
 *Tabela 12: História de usuário para Centrak de Atendimento*
 <br><br>

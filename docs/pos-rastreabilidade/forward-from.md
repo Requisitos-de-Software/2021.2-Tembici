@@ -137,11 +137,11 @@
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF22</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US07</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de comprar um plano utilizando cupom promocional para ter desconto</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de comprar um plano para poder utilizar os serviços do aplicativo</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Desenvolvimento</td>
-            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
+            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>   
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF07</a></td>
@@ -149,6 +149,13 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de cadastrar meus cartões de crédito para conseguir comprar planos</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Desenvolvimento</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>   
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF22</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US09</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de utilizar cupom promocional ao comprar um plano para ter desconto</td>
+            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Desenvolvimento</td>
+            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
         <tr>
         </tr>
@@ -167,7 +174,7 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature5">Multa</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF09</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US09</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US10</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de ser cobrado pelo tempo de uso extrapolado e por viagens extras feitas para que possa pagar os custos adicionais</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Organizacional</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade, Alocação</td>  
@@ -223,15 +230,24 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="32"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/product_backlog/#epico3">Épico 03 - Viagens</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature6">Mapa</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF02</a> <a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF03</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US10</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US11</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de visualizar um mapa da região selecionada para saber a localização de estações perto de mim</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Desenvolvimento</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF05</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US11</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US12</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de visualizar a quantidade de bicicletas disponíveis em cada estação para saber onde posso retirar uma bicicleta</td>
+            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Desenvolvimento</td>
+            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
+        </tr>
+        <tr> 
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF05</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US13</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de visualizar a quantidade de vagas disponíveis em cada estação para saber onde posso devolver uma bicicleta que esteja usando</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Desenvolvimento</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
@@ -254,14 +270,14 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature7">Localização</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF03</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US12</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US14</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de visualizar minha localização atual para saber onde estou em tempo real</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
-                <tr>
+        <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF04</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US13</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US15</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de buscar estações próximas a mim ou a meu destino</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>   
@@ -285,58 +301,38 @@
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature8">Retirada</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF23</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US14</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de retirar uma bicicleta em determinado local</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US16</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de retirar uma bicicleta em determinada estação para utilizá-la</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF19</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US15</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US17</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de ler QR Code apontando a câmera para o código no guidão da bicicleta para desbloqueá-la</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alocação, Recurso</td>   
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF19</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US16</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US18</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de gerar um código pelo aplicativo para inserí-lo/digitá-lo na estação e desbloquear uma bicicleta</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Desenvolvimento</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Alocação, Recurso</td>   
         </tr>
         <tr> 
         </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
+        <tr> 
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature9">Devolução</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF20</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US17</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de terminar uma viagem quando devolver uma bicicleta em alguma estação para contabilizar o tempo certo de viagem</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US19</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de encerrar uma viagem ao devolver uma bicicleta em alguma estação para contabilizar corretamente o tempo de viagem</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Ambiental, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, Recurso</td>  
         </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
-        </tr>
-        <tr>
+        <tr> 
         </tr>
         <tr>
         </tr>
@@ -366,29 +362,22 @@
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="32"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/product_backlog/#epico4">Épico 04 - Ajuda</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Central de atendimento</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US18</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber as regras de utilização</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o Tembici</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>  
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US19</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de saber como utilizar o serviço</td>
-            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional, Gerencial</td>
-            <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade, agregação</td>  
-        </tr>
-        <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF25 RF26</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US20</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar diversas dúvidas para que o entendimento permita uma boa utilização do aplicativo</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do Tembici</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Organizacional</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Responsabilidade</td>   
         </tr>
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/priorizacao/moscow/">RF26</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US21</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de tirar dúvidas com algum atendente por meio do chat</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">US22</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu, como usuário(a), gostaria de contatar algum atendente por meio de chat para retirar dúvidas mais específicas</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Gerencial</td>
             <td style="vertical-align: middle;text-alical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Satisfação, agregação</td>   
         </tr>
