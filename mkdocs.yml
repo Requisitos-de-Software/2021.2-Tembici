@@ -38,6 +38,8 @@ nav:
       - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
       - Questionário: ./elicitacao/tecnicas/questionario.md
       - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+      - Observação: ./elicitacao/tecnicas/observacao.md
+    - Resultados Elicitação: ./elicitacao/elicitacao_final.md
     - Priorização: 
         - MosCoW: ./elicitacao/priorizacao/moscow.md
     - Personas: ./elicitacao/personas.md

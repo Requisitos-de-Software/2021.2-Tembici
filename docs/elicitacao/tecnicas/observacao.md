@@ -3,21 +3,20 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 20/04/2022 | Criação documento | Luiz Henrique |
+| 1.0 | 20/04/2022 | Criação documento | Luiz Henrique, Paulo Henrique, Livia Rodrigues, João Victor |
+| 1.1 | 20/04/2022 | Revisão | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
 ## Introdução
 
-<p align="justify">&emsp;&emsp;Observação é uma técnica de elicitação em que o analista de negócios observa o usuário utilizando o sistema, realizando as tarefas mais comuns. Outra maneira de realizar essa técnica é o engenheiro de requisitos passar pelo papel de usuário.</p>
+<p align="justify">&emsp;&emsp; A elicitação de requisitos por meio da observação é uma técnica de elicitação em que o analista de negócios observa o usuário utilizando o sistema ou o prorio engenheiro de requisitos realizada o fluxo no papel de usuário.</p>
 
 ## Metodologia
 
-<p align="justify">&emsp;&emsp;Um usuário foi observado executando algumas ações comuns no aplicativo como escutar um episódio, pausar um episódio, baixar um episódio, assinar um podcast, procurar um podcast etc.</p>
+<p align="justify">&emsp;&emsp;Os membros Luiz Henrique, Paulo Henrique, Livia Rodrigues e João  rezlizaram por meio de uma chamada virtual a simulção do papel do usuário realizando ações comuns no aplicativo afim de identificar novos requisitos não explicitados anteriormente no projeto.</p>
 
 ## Resultados
-
-Requisitos levantados:
 
 | Código | Requisito | Tipo de requisito |
 |:--:|--|:--:|
