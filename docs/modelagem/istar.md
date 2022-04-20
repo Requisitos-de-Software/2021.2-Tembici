@@ -7,6 +7,7 @@
 | 1.1 | 06/03/2022 | Revisão | João Victor, Luiz Henrique |
 | 1.2 | 06/03/2022 | Adição revisor | Luiz Henrique |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.4 | 18/04/2022 | Revisão | Victor Eduardo |
 
 *Tabela 1: versionamento*
 

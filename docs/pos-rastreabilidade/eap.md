@@ -25,6 +25,6 @@
 *Imagem 2: EAP do App* 
 
 ## Referências 
-<p>[1] - ESPINHA, Roberto Gil. EAP (Estrutura Analítica do Projeto): entenda na prática o que é e como fazer uma sem erros! Disponível em: <a>https://artia.com/blog/como-fazer-eap-na-gestao-de-projetos/</a>. Acesso em: 30 de Março de 2022.</p>
-<p>[2] - LIMA, Lucas;PERES, Nilvan. Projeto Tesouro Direto: Estrutura Analítica do Projeto - EAP. Disponível em: <a>https://requisitos-de-software.github.io/2021.1-TesouroDireto/eap/</a>. Acesso em: 30 de Março de 2022.</p>
-<p>[3] - ROCHA, Ian. Projeto Audible: Estrutura Analítica do Projeto Disponível em: <a>https://requisitos-de-software.github.io/2019.2-Audible/eap/</a>. Acesso em: 30 de Março de 2022.</p>
+<p>SESPINHA, Roberto Gil. EAP (Estrutura Analítica do Projeto): entenda na prática o que é e como fazer uma sem erros! Disponível em: <a>https://artia.com/blog/como-fazer-eap-na-gestao-de-projetos/</a>. Acesso em: 30 de Março de 2022.</p>
+<p>LIMA, Lucas;PERES, Nilvan. Projeto Tesouro Direto: Estrutura Analítica do Projeto - EAP. Disponível em: <a>https://requisitos-de-software.github.io/2021.1-TesouroDireto/eap/</a>. Acesso em: 30 de Março de 2022.</p>
+<p>ROCHA, Ian. Projeto Audible: Estrutura Analítica do Projeto Disponível em: <a>https://requisitos-de-software.github.io/2019.2-Audible/eap/</a>. Acesso em: 30 de Março de 2022.</p>

@@ -9,6 +9,8 @@
 | 1.2 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor, Livia Rodrigues |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 | 1.4 | 14/04/2022 | Revisão e Refatoração | João Victor |
+| 1.5 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
+
 
 *Tabela 1: Versionamento*
 <br>
@@ -82,13 +84,11 @@
 
 |**Feature**|**ID**|**História de usuário**| **Prioridade** |
 |:----------:|:----:|:----------------------| --------- |
-| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Feature 10 - Central de atendimento</a> | US20 </br></br> US21 </br></br> US22 | Regras de utilização do aplicativo </br></br> Retirada de Dúvidas </br></br> Entrar em contato com atendente  | MUST </br></br> SHOULD </br></br> SHOULD |
+| <a href="https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/backlog/historias_de_usuario/#feature10">Feature 10 - Central de atendimento</a> | US20 </br></br> US21 </br></br> US22 </br></br> US23 | Regras de utilização do aplicativo </br></br> Retirada de Dúvidas </br></br> Entrar em contato com atendente </br></br> Relatar problema | MUST </br></br> SHOULD </br></br> SHOULD </br></br> SHOULD |
 
 *Tabela 6: Épico 04*
 <br><br>
 
 ## Referências
 
-> <p>1 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 08 de março de 2022.</p>
-
-*Tabela 7: Referências para a construção do documento*
+<p>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 08 de março de 2022.</p>

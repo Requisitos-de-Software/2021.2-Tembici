@@ -9,6 +9,7 @@
 | 1.3 | 08/04/2022 | Revisão e Adição revisor | Luiz Henrique, João Victor, Paulo Henrique |
 | 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 | 1.5 | 14/04/2022 | Revisão e Refatoração | João Victor |
+| 1.6 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
 
 *Tabela 1: Versionamento*
 
@@ -141,10 +142,11 @@
 | US20 | Eu, como usuário(a), gostaria de saber as regras de utilização do serviço para saber como utilizar corretamente o Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | MUST |
 | US21 | Eu, como usuário(a), gostaria de tirar dúvidas gerais sobre o serviço para ter um bom entendimento da utilização do Tembici | > Deve conter um menu <br/> > Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter uma central de ajuda <br/> | SHOULD |
 | US22 | Eu, como usuário(a), gostaria de contatar algum atendente por meio de chat para retirar dúvidas mais específicas | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
+| US23 | Eu, como usuário(a), gostaria de reportar problemas mecânicos com a bicicleta, problemas mecânicos com a estação e problemas no pagamento | > Deve conter um menu <br/> >Deve solicitar a seleção da cidade de acesso do usuário <br/>  > Deve conter um chat pelo qual o usuário pode se comunicar com o atendente virtual <br/> | SHOULD |
 
 *Tabela 12: História de usuário para Centrak de Atendimento*
 <br><br>
 
 ## Referências
 
-> [1] Desenvolvimento Ágil - Engenharia de Software, Pressman - Cpítulo 3.  Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 09 de março de 2022.
+<p> Desenvolvimento Ágil - Engenharia de Software, Pressman - Cpítulo 3.  Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA. Acesso em: 09 de março de 2022. </p>

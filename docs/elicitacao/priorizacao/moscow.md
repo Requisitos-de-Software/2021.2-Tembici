@@ -3,13 +3,14 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/02/2022 | Criação da introdução da técnica de Priorização | Gabriel Sabanai e Paulo Henrique |
-| 1.1 | 20/02/2022 | Adição dos requisitos coletados | Gabriel Sabanai e Paulo Henrique |
+| 1.0 | 19/02/2022 | Criação da introdução da técnica de Priorização | Gabriel Sabanai, Paulo Henrique |
+| 1.1 | 20/02/2022 | Adição dos requisitos coletados | Gabriel Sabanai, Paulo Henrique |
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo|
 | 1.3 | 21/02/2022 | Revisão | Luiz Henrique |
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
 | 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
-| 1.6 | 11/04/2022 | Adição de novos requisitos | João Victor Batista |
+| 1.6 | 11/04/2022 | Adição de novos requisitos | João Victor |
+| 2.0 | 19/04/2022 | Atualizando documento | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -38,34 +39,36 @@
 
 ### Requisitos e suas prioridades
 
-| Identificação | Requisito | Técnica | Prioridade |
-|---|---|---|---|
-| RF01 | O aplicativo deve permitir o cadastro/login do usuario | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | MUST |
-| RF02 | O aplicativo deve aceitar utilizar a localização geográfica do usuario para que posso utilizar o aplicativo  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | MUST |
-| RF03 | O aplicativo deve mostrar uma visualização do mapa e o ponto que o usuário se encontra para que tenha noção de onde está | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
-| RF04 | O aplicativo deve mostrar os pontos de bicicleta próximos ao usuário para que ele tenha noção de onde pegá-las | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
-| RF05 | O aplicativo deve mostrar a quantidade de bicicletas disponíveis em cada estação para que o usuário consiga saber se há bicicletas disponíveis | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
-| RF06 | O aplicativo deve permitir que o usuário faça a escolha de um plano de aluguel para que realizar o pagamento | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
-| RF07 |  O aplicativo deve permitir que o usuário consiga realizar o pagamento do plano de aluguel para que possa utilizar as bicicletas | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | MUST |
-| RF08 | O aplicativo deve permitir que o usuário consiga ver seu histórico de viagens para que ele consiga ver o quanto já andou com o uso do aplicativo | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
-| RF09 | O aplicativo deve cobrar o usuário caso ele passe do tempo limite de uso da bicicleta para que tenha controle do uso e do plano do usuário | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | MUST |
-| RF10 | O aplicativo deve avisar o usuário caso o seu tempo esteja acabando para que ele tenha noção do tempo de uso  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | SHOULD |
-| RF11 | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | WOULD |
-| RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | SHOULD |
-| RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | SHOULD |
-| RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/), [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | COULD |
-| RF15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/), [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | COULD |
-| RF16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | [Brainstorm](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/brainstorm/) | COULD |
-| RF17 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel| [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | MUST |
-| RF18 | O usuário deverá estar logado e possuir um plano para conseguir pegar uma bicicleta | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | MUST |
-| RF19 | O usuário poderá desbloquear uma bicicleta utilizando um código do aplicativo a ser digitado em teclado localizado no posto de bicicleta | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | MUST |
-| RF20 | O usuário poderá verificar a quantidade de vagas em cada ponto para devolver sua bicicleta | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | MUST |
-| RF21 | O usuário poderá visualizar enquanto estiver em viagem o tempo que está sobre posse da bicicleta | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
-| RF22 | O usuário poderá utilizar um cupom de desconto caso possua, para diminuir o valor de seu plano | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | COULD |
-| RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
-| RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) | MUST |
-| RF25 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização |[Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
-| RF26 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) | SHOULD |
+| Identificação | Requisito | Prioridade |
+|---|---|---|
+| RF01 | O aplicativo deve permitir o cadastro/login do usuario | MUST |
+| RF02 | O aplicativo deve aceitar utilizar a localização geográfica do usuario para que posso utilizar o aplicativo | MUST |
+| RF03 | O aplicativo deve mostrar uma visualização do mapa e o ponto que o usuário se encontra para que tenha noção de onde está | SHOULD |
+| RF04 | O aplicativo deve mostrar os pontos de bicicleta próximos ao usuário para que ele tenha noção de onde pegá-las | MUST |
+| RF05 | O aplicativo deve mostrar a quantidade de bicicletas disponíveis em cada estação para que o usuário consiga saber se há bicicletas disponíveis  MUST |
+| RF06 | O aplicativo deve permitir que o usuário faça a escolha de um plano de aluguel para que realizar o pagamento | MUST |
+| RF07 |  O aplicativo deve permitir que o usuário consiga realizar o pagamento do plano de aluguel para que possa utilizar as bicicletas | MUST |
+| RF08 | O aplicativo deve permitir que o usuário consiga ver seu histórico de viagens para que ele consiga ver o quanto já andou com o uso do aplicativo | SHOULD |
+| RF09 | O aplicativo deve cobrar o usuário caso ele passe do tempo limite de uso da bicicleta para que tenha controle do uso e do plano do usuário | MUST |
+| RF10 | O aplicativo deve avisar o usuário caso o seu tempo esteja acabando para que ele tenha noção do tempo de uso  | SHOULD |
+| RF11 | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo  | WOULD |
+| RNF12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes  | SHOULD |
+| RNF13 | O sistema e as estações de bicicleta devem ter uma comunicação prática  | SHOULD |
+| RNF14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | COULD |
+| RF15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | COULD |
+| RF16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações | COULD |
+| RF17 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel| MUST |
+| RF18 | O usuário deverá estar logado e possuir um plano para conseguir pegar uma bicicleta | MUST |
+| RF19 | O usuário poderá desbloquear uma bicicleta utilizando um código do aplicativo a ser digitado em teclado localizado no posto de bicicleta | MUST |
+| RF20 | O usuário poderá verificar a quantidade de vagas em cada ponto para devolver sua bicicleta | MUST |
+| RF21 | O usuário poderá visualizar enquanto estiver em viagem o tempo que está sobre posse da bicicleta | SHOULD |
+| RF22 | O usuário poderá utilizar um cupom de desconto caso possua, para diminuir o valor de seu plano | COULD |
+| RF23 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | MUST |
+| RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | MUST |
+| RF25 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização | SHOULD |
+| RF26 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema |  SHOULD |
+| RF27 | O usuário deve ser capaz de tirar dúvidas com a equipe de atendimento online e por telefone | SHOULD |
+| RF28 | O usuário deve ser capaz de reportar problemas mecânicos com a bicicleta, problemas mecânicos com a estação e problemas no pagamento | SHOULD |
 
 *Tabela 3: Tabela de requisitos priorizados*
 

@@ -38,6 +38,8 @@ nav:
       - Instrospecção: ./elicitacao/tecnicas/introspeccao.md
       - Questionário: ./elicitacao/tecnicas/questionario.md
       - Brainstorm: ./elicitacao/tecnicas/brainstorm.md
+      - Observação: ./elicitacao/tecnicas/observacao.md
+    - Resultados Elicitação: ./elicitacao/elicitacao_final.md
     - Priorização: 
         - MosCoW: ./elicitacao/priorizacao/moscow.md
     - Personas: ./elicitacao/personas.md
@@ -76,6 +78,8 @@ nav:
     - Reunião 23/03: ./atas/ata_2303.md
     - Reunião 29/03: ./atas/ata_2903.md
     - Reunião 08/04: ./atas/ata_0804.md
+    - Reunião 12/04: ./atas/ata_1204.md
+    - Reunião 19/04: ./atas/ata_1904.md
 
 markdown_extensions:
   - attr_list
