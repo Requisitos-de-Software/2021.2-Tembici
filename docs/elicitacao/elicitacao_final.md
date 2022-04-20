@@ -4,20 +4,17 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 19/0242022 | Criação documento | Luiz Henrique |
+| 1.1 | 19/0242022 | Adicação Requisitos | Luiz Henrique |
+| 1.2 | 19/0242022 | Revisão | Adicionar |
 
 *Tabela 1: versionamento*
 
 
 ## Introdução
-<p align="justify">&emsp;&emsp;MoSCoW é uma técnica que ajuda na construção de priorização de atividades de um sistema, esta técnica é muito utilizada na engenharia de requisitos a fim de definir a importância/prioridade entre as partes interessadas dos requisitos levantados por um sistema/projeto.</p>
+<p align="justify">&emsp;&emsp; O presente documento tem como objetivo reunir de maneira sistematica e rastravel os requisitos levantados na etapa de elicitação.</p>
 
 ## Metodologia
-<p align="justify">&emsp;&emsp;A metodologia MosCoW está muito ligada à metodologias àgeis por se tratar de uma técnica de priorização e faz o acrônimo de de 4 letras que representam 4 verbos, utilizamos esses verbos para a classificação e identificação das prioridades de cada atividade/requisito, sendo elas:</p>
-- Must: Este verbo representa uma atividade que irá agregar muito favolr ao projeto finale que indispensável para a sua construção.
-- Should: Este verbo representa as tarefas que são importantes porém não são fundamentais para a construção do software.
-- Could: Este verbo representa as tarefas que não são tão muito importantes, não são fundamentais para o sistema e são desejáveis para o software, um exemplo seria, colocar a atividade na entrega final, após o MVP como plus na agregação de valor.</p>
-- Would/Want/Won't: Estes verbos são para os requisitos menos críticos e que possuem um valor/retorno menor do que os outros para o software.
-<p align="justify">&emsp;&emsp;Este artefato foi feito pelos integrantes Luiz e Gabriel através de uma reunião via Google Meet.</p>
+<p align="justify">&emsp;&emsp; O presente documento foi elaborado através da analíse e organização dos requisitos levantados pela equipe na etapa de elcitiação de requistos relacionando de maneira rastravél todos os requistos aos artefatos onde foram levantados. Este artefato foi desenvolvido pelo integrante Luiz Henrique.</p>
 
 ## Resultados
 
@@ -49,6 +46,8 @@
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | [Questionário](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/questionario/) |
 | RF25 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização |[Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) |
 | RF26 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema | [Introspecção](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/introspeccao/) |
+| RF27 | O usuário deve ser capaz de tirar dúvidas com a equipe de atendimento online e por telefone | [Observação](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/observacao/) |
+| RF28 | O usuário deve ser capaz de reportar problemas mecânicos com a bicicleta, problemas mecânicos com a estação e problemas no pagamento | [Observação](https://requisitos-de-software.github.io/2021.2-Tembici/elicitacao/tecnicas/observacao/) |
 
 *Tabela 3: Tabela final de requisitos*
 

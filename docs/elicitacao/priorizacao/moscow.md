@@ -3,13 +3,13 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 19/02/2022 | Criação da introdução da técnica de Priorização | Gabriel Sabanai e Paulo Henrique |
-| 1.1 | 20/02/2022 | Adição dos requisitos coletados | Gabriel Sabanai e Paulo Henrique |
+| 1.0 | 19/02/2022 | Criação da introdução da técnica de Priorização | Gabriel Sabanai, Paulo Henrique |
+| 1.1 | 20/02/2022 | Adição dos requisitos coletados | Gabriel Sabanai, Paulo Henrique |
 | 1.2 | 24/02/2022 | Padronização da página | Luiz Henrique, Victor Eduardo|
 | 1.3 | 21/02/2022 | Revisão | Luiz Henrique |
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
 | 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
-| 1.6 | 11/04/2022 | Adição de novos requisitos | João Victor Batista |
+| 1.6 | 11/04/2022 | Adição de novos requisitos | João Victor |
 | 2.0 | 19/04/2022 | Atualizando documento | Luiz Henrique |
 
 *Tabela 1: versionamento*
@@ -67,6 +67,8 @@
 | RF24 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação | MUST |
 | RF25 | O usuário poderá consultar informações sobre o sistema e como funciona sua utilização | SHOULD |
 | RF26 | O usuário poderá entrar em contato com algum atendente para tirar dúvidas sobre o sistema |  SHOULD |
+| RF27 | O usuário deve ser capaz de tirar dúvidas com a equipe de atendimento online e por telefone | SHOULD |
+| RF28 | O usuário deve ser capaz de reportar problemas mecânicos com a bicicleta, problemas mecânicos com a estação e problemas no pagamento | SHOULD |
 
 *Tabela 3: Tabela de requisitos priorizados*
 

@@ -4,11 +4,13 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
-| 1.0 | 02/04/2022 | Criação do documento | João Victor Batista |
-| 1.1 | 03/04/2022 | Criação de artefatos | Lívia Rodrigues Reis |
+| 1.0 | 02/04/2022 | Criação do documento | João Victor |
+| 1.1 | 03/04/2022 | Criação de artefatos | Lívia Rodrigues |
 | 1.2 | 08/04/2022 | Revisão e Adição de revisor | Luiz Henrique |
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
-| 1.4 | 11/04/2022 | Associação de novos requisitos com artefatos | João Victor Batista |
+| 1.4 | 11/04/2022 | Associação de novos requisitos com artefatos | João Victor |
+| 1.5 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
+
 
 *Tabela 1: versionamento*
 
@@ -393,8 +395,9 @@
 *Tabela 2: Matriz de requisitos funcionais e não-funcionais*
 
 ## Referências
-> - SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26.<br>
-> - TORANZO, M.; CASTRO, J.; MELLO, E. Uma proposta para melhorar o
+<p> SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. Acesso em: 11 de Abril de 2022. </p>
+
+<p> TORANZO, M.; CASTRO, J.; MELLO, E. Uma proposta para melhorar o
 rastreamento de requisitos. In: WORKSHOP DE ENGENHARIA DE
 REQUISITOS, 2002, Valência, Espanha. Anais... [S.l.]: [S.n.], 2002. p. 194–209.
-ISBN 84–96023–01–X. 19, 29, 44, 45, 47, 51, 55, 61<br>
+ISBN 84–96023–01–X. 19, 29, 44, 45, 47, 51, 55, 61. Acesso em: 11 de Abril de 2022.</p>
