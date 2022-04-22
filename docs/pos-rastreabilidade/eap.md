@@ -6,6 +6,7 @@
 | 1.0 | 30/03/2022 | Criação do Artefato | Victor Eduardo |
 | 1.1 | 08/04/2022 | Revisão e Adição de revisor | Luiz Hnerique |
 | 1.2 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
+| 1.3 | 21/04/2022 | Revisão e Adição de referência das imagens | Lívia Rodrigues |
 
 *Tabela 1: versionamento*
 
@@ -20,9 +21,13 @@
 ![EAP do projeto](../assets/pos-rastreabilidade/eap/eap%20etapas.png)
 *Imagem 1: EAP do Projeto* 
 
+*Autor: Victor Eduardo*
+
 ### EAP do aplicativo
 ![EAP do projeto](../assets/pos-rastreabilidade/eap/eap%20app.png)
-*Imagem 2: EAP do App* 
+*Imagem 2: EAP do App*
+
+*Autor: Victor Eduardo*
 
 ## Referências 
 <p>SESPINHA, Roberto Gil. EAP (Estrutura Analítica do Projeto): entenda na prática o que é e como fazer uma sem erros! Disponível em: <a>https://artia.com/blog/como-fazer-eap-na-gestao-de-projetos/</a>. Acesso em: 30 de Março de 2022.</p>
