@@ -11,6 +11,8 @@
 
 *Tabela 1: versionamento*
 
+<div id="introducao"></div>
+
 ## Introdução 
 <p align="justify">&emsp;&emsp;O Brainstorm é uma técnica utilizada para propor diversas soluções a um problema em específico. Se resume a uma reunião, aonde os participantes possuem liberdade de expor ideias e debater sobre elas e a de seus colegas. Dessa forma, visa ser uma atividade que visa explorar a capacidade criativa e intelectual do grupo, para que, assim, a equipe chegue a uma solução viavel.</p> 
 
@@ -110,22 +112,22 @@ Requisitos levantandos:
 
 | ID | Descrição | Tipo de Requisito |
 |----|-----------|-------------------|
-| BS01 | O aplicativo deve permitir o cadastro/login do usuario | Requisito Funcional |
-| BS02 | O aplicativo deve permitir a localização geográfica do usuário | Requisito Funcional |
-| BS03 | O aplicativo deve mostrar uma visualização do mapa e o ponto que o usuário se encontra para que tenha noção de onde está  | Requisito Funcional |
-| BS04 | O aplicativo deve mostrar os pontos de bicicleta próximos ao usuário para que ele tenha noção de onde pegá-las | Requisito Funcional |
-| BS05 | O aplicativo deve mostrar a quantidade de bicicletas disponíveis em cada estação para que o usuário consiga saber se há bicicletas disponíveis | Requisito Funcional |
-| BS06 | O aplicativo deve permitir que o usuário faça a escolha de um plano de aluguel para que realizar o pagamento | Requisito Funcional |
-| BS07 | O aplicativo deve permitir que o usuário consiga realizar o pagamento do plano de aluguel para que possa utilizar as bicicletas | Requisito Funcional |
-| BS08 | O aplicativo deve permitir que o usuário consiga ver seu histórico de viagens para que ele consiga ver o quanto já andou com o uso do aplicativo | Requisito Funcional |
-| BS09 | O aplicativo deve cobrar o usuário caso ele passe do tempo limite de uso da bicicleta para que tenha controle do uso e do plano do usuário | Requisito Funcional |
-| BS10 | O aplicativo deve avisar o usuário caso o seu tempo esteja acabando para que ele tenha noção do tempo de uso | Requisito Funcional |
-| BS11 | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo | Requisito Funcional |
-| BS12 | O aplicativo deve funcionar em dispositivos de tamanhos diferentes | Requisito Não Funcional |
-| BS13 | O sistema e as estações de bicicleta devem ter uma comunicação prática | Requisito Não Funcional |
-| BS14 | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | Requisito Não Funcional |
-| BS15 | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
-| BS16 | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
+| <p id="BS01">BS01</p> | O aplicativo deve permitir o cadastro/login do usuario | Requisito Funcional |
+| <p id="BS02">BS02</p> | O aplicativo deve permitir a localização geográfica do usuário | Requisito Funcional |
+| <p id="BS03">BS03</p> | O aplicativo deve mostrar uma visualização do mapa e o ponto que o usuário se encontra para que tenha noção de onde está  | Requisito Funcional |
+| <p id="BS04">BS04</p> | O aplicativo deve mostrar os pontos de bicicleta próximos ao usuário para que ele tenha noção de onde pegá-las | Requisito Funcional |
+| <p id="BS05">BS05</p> | O aplicativo deve mostrar a quantidade de bicicletas disponíveis em cada estação para que o usuário consiga saber se há bicicletas disponíveis | Requisito Funcional |
+| <p id="BS06">BS06</p> | O aplicativo deve permitir que o usuário faça a escolha de um plano de aluguel para que realizar o pagamento | Requisito Funcional |
+| <p id="BS07">BS07</p> | O aplicativo deve permitir que o usuário consiga realizar o pagamento do plano de aluguel para que possa utilizar as bicicletas | Requisito Funcional |
+| <p id="BS08">BS08</p> | O aplicativo deve permitir que o usuário consiga ver seu histórico de viagens para que ele consiga ver o quanto já andou com o uso do aplicativo | Requisito Funcional |
+| <p id="BS09">BS09</p> | O aplicativo deve cobrar o usuário caso ele passe do tempo limite de uso da bicicleta para que tenha controle do uso e do plano do usuário | Requisito Funcional |
+| <p id="BS10">BS10</p> | O aplicativo deve avisar o usuário caso o seu tempo esteja acabando para que ele tenha noção do tempo de uso | Requisito Funcional |
+| <p id="BS11">BS11</p> | O aplicativo deve conter premiações e recompensas gamificadas para que o usuário se sinta mais engajado em usá-lo | Requisito Funcional |
+| <p id="BS12">BS12</p> | O aplicativo deve funcionar em dispositivos de tamanhos diferentes | Requisito Não Funcional |
+| <p id="BS13">BS13</p> | O sistema e as estações de bicicleta devem ter uma comunicação prática | Requisito Não Funcional |
+| <p id="BS14">BS14</p> | O aplicativo pode possuir um sistema gamificado que apresentará de maneira simples o progresso diário de km e calorias em corridas  | Requisito Não Funcional |
+| <p id="BS15">BS15</p> | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
+| <p id="BS16">BS16</p> | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
 
 *Tabela 1: Tabela de requisitos levantados com o brainstorm*
 
