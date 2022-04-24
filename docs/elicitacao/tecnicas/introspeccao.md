@@ -24,10 +24,10 @@ Requisitos levantados:
 |:--:|--|:--:|
 | IT01 | O usuário deverá poder acessar o aplicativo utilizando seu aparelho móvel | RN |
 | IT02 | O usuário poderá visualizar as informações em tempo real | RN |
-| IT03 | O usuário poderá visualizar onde estão localizados os pontos de bicicletas | RF |
-| IT04 | O usuário poderá consultar  por meio de um mapa os pontos de bicicletas| RF |
+| <p id="IT03">IT03</p> | O usuário poderá visualizar onde estão localizados os pontos de bicicletas | RF |
+| <p id="IT04">IT04</p> | O usuário poderá consultar  por meio de um mapa os pontos de bicicletas| RF |
 | IT05 | O usuário poderá por meio do mapa visualizar sua localização atual | RF |
-| IT06 |O usuário poderá verificar a quantidade de um bicicletas em cada ponto de bicicleta | RF |
+| IT06 | O usuário poderá verificar a quantidade de um bicicletas em cada ponto de bicicleta | RF |
 | IT07 | O usuário deverá estar logado e possuir um plano para conseguir pegar uma bicicleta | RF |
 | IT08 | O usuário poderá  desbloquear uma bicicleta utilizando um código do aplicativo a ser digitado em teclado  localizado no posto de bicicleta | RF |
 | IT09 | O usuário poderá verificar a quantidade de vagas em cada ponto de bicicleta | RF |
