@@ -1,4 +1,4 @@
-# MosCoW
+# Resultados
 ## Versionamento
 
 | Versão | Data | Modificação | Autor |
