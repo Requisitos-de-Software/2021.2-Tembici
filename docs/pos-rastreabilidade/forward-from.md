@@ -10,7 +10,7 @@
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 | 1.4 | 11/04/2022 | Associação de novos requisitos com artefatos | João Victor |
 | 1.5 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
-| 1.6 | 24/04/2022 | Revisão | Lívia Rodrigues Reis |
+| 1.6 | 24/04/2022 | Revisão | Lívia Rodrigues |
 
 
 *Tabela 1: versionamento*
