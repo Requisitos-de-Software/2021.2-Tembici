@@ -79,7 +79,7 @@ Requisitos levantados:
 | Q01 | O app deve permitir que o usuário consiga assinar um plano | RF |
 | Q02 | O app deve mostrar ao usuário a localização das estações | RF |
 | Q03 | O app deve mostrar ao usuário a quantidade de bicicletas em cada estação | RF |
-| Q04 | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação| RF |
+| <p id="Q04">Q04</p> | O app deve permitir que usuário assinante consiga retirar uma bicicleta em uma estação| RF |
 | Q05 | O app deve disponibilizar o histórico de viagens do usuário, contendo o trajeto percorrido, calorias e quanto CO2 deixou de emitir | RF |
 
 *Tabela 2: Tabela de requisitos levantados com o questionário*

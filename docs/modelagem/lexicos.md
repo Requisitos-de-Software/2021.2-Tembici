@@ -103,7 +103,7 @@
 
 |LO07|**Software**|
 |---|------------------|
-|**Sinônimos**|Programa, Aplicativo, App|
+|**Sinônimos**|Programa, Aplicativo, App, Sistema|
 |**Noção**|Referência para algum aplicativo, muitas das vezes usadas no projeto para fazer menção ao Tembici|
 |**Impacto**| O <a href="#usuario" > usuário </a> poderá acessar o software e usar o aplicativo para olhar o local mais próximo que tenha bicleta disponível |
 
@@ -148,7 +148,7 @@
 
 | LV01 | **Alugar bicicleta** |
 | ------ | ---- | 
-| **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta |
+| **Sinônimos** | Retirar bicicleta, Desbloquear bicicleta, Aluguel de bicicletas |
 | **Noção** | O <a href="#usuario" > usuário </a> irá, através do aluguel da bicicleta, poder utilizar a bicicleta escolhida para se locomover |
 | **Impacto**| Após um cliente alugar uma bicicleta ele desbloqueará para uso |
 
@@ -220,7 +220,7 @@
 
 | LV10 | **Consultar bicicletas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** | <center> --- </center> |
+| **Sinônimos** | Bicicleta disponível |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> possuem bicicletas disponiveis |
 | **Impacto**| O usuário consiguirá encontrar bicicletas do app para desbloquear |
 
@@ -228,7 +228,7 @@
 
 | LV11 | **Consultar vagas disponiveis** |
 | ------ | ---- | 
-| **Sinônimos** | <center> --- </center> |
+| **Sinônimos** | Posto com vagas disponível |
 | **Noção** | O <a href="#usuario" > usuário </a> poderá consultar no app em que <a href="#estacao" > postos </a> há vagas disponiveis para a <a href="#devolver-bicicleta" >devolução </a> de uma bicicleta |
 | **Impacto**| O usuário consiguirá encontrar vagas para <a href="#devolver-bicicleta" >devolver a bicicleta </a> após a viagem |
 
@@ -268,7 +268,7 @@
 
 | LV16 | **Logar no sistema** |
 | ------ | ---- | 
-| **Sinônimos** | Acessar sistema, logado |
+| **Sinônimos** | Acessar sistema, logado, Acessar conta |
 | **Noção** | O <a href="#usuario" > usuário </a> já cadastrado, utilizando suas credenciais, poderá<a href="#logar"> logar</a> no sistema |
 | **Impacto**| Ao<a href="#logar"> logar</a>, o usuário poderá ter acesso às informações sobre sua conta, bem como os benefícios de um usuário cadastrado |
 
@@ -312,7 +312,7 @@
 
 | LE04 | **Não logado** |
 | ------ | ---- | 
-| **Sinônimos** | Usuário deslogado |
+| **Sinônimos** | Usuário deslogado, Logout da conta, Sem login |
 | **Noção** | Estado em que o <a href="#usuario" > usuário </a> ainda não realizou o login no sistema |
 | **Impacto**| O usuário estará restrito ao uso de algumas funcionalidades por ainda não estar com os beficios realacionados a um usuário<a href="#logar"> logado</a> |
 
