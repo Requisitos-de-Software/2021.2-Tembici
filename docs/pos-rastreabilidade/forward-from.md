@@ -10,12 +10,13 @@
 | 1.3 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 | 1.4 | 11/04/2022 | Associação de novos requisitos com artefatos | João Victor |
 | 1.5 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
+| 1.6 | 24/04/2022 | Revisão | Lívia Rodrigues Reis |
 
 
 *Tabela 1: versionamento*
 
 ## Introdução
-<div align="justify">&emsp;&emsp; O Forward-From é um framework que visa vincular os requisitos levantados e os meios que foram levantados no proejeto assim melhorando sistematicamente sua rastreabilidade. </div>
+<div align="justify">&emsp;&emsp; O Forward-From é um framework que visa vincular os requisitos levantados e os meios que foram levantados no projeto assim melhorando sistematicamente sua rastreabilidade. </div>
 
 ## Metodologia
 <div align="justify">&emsp;&emsp; Os requisitos são vinculados a artefatos criados durante o ciclo de vida de desenvolvimento de sistema, no momento da pós-rastreabilidade. A fim de verificar a pós-rastreabilidade entre os requisitos, elementos de impementação, arquitetura e desenho utilizamos o Forward-From. A implementação dessa rastreabilidade ocorre com a utilização de links entre os requisitos e as fontes que implementam estes. O artefato foi feito através de reunião virtual pelos integrantes do grupo João Victor e Lívia Rodrigues.</div>
