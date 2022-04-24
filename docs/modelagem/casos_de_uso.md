@@ -13,6 +13,8 @@
 
 *Tabela 1: Versionamento*
 
+<div id="introducao"></div>
+
 ## Introdução
 <p align="justify">&emsp;&emsp;Também chamados de diagramas comportamentais, na notação da UML, os casos de uso são usados para descrever um conjunto de ações (uses cases - casos de uso) que um sistema ou um conjunto de sistemas (subject - sujeito) deve desempenhar em colaboração com um ou mais indivíduos externos ao sistema (actors - atores). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.</p>
 
@@ -34,7 +36,11 @@
 
 <p align="justify">&emsp;&emsp;Nos diagramas abaixo uma seta include representa que a ação de origem sempre tem como consequência a ação destino. Já a seta extends representa que a ação origem ás vezes desencadeia a ação destino.</p>
 
+
 ## Casos de Uso e Especificações
+
+<div id="cadastro"></div>
+
 ### 1 - Caso de Uso: [Fazer cadastro](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-usuario)
 ![Fazer Cadastro](../assets/modelagem/casos-de-uso/cadastro.png)
 *Imagem 1: Diagrama Fazer Cadastro*
@@ -55,6 +61,8 @@
 | 10  | Rastreabilidade       | RF01                                                                                       |
 
 *Tabela 2: Descrição do Diagrama Fazer Cadastro*
+
+<div id="login"></div>
 
 ### 2 - Caso de Uso: [Fazer login](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#logar) 
 ![Fazer Login](../assets/modelagem/casos-de-uso/login.png)
@@ -78,6 +86,8 @@
 
 *Tabela 3: Descrição do Diagrama Fazer Login*
 
+<div id="assinar-plano"></div>
+
 ### 3 - Caso de Uso: [Assinar plano](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#plano)
 ![Assinar Plano](../assets/modelagem/casos-de-uso/planos_pagamento.png)
 
@@ -99,6 +109,8 @@
 | 10  | Rastreabilidade       | RF06, RF07, RF22                                                                                                                                  |
 
 *Tabela 4: Descrição do Diagrama Assinar Plano*
+
+<div id="visualizar-mapa"></div>
 
 ### 4 - Caso de Uso: Ver mapa e localização atual do usuário e com as estações
 ![Ver Mapa](../assets/modelagem/casos-de-uso/ver_mapa.png)
@@ -122,6 +134,8 @@
 
 *Tabela 5: Descrição do Diagrama Ver Mapa*
 
+<div id="iniciar-viagem"></div>
+
 ### 5 - Caso de Uso: [Realizar viagem](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#começar) e devolução
 ![Viagem](../assets/modelagem/casos-de-uso/realizar_viagem.png)
 
@@ -144,6 +158,8 @@
 
 *Tabela 6: Descrição do Diagrama Realizar Viagem*
 
+<div id="aba-ajuda"></div>
+
 ### 6 - Caso de Uso: Aba ajuda
 ![Aba Ajuda](../assets/modelagem/casos-de-uso/aba_ajuda.png)
 
@@ -165,6 +181,8 @@
 | 10  | Rastreabilidade       |                                                                                                                                      |
 
 *Tabela 7: Descrição do Diagrama Aba ajuda*
+
+<div id="historico"></div>
 
 ### 7 - Caso de Uso: [Visualizar histórico de viagem](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#consultar-historico)
 ![Aba Viagem](../assets/modelagem/casos-de-uso/aba_viagem.png)
