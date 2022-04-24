@@ -3,10 +3,10 @@
 
 | Versão | Data | Modificação | Autor |
 |-|-|-|-|
-| 1.0 | 15/02/2022 | Abertura do documento de brainstorm | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.1 | 15/02/2022 | Adição da introdução ao documento | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.2 | 17/02/2022 | Adição dos questionamentos | Gabriel Sabanai Trindade e Luiz Henrique |
-| 1.3 | 19/02/2022 | Adição dos requisitos levantados | Gabriel Sabanai Trindade e Luiz Henrique |
+| 1.0 | 15/02/2022 | Abertura do documento de brainstorm | Gabriel Sabanai, Luiz Henrique |
+| 1.1 | 15/02/2022 | Adição da introdução ao documento | Gabriel Sabanai, Luiz Henrique |
+| 1.2 | 17/02/2022 | Adição dos questionamentos | Gabriel Sabanai, Luiz Henrique |
+| 1.3 | 19/02/2022 | Adição dos requisitos levantados | Gabriel Sabanai, Luiz Henrique |
 | 1.4 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 
 *Tabela 1: versionamento*
@@ -129,7 +129,7 @@ Requisitos levantandos:
 | <p id="BS15">BS15</p> | O aplicativo pode possuir uma seção fomentando os pontos positivos de se utilizar as bicicletas no dia-a-dia, como melhorar a saúde, ser menos poluente e ser mais barato quando comparados a outros meios de locomoção  | Requisito Não Funcional |
 | <p id="BS16">BS16</p> | O aplicativo pode possuir uma função de bloquear um usuário de alugar bicicletas dado um certo número de infrações  | Requisito Não Funcional |
 
-*Tabela 1: Tabela de requisitos levantados com o brainstorm*
+*Tabela 2: Tabela de requisitos levantados com o brainstorm*
 
 ## Referências
 

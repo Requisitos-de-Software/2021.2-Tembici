@@ -10,6 +10,7 @@
 | 1.4 | 04/03/2022 | Adição revisor | Luiz Henrique |
 | 1.5 | 09/04/2022 | Padronização de Legendas e Metodologias | Victor Eduardo |
 | 2.0 | 11/04/2022 | Adição de algumas rastreabilidades dos artefatos | Paulo Henrique |
+| 2.1 | 20/04/2022 | Adicionando novos requisitos | Luiz Henrique |
 
 *Tabela 1: Versionamento*
 
@@ -178,7 +179,7 @@
 | 7   | Cenários Principais   | Usuário conseguir acessar a aba ajuda para descobrir como o aplicativo funciona, cessar dúvidas sobre a conta, [planos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#planos-disponiveis), [pagamentos](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#realizar-pagamento), desbloqueio/[devolução](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#devolver-bicicleta) e viagens                                                                                                                                                              |
 | 8   | Cenários alternativos | Existe a opção do chat e falar com um atendente de acordo com a região escolhida pelo usuário                                        |
 | 9   | Cenários de exceção   | Usuário não ter feito login                                                                                                          |
-| 10  | Rastreabilidade       |                                                                                                                                      |
+| 10  | Rastreabilidade       | RF27, RF28 |
 
 *Tabela 7: Descrição do Diagrama Aba ajuda*
 
