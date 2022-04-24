@@ -39,6 +39,9 @@
 <p align="justify">&emsp;&emsp;Os casos de uso abaixo foram feitos pelo integrante do grupo João Victor, após levantar os cenários possíveis no app. Para cada cenário é feita uma tabela igual a citada acima com preenchida de acordo com o cenário.</p>
 
 ## Resultados
+
+<div id="cadastro"></div>
+
 ### C01 - [Cadastrar usuário](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-usuario) por email
 | Título | Cadastrar usuário por email |
 | -- | -- |
@@ -51,6 +54,8 @@
 | Exceção | Email inválido<br>Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 2: Descrição do Cenário Cadastrar usuário por email*
+
+<div id="login"></div>
 
 ### C02 - [Acessar a conta](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#logar)
 | Título | Acessar a conta |
@@ -65,6 +70,8 @@
 
 *Tabela 3: Descrição do Cenário Acessar a conta*
 
+<div id="sair"></div>
+
 ### C03 - Sair da Conta
 | Título | Sair da Conta |
 | -- | -- |
@@ -77,6 +84,8 @@
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 4: Descrição do Cenário Sair da Conta*
+
+<div id="ajuda"></div>
 
 ### C04 - Escolher Ajuda
 | Título | Escolher Ajuda |
@@ -91,6 +100,8 @@
 
 *Tabela 5: Descrição do Cenário Escolher Ajuda*
 
+<div id="escolher-planos"></div>
+
 ### C05 - Escolher Planos e Pagamento
 | Título | Escolher Planos e Pagamento |
 | -- | -- |
@@ -103,6 +114,8 @@
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 6: Descrição do Cenário Escolher Planos e Pagamento*
+
+<div id="assinar-planos"></div>
 
 ### C06 - [Assinar Plano](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#assinar)
 | Título | Assinar Plano |
@@ -117,6 +130,8 @@
 
 *Tabela 7: Descrição do Cenário Assinar Plano*
 
+<div id="bicicleta-disponivel"></div>
+
 ### C07 -  Vizualizar [Bicicletas Disponíveis](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#consultar-bicicleta)
 | Título |  Vizualizar Bicicletas Disponíveis |
 | -- | -- |
@@ -129,6 +144,8 @@
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 8: Descrição do Cenário Vizualizar Bicicletas Disponíveis*
+
+<div id="vagas-disponivel"></div>
 
 ### C08 -  Vizualizar Vagas Disponíveis
 | Título |  Vizualizar [Vagas Disponíveis](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#cadastrar-vagas) |
@@ -143,6 +160,8 @@
 
 *Tabela 9: Descrição do Cenário Vizualizar Vagas Disponíveis*
 
+<div id="informaçao-estaçao"></div>
+
 ### C09 -  Vizualizar Informações de uma [Estação](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#estacao)
 | Título |  Vizualizar Informações de uma Estação |
 | -- | -- |
@@ -155,6 +174,8 @@
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 10: Descrição do Cenário Vizualizar Informações de uma Estação*
+
+<div id="historico-viagens"></div>
 
 ### C10 -  Vizualizar [Histórico de Viagens](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#consultar-historico)
 | Título |  Vizualizar Histórico de Viagens |
@@ -169,6 +190,8 @@
 
 *Tabela 11: Descrição do Cenário Vizualizar Histórico de Viagens*
 
+<div id="desbloquear-bicicleta"></div>
+
 ### C11 - [Desbloquear Bicicleta](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#alugar) por [QR Code](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#qr-code)
 | Título | Desbloquear Bicicleta por QR Code |
 | -- | -- |
@@ -181,6 +204,8 @@
 | Exceção | Usuário fechar aplicativo antes de terminar a ação<br>Internet parar de funcionar durante a ação |
 
 *Tabela 12: Descrição do Cenário Desbloquear Bicicleta por QR Code*
+
+<div id="codigo-desbloqueio"></div>
 
 ### C12 - Desbloquear Bicicleta por [código](https://requisitos-de-software.github.io/2021.2-Tembici/modelagem/lexicos/#gerar-codigo) de acesso
 | Título | Desbloquear Bicicleta por código de acesso |
