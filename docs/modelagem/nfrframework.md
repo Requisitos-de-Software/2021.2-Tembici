@@ -92,3 +92,5 @@ Os rótulos utilizados foram:
 
 ## Referências 
 - <p>SILVA, Reinaldo Antônio da. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Universidade Federal de Pernambuco, Recife, 2019. 2.4 - NFR Framework. Acesso em 01 de Março de 2022.</p>
+
+- <p>PARADKAR, Mastering Non-Functional Requirements. Universidade Federal de Pernambuco, Recife, 2017. Acesso em 20 de Março de 2022.</p>
