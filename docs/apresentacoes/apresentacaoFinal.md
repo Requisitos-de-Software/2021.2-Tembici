@@ -5,8 +5,8 @@
 | Versão | Data | Modificação | Autor |
 |-|-|:-:|:-:|
 | 1.0 | 12/04 | Gravação | Luiz Henrique, Livia Rodrigues, Paulo Henrique, Victor Eduardo, João Victor |
-| 1.1 | 19/04 | Edição apresentação | Victor Eduardo |
-| 1.2 | 19/03 | Adição da apresentação | Luiz Henrique Fernandes Zamprogno |
+| 1.1 | 19/04 | Edição apresentação | Luiz Henrique |
+| 1.2 | 19/03 | Adição da apresentação | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
@@ -16,7 +16,7 @@
 
 ## Apresentação
 
-[![Apresentação Final](../assets/apresentacoes/APF.jpg)](https://www.youtube.com)
+[![Apresentação Final](../assets/apresentacoes/APF.jpg)](https://www.youtube.com/watch?v=962oXGn2Yw0)
 
 *Imagem 1: Apresentação Final thumbnail*
 

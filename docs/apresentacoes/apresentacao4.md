@@ -6,7 +6,7 @@
 |-|-|:-:|:-:|
 | 1.0 | 07/03 | Gravação | Luiz Henrique, Livia Rodrigues, Paulo Henrique, Victor Eduardo, Gabriel Sabanai, João Victor |
 | 1.1 | 088/03 | Edição apresentação | Livia Rodrigues |
-| 1.2 | 09/03 | Adição da apresentação 4 | Luiz Henrique Fernandes Zamprogno |
+| 1.2 | 09/03 | Adição da apresentação 4 | Luiz Henrique |
 
 *Tabela 1: versionamento*
 
